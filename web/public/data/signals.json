@@ -1,268 +1,244 @@
 {
-  "generated_at": "2026-02-15T02:55:31.402321+01:00",
   "trends": [
     {
-      "id": "https://github.com/alibaba/zvec",
-      "title": "[🔥 HOT] alibaba / zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "url": "https://github.com/alibaba/zvec",
       "source": "COMBINED",
-      "score": 42.073762519093265,
-      "summary": "Alibaba introduces **zvec**, a high-performance vector similarity search library written in Go that leverages HNSW algorithms to accelerate AI and recommendation workloads.",
+      "title": "[🔥 HOT] Zvec: A lightweight, fast, in-process vector database",
+      "description": "Hacker News submission with 76 points and 14 comments.",
+      "url": "https://github.com/alibaba/zvec",
+      "score": 60.258813561408886,
+      "timestamp": "2026-02-15T03:20:16.661Z",
       "metadata": {
-        "stars": "1,283"
-      },
-      "timestamp": "2026-02-15T02:55:06.851742+01:00"
+        "points": 76,
+        "comments": 14
+      }
     },
     {
-      "id": "https://github.com/minio/minio",
-      "title": "minio / minio",
-      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
-      "url": "https://github.com/minio/minio",
-      "source": "github_trends",
-      "score": 22.11671202143099,
-      "summary": "",
-      "metadata": {
-        "stars": "60,280"
-      },
-      "timestamp": "2026-02-15T02:55:06.85174+01:00"
-    },
-    {
-      "id": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-      "title": "An AI agent published a hit piece on me – more things have happened",
-      "description": "",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-      "source": "hackernews",
-      "score": 20.37642402845657,
-      "summary": "",
-      "metadata": {
-        "raw_score": "645 points"
-      },
-      "timestamp": "2026-02-15T02:55:07.24353+01:00"
-    },
-    {
-      "id": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "description": "",
-      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "source": "hackernews",
-      "score": 18.28613021731637,
-      "summary": "",
-      "metadata": {
-        "raw_score": "383 points"
-      },
-      "timestamp": "2026-02-15T02:55:07.243525+01:00"
-    },
-    {
-      "id": "https://github.com/tambo-ai/tambo",
-      "title": "tambo-ai / tambo",
-      "description": "Generative UI SDK for React",
-      "url": "https://github.com/tambo-ai/tambo",
-      "source": "github_trends",
-      "score": 18.21248103148443,
-      "summary": "",
-      "metadata": {
-        "stars": "9,631"
-      },
-      "timestamp": "2026-02-15T02:55:06.851739+01:00"
-    },
-    {
-      "id": "https://github.com/letta-ai/letta-code",
-      "title": "letta-ai / letta-code",
-      "description": "The memory-first coding agent",
-      "url": "https://github.com/letta-ai/letta-code",
-      "source": "github_trends",
-      "score": 17.729805021188003,
-      "summary": "",
-      "metadata": {
-        "stars": "1,219"
-      },
-      "timestamp": "2026-02-15T02:55:06.851742+01:00"
-    },
-    {
-      "id": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "title": "uBlock filter list to hide all YouTube Shorts",
-      "description": "",
-      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "source": "hackernews",
-      "score": 17.22433631948881,
-      "summary": "",
-      "metadata": {
-        "raw_score": "568 points"
-      },
-      "timestamp": "2026-02-15T02:55:07.243525+01:00"
-    },
-    {
-      "id": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "description": "",
-      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "source": "hackernews",
-      "score": 17.224336290790138,
-      "summary": "",
-      "metadata": {
-        "raw_score": "334 points"
-      },
-      "timestamp": "2026-02-15T02:55:07.243525+01:00"
-    },
-    {
-      "id": "https://ooh.directory/",
-      "title": "Ooh.directory: a place to find good blogs that interest you",
-      "description": "",
-      "url": "https://ooh.directory/",
-      "source": "hackernews",
-      "score": 17.224336210420073,
-      "summary": "",
-      "metadata": {
-        "raw_score": "433 points"
-      },
-      "timestamp": "2026-02-15T02:55:07.243527+01:00"
-    },
-    {
-      "id": "https://www.vim.org/vim-9.2-released.php",
-      "title": "Vim 9.2",
-      "description": "",
-      "url": "https://www.vim.org/vim-9.2-released.php",
-      "source": "hackernews",
-      "score": 17.224335492884354,
-      "summary": "",
-      "metadata": {
-        "raw_score": "338 points"
-      },
-      "timestamp": "2026-02-15T02:55:07.243531+01:00"
-    },
-    {
-      "id": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
-      "description": "",
-      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-      "source": "hackernews",
-      "score": 17.16014215471319,
-      "summary": "",
-      "metadata": {
-        "raw_score": "234 points"
-      },
-      "timestamp": "2026-02-15T02:55:07.243526+01:00"
-    },
-    {
-      "id": "https://www.digitalocean.com/blog/the-container-paradox-k8s-databases",
-      "title": "The Container paradox: Why the Inference Cloud Demands a “Decoupled” Database",
-      "description": "\u003cp\u003eKubernetes has won the \u003cem\u003ecloud-native war\u003c/em\u003e for a reason: it’s one of, if not \u003cem\u003ethe\u003c/em\u003e most powerful tool we have for scaling applications and ensuring they stay up when unexpected thing...",
-      "url": "https://www.digitalocean.com/blog/the-container-paradox-k8s-databases",
       "source": "tech_blogs",
-      "score": 17.074452419356025,
-      "summary": "",
-      "metadata": {
-        "author": "DigitalOcean Blog",
-        "category": "Cloud"
-      },
-      "timestamp": "2026-02-10T14:00:00.022Z"
-    },
-    {
-      "id": "https://github.com/Zipstack/unstract",
-      "title": "Zipstack / unstract",
-      "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
-      "url": "https://github.com/Zipstack/unstract",
-      "source": "github_trends",
-      "score": 16.436454514211345,
-      "summary": "",
-      "metadata": {
-        "stars": "6,321"
-      },
-      "timestamp": "2026-02-15T02:55:06.851742+01:00"
-    },
-    {
-      "id": "https://github.com/rowboatlabs/rowboat",
-      "title": "rowboatlabs / rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "source": "github_trends",
-      "score": 15.49182665813452,
-      "summary": "",
-      "metadata": {
-        "stars": "6,092"
-      },
-      "timestamp": "2026-02-15T02:55:06.85174+01:00"
-    },
-    {
-      "id": "https://github.com/SynkraAI/aios-core",
-      "title": "SynkraAI / aios-core",
-      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "url": "https://github.com/SynkraAI/aios-core",
-      "source": "github_trends",
-      "score": 15.325402105410182,
-      "summary": "",
-      "metadata": {
-        "stars": "613"
-      },
-      "timestamp": "2026-02-15T02:55:06.85174+01:00"
-    },
-    {
-      "id": "https://www.tigerdata.com/blog/six-signs-postgres-tuning-wont-fix-performance-problems",
-      "title": "Six Signs That Postgres Tuning Won't Fix Your Performance Problems",
-      "description": "When Postgres tuning won't fix performance: recognize the six characteristics of time-series workloads that need TimescaleDB's purpose-built architecture.",
-      "url": "https://www.tigerdata.com/blog/six-signs-postgres-tuning-wont-fix-performance-problems",
-      "source": "tech_blogs",
-      "score": 14.670933473513827,
-      "summary": "",
-      "metadata": {
-        "author": "Timescale Blog",
-        "category": "Database"
-      },
-      "timestamp": "2026-02-12T21:26:14Z"
-    },
-    {
-      "id": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
       "title": "Spotlight on SIG Architecture: API Governance",
-      "description": "\u003cp\u003e\u003cem\u003eThis is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering \u003ca href=\"https://github.com/kubernetes/community/blob/master/si...",
+      "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
       "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "source": "tech_blogs",
-      "score": 14.536837219424338,
-      "summary": "",
+      "score": 30.01316440388904,
+      "timestamp": "2026-02-12T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
-        "category": "Kubernetes"
-      },
-      "timestamp": "2026-02-12T00:00:00Z"
+        "category": "INFRA"
+      }
     },
     {
-      "id": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "title": "ChromeDevTools / chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "github_trends",
-      "score": 14.352212450067757,
-      "summary": "",
+      "source": "hackernews",
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "description": "Hacker News submission with 450 points and 118 comments.",
+      "url": "https://ooh.directory/",
+      "score": 27.22151049195202,
+      "timestamp": "2026-02-15T03:20:16.661Z",
       "metadata": {
-        "stars": "25,100"
-      },
-      "timestamp": "2026-02-15T02:55:06.85174+01:00"
+        "points": 450,
+        "comments": 118
+      }
     },
     {
-      "id": "https://github.com/ruvnet/wifi-densepose",
-      "title": "ruvnet / wifi-densepose",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "source": "github_trends",
-      "score": 14.352210986364295,
-      "summary": "",
+      "source": "tech_blogs",
+      "title": "Introducing Node Readiness Controller",
+      "description": "<img style=\"float: right; display: inline-block; margin-left: 2em; max-width: 15em;\" src=\"./node-readiness-controller-logo.svg\" alt=\"Logo for node readiness controller\" />\n<p>In the standard Kubernetes model, a node’s suitability for workloads hinges on a single binary &quot;Ready&quot; condition. H",
+      "url": "https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/",
+      "score": 20.001209477098904,
+      "timestamp": "2026-02-03T02:00:00.000Z",
       "metadata": {
-        "stars": "6,171"
-      },
-      "timestamp": "2026-02-15T02:55:06.851742+01:00"
+        "author": "Kubernetes Blog",
+        "category": "INFRA"
+      }
     },
     {
-      "id": "https://github.com/ruby/ruby",
-      "title": "ruby / ruby",
-      "description": "The Ruby Programming Language",
-      "url": "https://github.com/ruby/ruby",
-      "source": "github_trends",
-      "score": 14.352208209313318,
-      "summary": "",
+      "source": "hackernews",
+      "title": "A header-only C vector database library",
+      "description": "Hacker News submission with 65 points and 24 comments.",
+      "url": "https://github.com/abdimoallim/vdb",
+      "score": 19.477592727907524,
+      "timestamp": "2026-02-15T03:20:16.661Z",
       "metadata": {
-        "stars": "23,372"
-      },
-      "timestamp": "2026-02-15T02:55:06.851743+01:00"
+        "points": 65,
+        "comments": 24
+      }
+    },
+    {
+      "source": "hackernews",
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "description": "Hacker News submission with 418 points and 272 comments.",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "score": 19.22151049195202,
+      "timestamp": "2026-02-15T03:20:16.661Z",
+      "metadata": {
+        "points": 418,
+        "comments": 272
+      }
+    },
+    {
+      "source": "hackernews",
+      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+      "description": "Hacker News submission with 277 points and 142 comments.",
+      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+      "score": 19.22151049195202,
+      "timestamp": "2026-02-15T03:20:16.661Z",
+      "metadata": {
+        "points": 277,
+        "comments": 142
+      }
+    },
+    {
+      "source": "hackernews",
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "description": "Hacker News submission with 350 points and 177 comments.",
+      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "score": 19.22151049195202,
+      "timestamp": "2026-02-15T03:20:16.661Z",
+      "metadata": {
+        "points": 350,
+        "comments": 177
+      }
+    },
+    {
+      "source": "hackernews",
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "description": "Hacker News submission with 634 points and 207 comments.",
+      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "score": 17.22151049195202,
+      "timestamp": "2026-02-15T03:20:16.661Z",
+      "metadata": {
+        "points": 634,
+        "comments": 207
+      }
+    },
+    {
+      "source": "hackernews",
+      "title": "Vim 9.2",
+      "description": "Hacker News submission with 349 points and 145 comments.",
+      "url": "https://www.vim.org/vim-9.2-released.php",
+      "score": 17.22151049195202,
+      "timestamp": "2026-02-15T03:20:16.661Z",
+      "metadata": {
+        "points": 349,
+        "comments": 145
+      }
+    },
+    {
+      "source": "hackernews",
+      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
+      "description": "Hacker News submission with 97 points and 24 comments.",
+      "url": "https://newpipe.net/",
+      "score": 16.681946070877384,
+      "timestamp": "2026-02-15T03:20:16.661Z",
+      "metadata": {
+        "points": 97,
+        "comments": 24
+      }
+    },
+    {
+      "source": "tech_blogs",
+      "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
+      "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
+      "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
+      "score": 15.044446863333997,
+      "timestamp": "2026-02-13T14:00:00.000Z",
+      "metadata": {
+        "author": "Cloudflare Blog",
+        "category": "INFRA"
+      }
+    },
+    {
+      "source": "tech_blogs",
+      "title": "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)",
+      "description": "Here are the notable launches and updates from last week that can help you build, scale, and innovate on AWS. Last week’s launches Here are the launches that got my attention this week. Let’s start with news related to compute and networking infrastructure: Introducing Amazon EC2 C8id, M8id, and R8i",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-6-in-amazon-bedrock-aws-builder-id-sign-in-with-apple-and-more-february-9-2026/",
+      "score": 15.005268084222333,
+      "timestamp": "2026-02-09T20:42:04.000Z",
+      "metadata": {
+        "author": "AWS News",
+        "category": "CLOUD"
+      }
+    },
+    {
+      "source": "tech_blogs",
+      "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
+      "description": "<p><strong>In March 2026, Kubernetes will retire Ingress NGINX, a piece of critical infrastructure for about half of cloud native environments.</strong> The retirement of Ingress NGINX was <a href=\"https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/\">announced</a> for March 2026, after y",
+      "url": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
+      "score": 15.000644411553816,
+      "timestamp": "2026-01-29T00:00:00.000Z",
+      "metadata": {
+        "author": "Kubernetes Blog",
+        "category": "INFRA"
+      }
+    },
+    {
+      "source": "hackernews",
+      "title": "YouTube as Storage",
+      "description": "Hacker News submission with 172 points and 127 comments.",
+      "url": "https://github.com/PulseBeat02/yt-media-storage",
+      "score": 13.848399218462989,
+      "timestamp": "2026-02-15T03:20:16.661Z",
+      "metadata": {
+        "points": 172,
+        "comments": 127
+      }
+    },
+    {
+      "source": "hackernews",
+      "title": "Discord: A case study in performance optimization",
+      "description": "Hacker News submission with 53 points and 34 comments.",
+      "url": "https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance",
+      "score": 13.650960224293827,
+      "timestamp": "2026-02-15T03:20:16.661Z",
+      "metadata": {
+        "points": 53,
+        "comments": 34
+      }
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
+      "description": "Hacker News submission with 196 points and 57 comments.",
+      "url": "https://github.com/datavorous/sameshi",
+      "score": 13.501664225690385,
+      "timestamp": "2026-02-15T03:20:16.661Z",
+      "metadata": {
+        "points": 196,
+        "comments": 57
+      }
+    },
+    {
+      "source": "tech_blogs",
+      "title": "Improve global upload performance with R2 Local Uploads",
+      "description": "Local Uploads on R2 reduces request duration for uploads by up to 75%. It writes object data to a nearby location and asynchronously copies it to your bucket, all while data is available immediately.",
+      "url": "https://blog.cloudflare.com/r2-local-uploads/",
+      "score": 12.001304603065284,
+      "timestamp": "2026-02-03T14:00:00.000Z",
+      "metadata": {
+        "author": "Cloudflare Blog",
+        "category": "INFRA"
+      }
+    },
+    {
+      "source": "tech_blogs",
+      "title": "Google’s AI advantage: why crawler separation is the only path to a fair Internet",
+      "description": "Google's dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI.",
+      "url": "https://blog.cloudflare.com/uk-google-ai-crawler-policy/",
+      "score": 12.00077779094246,
+      "timestamp": "2026-01-30T17:01:04.000Z",
+      "metadata": {
+        "author": "Cloudflare Blog",
+        "category": "INFRA"
+      }
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: How to get started with robotics as a hobbyist?",
+      "description": "Hacker News submission with 169 points and 74 comments.",
+      "url": "https://news.ycombinator.com/item?id=46934622",
+      "score": 11.641741092559563,
+      "timestamp": "2026-02-15T03:20:16.661Z",
+      "metadata": {
+        "points": 169,
+        "comments": 74
+      }
     }
   ]
 }
