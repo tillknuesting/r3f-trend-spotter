@@ -1,265 +1,264 @@
 {
-  "generated_at": "2026-02-15T12:00:37.770Z",
   "trends": [
     {
+      "id": "https://github.com/alibaba/zvec",
       "source": "COMBINED",
-      "title": "[🔥 HOT] Zvec: A lightweight, fast, in-process vector database",
-      "description": "Hacker News submission with 158 points and 26 comments.",
+      "title": "[🔥 HOT] alibaba / zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
-      "score": 68.72643482867113,
-      "timestamp": "2026-02-15T12:00:29.031Z",
+      "score": 86.03659115668684,
+      "timestamp": "2026-02-15T16:20:21.243Z",
       "metadata": {
-        "points": 158,
-        "comments": 26
-      },
-      "id": "aHR0cHM6Ly9naXRo"
+        "stars": 729,
+        "language": "C++"
+      }
     },
     {
+      "id": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
       "source": "tech_blogs",
       "title": "Spotlight on SIG Architecture: API Governance",
       "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
       "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "score": 30.010872651384545,
+      "score": 30.009952388669454,
       "timestamp": "2026-02-12T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
         "category": "INFRA"
-      },
-      "id": "aHR0cHM6Ly9rdWJl"
+      }
     },
     {
+      "id": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
       "source": "hackernews",
-      "title": "Ooh.directory: a place to find good blogs that interest you",
-      "description": "Hacker News submission with 526 points and 132 comments.",
-      "url": "https://ooh.directory/",
-      "score": 27.21689312033493,
-      "timestamp": "2026-02-15T12:00:29.031Z",
+      "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
+      "description": "Hacker News submission with 285 points and 168 comments.",
+      "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+      "score": 27.21237228657239,
+      "timestamp": "2026-02-15T16:20:20.816Z",
       "metadata": {
-        "points": 526,
-        "comments": 132
-      },
-      "id": "aHR0cHM6Ly9vb2gu"
+        "points": 285,
+        "comments": 168
+      }
     },
     {
-      "source": "hackernews",
-      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
-      "description": "Hacker News submission with 275 points and 84 comments.",
-      "url": "https://newpipe.net/",
-      "score": 27.21689312033493,
-      "timestamp": "2026-02-15T12:00:29.031Z",
-      "metadata": {
-        "points": 275,
-        "comments": 84
-      },
-      "id": "aHR0cHM6Ly9uZXdw"
-    },
-    {
+      "id": "https://github.com/steipete/gogcli",
       "source": "github_trends",
       "title": "steipete / gogcli",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "url": "https://github.com/steipete/gogcli",
-      "score": 26.35042664843722,
-      "timestamp": "2026-02-15T12:00:29.872Z",
+      "score": 26.345173989142502,
+      "timestamp": "2026-02-15T16:20:21.243Z",
       "metadata": {
         "stars": 639,
         "language": "Go"
-      },
-      "id": "aHR0cHM6Ly9naXRo"
+      }
     },
     {
+      "id": "https://github.com/nautechsystems/nautilus_trader",
       "source": "github_trends",
       "title": "nautechsystems / nautilus_trader",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "url": "https://github.com/nautechsystems/nautilus_trader",
-      "score": 20.86102559890623,
-      "timestamp": "2026-02-15T12:00:29.872Z",
+      "score": 20.86071043934855,
+      "timestamp": "2026-02-15T16:20:21.243Z",
       "metadata": {
         "stars": 30,
         "language": "Rust"
-      },
-      "id": "aHR0cHM6Ly9naXRo"
+      }
     },
     {
-      "source": "tech_blogs",
-      "title": "Introducing Node Readiness Controller",
-      "description": "<img style=\"float: right; display: inline-block; margin-left: 2em; max-width: 15em;\" src=\"./node-readiness-controller-logo.svg\" alt=\"Logo for node readiness controller\" />\n<p>In the standard Kubernetes model, a node’s suitability for workloads hinges on a single binary &quot;Ready&quot; condition. H",
-      "url": "https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/",
-      "score": 20.001147287824587,
-      "timestamp": "2026-02-03T02:00:00.000Z",
-      "metadata": {
-        "author": "Kubernetes Blog",
-        "category": "INFRA"
-      },
-      "id": "aHR0cHM6Ly9rdWJl"
-    },
-    {
+      "id": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
       "source": "hackernews",
       "title": "I love the work of the ArchWiki maintainers",
-      "description": "Hacker News submission with 506 points and 90 comments.",
+      "description": "Hacker News submission with 707 points and 120 comments.",
       "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "score": 19.21689312033493,
-      "timestamp": "2026-02-15T12:00:29.031Z",
+      "score": 19.21237228657239,
+      "timestamp": "2026-02-15T16:20:20.816Z",
       "metadata": {
-        "points": 506,
-        "comments": 90
-      },
-      "id": "aHR0cHM6Ly9rN3Iu"
+        "points": 707,
+        "comments": 120
+      }
     },
     {
+      "id": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
       "source": "hackernews",
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "description": "Hacker News submission with 475 points and 214 comments.",
+      "description": "Hacker News submission with 532 points and 229 comments.",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 19.21689312033493,
-      "timestamp": "2026-02-15T12:00:29.031Z",
+      "score": 19.21237228657239,
+      "timestamp": "2026-02-15T16:20:20.816Z",
       "metadata": {
-        "points": 475,
-        "comments": 214
-      },
-      "id": "aHR0cHM6Ly9haW1p"
+        "points": 532,
+        "comments": 229
+      }
     },
     {
+      "id": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
       "source": "hackernews",
       "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "description": "Hacker News submission with 509 points and 310 comments.",
+      "description": "Hacker News submission with 534 points and 337 comments.",
       "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 19.21689312033493,
-      "timestamp": "2026-02-15T12:00:29.031Z",
+      "score": 19.21237228657239,
+      "timestamp": "2026-02-15T16:20:20.816Z",
       "metadata": {
-        "points": 509,
-        "comments": 310
-      },
-      "id": "aHR0cHM6Ly93d3cu"
+        "points": 534,
+        "comments": 337
+      }
     },
     {
+      "id": "https://marler8997.github.io/blog/fixed-windows/",
+      "source": "hackernews",
+      "title": "I Fixed Windows Native Development",
+      "description": "Hacker News submission with 306 points and 149 comments.",
+      "url": "https://marler8997.github.io/blog/fixed-windows/",
+      "score": 17.21237228657239,
+      "timestamp": "2026-02-15T16:20:20.816Z",
+      "metadata": {
+        "points": 306,
+        "comments": 149
+      }
+    },
+    {
+      "id": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
+      "source": "hackernews",
+      "title": "Instagram's URL Blackhole",
+      "description": "Hacker News submission with 264 points and 43 comments.",
+      "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
+      "score": 17.21237228657239,
+      "timestamp": "2026-02-15T16:20:20.816Z",
+      "metadata": {
+        "points": 264,
+        "comments": 43
+      }
+    },
+    {
+      "id": "https://github.com/i5heu/ublock-hide-yt-shorts/",
       "source": "hackernews",
       "title": "uBlock filter list to hide all YouTube Shorts",
-      "description": "Hacker News submission with 929 points and 277 comments.",
+      "description": "Hacker News submission with 1031 points and 306 comments.",
       "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 17.21689312033493,
-      "timestamp": "2026-02-15T12:00:29.031Z",
+      "score": 17.21237228657239,
+      "timestamp": "2026-02-15T16:20:20.816Z",
       "metadata": {
-        "points": 929,
-        "comments": 277
-      },
-      "id": "aHR0cHM6Ly9naXRo"
+        "points": 1031,
+        "comments": 306
+      }
     },
     {
+      "id": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
       "source": "hackernews",
       "title": "Breaking the spell of vibe coding",
-      "description": "Hacker News submission with 270 points and 209 comments.",
+      "description": "Hacker News submission with 352 points and 272 comments.",
       "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-      "score": 17.21689312033493,
-      "timestamp": "2026-02-15T12:00:29.031Z",
+      "score": 17.21237228657239,
+      "timestamp": "2026-02-15T16:20:20.816Z",
       "metadata": {
-        "points": 270,
-        "comments": 209
-      },
-      "id": "aHR0cHM6Ly93d3cu"
+        "points": 352,
+        "comments": 272
+      }
     },
     {
+      "id": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
       "source": "hackernews",
-      "title": "Descent, ported to the web",
-      "description": "Hacker News submission with 258 points and 50 comments.",
-      "url": "https://mrdoob.github.io/three-descent/",
-      "score": 17.21689312033493,
-      "timestamp": "2026-02-15T12:00:29.031Z",
+      "title": "OpenAI should build Slack",
+      "description": "Hacker News submission with 218 points and 261 comments.",
+      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+      "score": 17.00918863389112,
+      "timestamp": "2026-02-15T16:20:20.816Z",
       "metadata": {
-        "points": 258,
-        "comments": 50
-      },
-      "id": "aHR0cHM6Ly9tcmRv"
+        "points": 218,
+        "comments": 261
+      }
     },
     {
+      "id": "https://oat.ink/",
+      "source": "hackernews",
+      "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+      "description": "Hacker News submission with 240 points and 66 comments.",
+      "url": "https://oat.ink/",
+      "score": 16.52387739510949,
+      "timestamp": "2026-02-15T16:20:20.816Z",
+      "metadata": {
+        "points": 240,
+        "comments": 66
+      }
+    },
+    {
+      "id": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
+      "source": "hackernews",
+      "title": "AI is going to kill app subscriptions",
+      "description": "Hacker News submission with 65 points and 81 comments.",
+      "url": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
+      "score": 16.47521679450882,
+      "timestamp": "2026-02-15T16:20:20.816Z",
+      "metadata": {
+        "points": 65,
+        "comments": 81
+      }
+    },
+    {
+      "id": "https://github.com/rowboatlabs/rowboat",
+      "source": "github_trends",
+      "title": "rowboatlabs / rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 16.345173989142502,
+      "timestamp": "2026-02-15T16:20:21.243Z",
+      "metadata": {
+        "stars": 819,
+        "language": "TypeScript"
+      }
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw",
       "source": "github_trends",
       "title": "openclaw / openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 16.35042664843722,
-      "timestamp": "2026-02-15T12:00:29.872Z",
+      "score": 16.345173989142502,
+      "timestamp": "2026-02-15T16:20:21.243Z",
       "metadata": {
         "stars": 2758,
         "language": "TypeScript"
-      },
-      "id": "aHR0cHM6Ly9naXRo"
+      }
     },
     {
+      "id": "https://flashpointarchive.org",
+      "source": "hackernews",
+      "title": "Flashpoint Archive – Over 200k web games and animations preserved",
+      "description": "Hacker News submission with 232 points and 51 comments.",
+      "url": "https://flashpointarchive.org",
+      "score": 15.973081481939175,
+      "timestamp": "2026-02-15T16:20:20.816Z",
+      "metadata": {
+        "points": 232,
+        "comments": 51
+      }
+    },
+    {
+      "id": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
       "source": "tech_blogs",
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.031055184938975,
+      "score": 15.026583307005403,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
         "category": "INFRA"
-      },
-      "id": "aHR0cHM6Ly9ibG9n"
+      }
     },
     {
+      "id": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-6-in-amazon-bedrock-aws-builder-id-sign-in-with-apple-and-more-february-9-2026/",
       "source": "tech_blogs",
       "title": "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)",
       "description": "Here are the notable launches and updates from last week that can help you build, scale, and innovate on AWS. Last week’s launches Here are the launches that got my attention this week. Let’s start with news related to compute and networking infrastructure: Introducing Amazon EC2 C8id, M8id, and R8i",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-6-in-amazon-bedrock-aws-builder-id-sign-in-with-apple-and-more-february-9-2026/",
-      "score": 15.00468449086583,
+      "score": 15.004429797287619,
       "timestamp": "2026-02-09T20:42:04.000Z",
       "metadata": {
         "author": "AWS News",
         "category": "CLOUD"
-      },
-      "id": "aHR0cHM6Ly9hd3Mu"
-    },
-    {
-      "source": "tech_blogs",
-      "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
-      "description": "<p><strong>In March 2026, Kubernetes will retire Ingress NGINX, a piece of critical infrastructure for about half of cloud native environments.</strong> The retirement of Ingress NGINX was <a href=\"https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/\">announced</a> for March 2026, after y",
-      "url": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
-      "score": 15.000620776069013,
-      "timestamp": "2026-01-29T00:00:00.000Z",
-      "metadata": {
-        "author": "Kubernetes Blog",
-        "category": "INFRA"
-      },
-      "id": "aHR0cHM6Ly9rdWJl"
-    },
-    {
-      "source": "hackernews",
-      "title": "Instagram's URL Blackhole",
-      "description": "Hacker News submission with 212 points and 32 comments.",
-      "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-      "score": 14.59992536604402,
-      "timestamp": "2026-02-15T12:00:29.031Z",
-      "metadata": {
-        "points": 212,
-        "comments": 32
-      },
-      "id": "aHR0cHM6Ly9tZWRp"
-    },
-    {
-      "source": "hackernews",
-      "title": "OpenAI should build Slack",
-      "description": "Hacker News submission with 177 points and 199 comments.",
-      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-      "score": 14.18956032919713,
-      "timestamp": "2026-02-15T12:00:29.031Z",
-      "metadata": {
-        "points": 177,
-        "comments": 199
-      },
-      "id": "aHR0cHM6Ly93d3cu"
-    },
-    {
-      "source": "tech_blogs",
-      "title": "Improve global upload performance with R2 Local Uploads",
-      "description": "Local Uploads on R2 reduces request duration for uploads by up to 75%. It writes object data to a nearby location and asynchronously copies it to your bucket, all while data is available immediately.",
-      "url": "https://blog.cloudflare.com/r2-local-uploads/",
-      "score": 12.00123476182669,
-      "timestamp": "2026-02-03T14:00:00.000Z",
-      "metadata": {
-        "author": "Cloudflare Blog",
-        "category": "INFRA"
-      },
-      "id": "aHR0cHM6Ly9ibG9n"
+      }
     }
   ]
 }
