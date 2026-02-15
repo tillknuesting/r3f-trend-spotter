@@ -6,8 +6,8 @@
       "title": "[🔥 HOT] alibaba / zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
-      "score": 86.24075090359615,
-      "timestamp": "2026-02-15T16:50:19.927Z",
+      "score": 86.56792272772182,
+      "timestamp": "2026-02-15T17:00:25.824Z",
       "metadata": {
         "stars": 729,
         "language": "C++"
@@ -19,7 +19,7 @@
       "title": "Spotlight on SIG Architecture: API Governance",
       "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
       "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "score": 30.009854074699405,
+      "score": 30.009821493799418,
       "timestamp": "2026-02-12T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -30,13 +30,13 @@
       "id": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
       "source": "hackernews",
       "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
-      "description": "Hacker News submission with 333 points and 211 comments.",
+      "description": "Hacker News submission with 349 points and 221 comments.",
       "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
-      "score": 27.21022220508014,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 27.208274591950687,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
-        "points": 333,
-        "comments": 211
+        "points": 349,
+        "comments": 221
       }
     },
     {
@@ -45,8 +45,8 @@
       "title": "steipete / gogcli",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "url": "https://github.com/steipete/gogcli",
-      "score": 26.34522417104954,
-      "timestamp": "2026-02-15T16:50:19.927Z",
+      "score": 26.35832740179415,
+      "timestamp": "2026-02-15T17:00:25.824Z",
       "metadata": {
         "stars": 639,
         "language": "Go"
@@ -58,8 +58,8 @@
       "title": "nautechsystems / nautilus_trader",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "url": "https://github.com/nautechsystems/nautilus_trader",
-      "score": 20.86071345026297,
-      "timestamp": "2026-02-15T16:50:19.927Z",
+      "score": 20.86149964410765,
+      "timestamp": "2026-02-15T17:00:25.824Z",
       "metadata": {
         "stars": 30,
         "language": "Rust"
@@ -69,12 +69,12 @@
       "id": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
       "source": "hackernews",
       "title": "I love the work of the ArchWiki maintainers",
-      "description": "Hacker News submission with 727 points and 122 comments.",
+      "description": "Hacker News submission with 733 points and 122 comments.",
       "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "score": 19.21022220508014,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 19.208274591950687,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
-        "points": 727,
+        "points": 733,
         "comments": 122
       }
     },
@@ -82,12 +82,12 @@
       "id": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
       "source": "hackernews",
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "description": "Hacker News submission with 538 points and 231 comments.",
+      "description": "Hacker News submission with 540 points and 231 comments.",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 19.21022220508014,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 19.208274591950687,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
-        "points": 538,
+        "points": 540,
         "comments": 231
       }
     },
@@ -95,52 +95,52 @@
       "id": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
       "source": "hackernews",
       "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "description": "Hacker News submission with 536 points and 338 comments.",
+      "description": "Hacker News submission with 536 points and 339 comments.",
       "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 19.21022220508014,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 19.208274591950687,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
         "points": 536,
-        "comments": 338
+        "comments": 339
       }
     },
     {
       "id": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
       "source": "hackernews",
       "title": "OpenAI should build Slack",
-      "description": "Hacker News submission with 222 points and 269 comments.",
+      "description": "Hacker News submission with 225 points and 271 comments.",
       "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-      "score": 17.282677318111162,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 17.48744713275562,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
-        "points": 222,
-        "comments": 269
+        "points": 225,
+        "comments": 271
       }
     },
     {
       "id": "https://marler8997.github.io/blog/fixed-windows/",
       "source": "hackernews",
       "title": "I Fixed Windows Native Development",
-      "description": "Hacker News submission with 336 points and 172 comments.",
+      "description": "Hacker News submission with 346 points and 182 comments.",
       "url": "https://marler8997.github.io/blog/fixed-windows/",
-      "score": 17.21022220508014,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 17.208274591950687,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
-        "points": 336,
-        "comments": 172
+        "points": 346,
+        "comments": 182
       }
     },
     {
       "id": "https://oat.ink/",
       "source": "hackernews",
       "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
-      "description": "Hacker News submission with 258 points and 74 comments.",
+      "description": "Hacker News submission with 263 points and 75 comments.",
       "url": "https://oat.ink/",
-      "score": 17.21022220508014,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 17.208274591950687,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
-        "points": 258,
-        "comments": 74
+        "points": 263,
+        "comments": 75
       }
     },
     {
@@ -149,8 +149,8 @@
       "title": "Instagram's URL Blackhole",
       "description": "Hacker News submission with 270 points and 44 comments.",
       "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-      "score": 17.21022220508014,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 17.208274591950687,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
         "points": 270,
         "comments": 44
@@ -160,39 +160,39 @@
       "id": "https://github.com/i5heu/ublock-hide-yt-shorts/",
       "source": "hackernews",
       "title": "uBlock filter list to hide all YouTube Shorts",
-      "description": "Hacker News submission with 1037 points and 307 comments.",
+      "description": "Hacker News submission with 1038 points and 310 comments.",
       "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 17.21022220508014,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 17.208274591950687,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
-        "points": 1037,
-        "comments": 307
+        "points": 1038,
+        "comments": 310
       }
     },
     {
       "id": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
       "source": "hackernews",
       "title": "Breaking the spell of vibe coding",
-      "description": "Hacker News submission with 359 points and 287 comments.",
+      "description": "Hacker News submission with 361 points and 291 comments.",
       "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-      "score": 17.21022220508014,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 17.208274591950687,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
-        "points": 359,
-        "comments": 287
+        "points": 361,
+        "comments": 291
       }
     },
     {
       "id": "https://flashpointarchive.org",
       "source": "hackernews",
       "title": "Flashpoint Archive – Over 200k web games and animations preserved",
-      "description": "Hacker News submission with 239 points and 53 comments.",
+      "description": "Hacker News submission with 242 points and 54 comments.",
       "url": "https://flashpointarchive.org",
-      "score": 16.45297242805661,
-      "timestamp": "2026-02-15T16:50:18.986Z",
+      "score": 16.657609805008263,
+      "timestamp": "2026-02-15T17:00:20.777Z",
       "metadata": {
-        "points": 239,
-        "comments": 53
+        "points": 242,
+        "comments": 54
       }
     },
     {
@@ -201,8 +201,8 @@
       "title": "rowboatlabs / rowboat",
       "description": "Open-source AI coworker, with memory",
       "url": "https://github.com/rowboatlabs/rowboat",
-      "score": 16.34522417104954,
-      "timestamp": "2026-02-15T16:50:19.927Z",
+      "score": 16.35832740179415,
+      "timestamp": "2026-02-15T17:00:25.824Z",
       "metadata": {
         "stars": 819,
         "language": "TypeScript"
@@ -214,8 +214,8 @@
       "title": "openclaw / openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 16.34522417104954,
-      "timestamp": "2026-02-15T16:50:19.927Z",
+      "score": 16.35832740179415,
+      "timestamp": "2026-02-15T17:00:25.824Z",
       "metadata": {
         "stars": 2481,
         "language": "TypeScript"
@@ -227,7 +227,7 @@
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.026132571632091,
+      "score": 15.025984305819415,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -240,7 +240,7 @@
       "title": "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)",
       "description": "Here are the notable launches and updates from last week that can help you build, scale, and innovate on AWS. Last week’s launches Here are the launches that got my attention this week. Let’s start with news related to compute and networking infrastructure: Introducing Amazon EC2 C8id, M8id, and R8i",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-6-in-amazon-bedrock-aws-builder-id-sign-in-with-apple-and-more-february-9-2026/",
-      "score": 15.004401808667547,
+      "score": 15.00439249874923,
       "timestamp": "2026-02-09T20:42:04.000Z",
       "metadata": {
         "author": "AWS News",
@@ -253,7 +253,7 @@
       "title": "OpenClaw is being called a security “Dumpster fire,” but there is a way to stay safe",
       "description": "<img width=\"1024\" height=\"512\" src=\"https://cdn.thenewstack.io/media/2026/02/2611e898-getty-images-g3qsdop2isy-unsplash-1024x512.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"Conceptual 3D render of a row of dark protective shields with one shield glowing in bright gold, s",
       "url": "https://thenewstack.io/deno-sandbox-security-secrets/",
-      "score": 12.946348095255868,
+      "score": 12.727982405211497,
       "timestamp": "2026-02-15T15:00:45.000Z",
       "metadata": {
         "author": "The New Stack",
