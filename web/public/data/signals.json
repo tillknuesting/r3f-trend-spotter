@@ -5,8 +5,8 @@
       "title": "[🔥 HOT] Zvec: A lightweight, fast, in-process vector database",
       "description": "Hacker News submission with 76 points and 14 comments.",
       "url": "https://github.com/alibaba/zvec",
-      "score": 60.258813561408886,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 60.26073594247397,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
         "points": 76,
         "comments": 14
@@ -17,7 +17,7 @@
       "title": "Spotlight on SIG Architecture: API Governance",
       "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
       "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "score": 30.01316440388904,
+      "score": 30.013155773903588,
       "timestamp": "2026-02-12T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -27,13 +27,13 @@
     {
       "source": "hackernews",
       "title": "Ooh.directory: a place to find good blogs that interest you",
-      "description": "Hacker News submission with 450 points and 118 comments.",
+      "description": "Hacker News submission with 450 points and 120 comments.",
       "url": "https://ooh.directory/",
-      "score": 27.22151049195202,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 27.224609901506195,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
         "points": 450,
-        "comments": 118
+        "comments": 120
       }
     },
     {
@@ -41,7 +41,7 @@
       "title": "Introducing Node Readiness Controller",
       "description": "<img style=\"float: right; display: inline-block; margin-left: 2em; max-width: 15em;\" src=\"./node-readiness-controller-logo.svg\" alt=\"Logo for node readiness controller\" />\n<p>In the standard Kubernetes model, a node’s suitability for workloads hinges on a single binary &quot;Ready&quot; condition. H",
       "url": "https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/",
-      "score": 20.001209477098904,
+      "score": 20.00120926654309,
       "timestamp": "2026-02-03T02:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -53,8 +53,8 @@
       "title": "A header-only C vector database library",
       "description": "Hacker News submission with 65 points and 24 comments.",
       "url": "https://github.com/abdimoallim/vdb",
-      "score": 19.477592727907524,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 19.478398574391612,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
         "points": 65,
         "comments": 24
@@ -63,25 +63,25 @@
     {
       "source": "hackernews",
       "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "description": "Hacker News submission with 418 points and 272 comments.",
+      "description": "Hacker News submission with 420 points and 273 comments.",
       "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 19.22151049195202,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 19.224609901506195,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
-        "points": 418,
-        "comments": 272
+        "points": 420,
+        "comments": 273
       }
     },
     {
       "source": "hackernews",
       "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
-      "description": "Hacker News submission with 277 points and 142 comments.",
+      "description": "Hacker News submission with 277 points and 144 comments.",
       "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-      "score": 19.22151049195202,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 19.224609901506195,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
         "points": 277,
-        "comments": 142
+        "comments": 144
       }
     },
     {
@@ -89,8 +89,8 @@
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "description": "Hacker News submission with 350 points and 177 comments.",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 19.22151049195202,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 19.224609901506195,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
         "points": 350,
         "comments": 177
@@ -99,13 +99,13 @@
     {
       "source": "hackernews",
       "title": "uBlock filter list to hide all YouTube Shorts",
-      "description": "Hacker News submission with 634 points and 207 comments.",
+      "description": "Hacker News submission with 635 points and 208 comments.",
       "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 17.22151049195202,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 17.224609901506195,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
-        "points": 634,
-        "comments": 207
+        "points": 635,
+        "comments": 208
       }
     },
     {
@@ -113,8 +113,8 @@
       "title": "Vim 9.2",
       "description": "Hacker News submission with 349 points and 145 comments.",
       "url": "https://www.vim.org/vim-9.2-released.php",
-      "score": 17.22151049195202,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 17.224609901506195,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
         "points": 349,
         "comments": 145
@@ -123,13 +123,13 @@
     {
       "source": "hackernews",
       "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
-      "description": "Hacker News submission with 97 points and 24 comments.",
+      "description": "Hacker News submission with 98 points and 25 comments.",
       "url": "https://newpipe.net/",
-      "score": 16.681946070877384,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 16.75204708139043,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
-        "points": 97,
-        "comments": 24
+        "points": 98,
+        "comments": 25
       }
     },
     {
@@ -137,7 +137,7 @@
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.044446863333997,
+      "score": 15.044389608278953,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -149,7 +149,7 @@
       "title": "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)",
       "description": "Here are the notable launches and updates from last week that can help you build, scale, and innovate on AWS. Last week’s launches Here are the launches that got my attention this week. Let’s start with news related to compute and networking infrastructure: Introducing Amazon EC2 C8id, M8id, and R8i",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-6-in-amazon-bedrock-aws-builder-id-sign-in-with-apple-and-more-february-9-2026/",
-      "score": 15.005268084222333,
+      "score": 15.005266007499614,
       "timestamp": "2026-02-09T20:42:04.000Z",
       "metadata": {
         "author": "AWS News",
@@ -161,7 +161,7 @@
       "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
       "description": "<p><strong>In March 2026, Kubernetes will retire Ingress NGINX, a piece of critical infrastructure for about half of cloud native environments.</strong> The retirement of Ingress NGINX was <a href=\"https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/\">announced</a> for March 2026, after y",
       "url": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
-      "score": 15.000644411553816,
+      "score": 15.00064433247825,
       "timestamp": "2026-01-29T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -173,8 +173,8 @@
       "title": "YouTube as Storage",
       "description": "Hacker News submission with 172 points and 127 comments.",
       "url": "https://github.com/PulseBeat02/yt-media-storage",
-      "score": 13.848399218462989,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 13.85053161223626,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
         "points": 172,
         "comments": 127
@@ -185,8 +185,8 @@
       "title": "Discord: A case study in performance optimization",
       "description": "Hacker News submission with 53 points and 34 comments.",
       "url": "https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance",
-      "score": 13.650960224293827,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 13.651617299119312,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
         "points": 53,
         "comments": 34
@@ -197,8 +197,8 @@
       "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
       "description": "Hacker News submission with 196 points and 57 comments.",
       "url": "https://github.com/datavorous/sameshi",
-      "score": 13.501664225690385,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 13.504094162780858,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
         "points": 196,
         "comments": 57
@@ -209,7 +209,7 @@
       "title": "Improve global upload performance with R2 Local Uploads",
       "description": "Local Uploads on R2 reduces request duration for uploads by up to 75%. It writes object data to a nearby location and asynchronously copies it to your bucket, all while data is available immediately.",
       "url": "https://blog.cloudflare.com/r2-local-uploads/",
-      "score": 12.001304603065284,
+      "score": 12.001304366193931,
       "timestamp": "2026-02-03T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -221,7 +221,7 @@
       "title": "Google’s AI advantage: why crawler separation is the only path to a fair Internet",
       "description": "Google's dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI.",
       "url": "https://blog.cloudflare.com/uk-google-ai-crawler-policy/",
-      "score": 12.00077779094246,
+      "score": 12.000777684986366,
       "timestamp": "2026-01-30T17:01:04.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -231,13 +231,13 @@
     {
       "source": "hackernews",
       "title": "Ask HN: How to get started with robotics as a hobbyist?",
-      "description": "Hacker News submission with 169 points and 74 comments.",
+      "description": "Hacker News submission with 169 points and 75 comments.",
       "url": "https://news.ycombinator.com/item?id=46934622",
-      "score": 11.641741092559563,
-      "timestamp": "2026-02-15T03:20:16.661Z",
+      "score": 11.643836293418186,
+      "timestamp": "2026-02-15T03:21:58.832Z",
       "metadata": {
         "points": 169,
-        "comments": 74
+        "comments": 75
       }
     }
   ]
