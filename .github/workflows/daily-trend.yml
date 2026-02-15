@@ -1,0 +1,44 @@
+name: Daily Trend Spotter
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # Runs daily at 8:00 UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.24"
+
+      - name: Install Dependencies
+        run: go mod download
+
+      - name: Run Trend Spotter Agent
+        env:
+          ZAI_API_KEY: ${{ secrets.ZAI_API_KEY }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_DATABASE_ID: ${{ secrets.CLOUDFLARE_DATABASE_ID }}
+        run: go run cmd/trend-spotter/main.go
+
+      - name: Upload Report Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: trend-report
+          path: trend-report-*.md
+
+      - name: Commit Report & Data
+        run: |
+          git config --global user.name 'Trend Spotter Bot'
+          git config --global user.email 'bot@r3f.co.uk'
+          git add trend-report-*.md web/public/data/signals.json
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Daily Trends & Dashboard Data" && git push)

@@ -1,0 +1,268 @@
+{
+  "generated_at": "2026-02-15T02:55:31.402321+01:00",
+  "trends": [
+    {
+      "id": "https://github.com/alibaba/zvec",
+      "title": "[🔥 HOT] alibaba / zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "url": "https://github.com/alibaba/zvec",
+      "source": "COMBINED",
+      "score": 42.073762519093265,
+      "summary": "Alibaba introduces **zvec**, a high-performance vector similarity search library written in Go that leverages HNSW algorithms to accelerate AI and recommendation workloads.",
+      "metadata": {
+        "stars": "1,283"
+      },
+      "timestamp": "2026-02-15T02:55:06.851742+01:00"
+    },
+    {
+      "id": "https://github.com/minio/minio",
+      "title": "minio / minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "url": "https://github.com/minio/minio",
+      "source": "github_trends",
+      "score": 22.11671202143099,
+      "summary": "",
+      "metadata": {
+        "stars": "60,280"
+      },
+      "timestamp": "2026-02-15T02:55:06.85174+01:00"
+    },
+    {
+      "id": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+      "title": "An AI agent published a hit piece on me – more things have happened",
+      "description": "",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+      "source": "hackernews",
+      "score": 20.37642402845657,
+      "summary": "",
+      "metadata": {
+        "raw_score": "645 points"
+      },
+      "timestamp": "2026-02-15T02:55:07.24353+01:00"
+    },
+    {
+      "id": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "description": "",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "source": "hackernews",
+      "score": 18.28613021731637,
+      "summary": "",
+      "metadata": {
+        "raw_score": "383 points"
+      },
+      "timestamp": "2026-02-15T02:55:07.243525+01:00"
+    },
+    {
+      "id": "https://github.com/tambo-ai/tambo",
+      "title": "tambo-ai / tambo",
+      "description": "Generative UI SDK for React",
+      "url": "https://github.com/tambo-ai/tambo",
+      "source": "github_trends",
+      "score": 18.21248103148443,
+      "summary": "",
+      "metadata": {
+        "stars": "9,631"
+      },
+      "timestamp": "2026-02-15T02:55:06.851739+01:00"
+    },
+    {
+      "id": "https://github.com/letta-ai/letta-code",
+      "title": "letta-ai / letta-code",
+      "description": "The memory-first coding agent",
+      "url": "https://github.com/letta-ai/letta-code",
+      "source": "github_trends",
+      "score": 17.729805021188003,
+      "summary": "",
+      "metadata": {
+        "stars": "1,219"
+      },
+      "timestamp": "2026-02-15T02:55:06.851742+01:00"
+    },
+    {
+      "id": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "description": "",
+      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "source": "hackernews",
+      "score": 17.22433631948881,
+      "summary": "",
+      "metadata": {
+        "raw_score": "568 points"
+      },
+      "timestamp": "2026-02-15T02:55:07.243525+01:00"
+    },
+    {
+      "id": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "description": "",
+      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "source": "hackernews",
+      "score": 17.224336290790138,
+      "summary": "",
+      "metadata": {
+        "raw_score": "334 points"
+      },
+      "timestamp": "2026-02-15T02:55:07.243525+01:00"
+    },
+    {
+      "id": "https://ooh.directory/",
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "description": "",
+      "url": "https://ooh.directory/",
+      "source": "hackernews",
+      "score": 17.224336210420073,
+      "summary": "",
+      "metadata": {
+        "raw_score": "433 points"
+      },
+      "timestamp": "2026-02-15T02:55:07.243527+01:00"
+    },
+    {
+      "id": "https://www.vim.org/vim-9.2-released.php",
+      "title": "Vim 9.2",
+      "description": "",
+      "url": "https://www.vim.org/vim-9.2-released.php",
+      "source": "hackernews",
+      "score": 17.224335492884354,
+      "summary": "",
+      "metadata": {
+        "raw_score": "338 points"
+      },
+      "timestamp": "2026-02-15T02:55:07.243531+01:00"
+    },
+    {
+      "id": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+      "description": "",
+      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+      "source": "hackernews",
+      "score": 17.16014215471319,
+      "summary": "",
+      "metadata": {
+        "raw_score": "234 points"
+      },
+      "timestamp": "2026-02-15T02:55:07.243526+01:00"
+    },
+    {
+      "id": "https://www.digitalocean.com/blog/the-container-paradox-k8s-databases",
+      "title": "The Container paradox: Why the Inference Cloud Demands a “Decoupled” Database",
+      "description": "\u003cp\u003eKubernetes has won the \u003cem\u003ecloud-native war\u003c/em\u003e for a reason: it’s one of, if not \u003cem\u003ethe\u003c/em\u003e most powerful tool we have for scaling applications and ensuring they stay up when unexpected thing...",
+      "url": "https://www.digitalocean.com/blog/the-container-paradox-k8s-databases",
+      "source": "tech_blogs",
+      "score": 17.074452419356025,
+      "summary": "",
+      "metadata": {
+        "author": "DigitalOcean Blog",
+        "category": "Cloud"
+      },
+      "timestamp": "2026-02-10T14:00:00.022Z"
+    },
+    {
+      "id": "https://github.com/Zipstack/unstract",
+      "title": "Zipstack / unstract",
+      "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+      "url": "https://github.com/Zipstack/unstract",
+      "source": "github_trends",
+      "score": 16.436454514211345,
+      "summary": "",
+      "metadata": {
+        "stars": "6,321"
+      },
+      "timestamp": "2026-02-15T02:55:06.851742+01:00"
+    },
+    {
+      "id": "https://github.com/rowboatlabs/rowboat",
+      "title": "rowboatlabs / rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "source": "github_trends",
+      "score": 15.49182665813452,
+      "summary": "",
+      "metadata": {
+        "stars": "6,092"
+      },
+      "timestamp": "2026-02-15T02:55:06.85174+01:00"
+    },
+    {
+      "id": "https://github.com/SynkraAI/aios-core",
+      "title": "SynkraAI / aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "source": "github_trends",
+      "score": 15.325402105410182,
+      "summary": "",
+      "metadata": {
+        "stars": "613"
+      },
+      "timestamp": "2026-02-15T02:55:06.85174+01:00"
+    },
+    {
+      "id": "https://www.tigerdata.com/blog/six-signs-postgres-tuning-wont-fix-performance-problems",
+      "title": "Six Signs That Postgres Tuning Won't Fix Your Performance Problems",
+      "description": "When Postgres tuning won't fix performance: recognize the six characteristics of time-series workloads that need TimescaleDB's purpose-built architecture.",
+      "url": "https://www.tigerdata.com/blog/six-signs-postgres-tuning-wont-fix-performance-problems",
+      "source": "tech_blogs",
+      "score": 14.670933473513827,
+      "summary": "",
+      "metadata": {
+        "author": "Timescale Blog",
+        "category": "Database"
+      },
+      "timestamp": "2026-02-12T21:26:14Z"
+    },
+    {
+      "id": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
+      "title": "Spotlight on SIG Architecture: API Governance",
+      "description": "\u003cp\u003e\u003cem\u003eThis is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering \u003ca href=\"https://github.com/kubernetes/community/blob/master/si...",
+      "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
+      "source": "tech_blogs",
+      "score": 14.536837219424338,
+      "summary": "",
+      "metadata": {
+        "author": "Kubernetes Blog",
+        "category": "Kubernetes"
+      },
+      "timestamp": "2026-02-12T00:00:00Z"
+    },
+    {
+      "id": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "github_trends",
+      "score": 14.352212450067757,
+      "summary": "",
+      "metadata": {
+        "stars": "25,100"
+      },
+      "timestamp": "2026-02-15T02:55:06.85174+01:00"
+    },
+    {
+      "id": "https://github.com/ruvnet/wifi-densepose",
+      "title": "ruvnet / wifi-densepose",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "source": "github_trends",
+      "score": 14.352210986364295,
+      "summary": "",
+      "metadata": {
+        "stars": "6,171"
+      },
+      "timestamp": "2026-02-15T02:55:06.851742+01:00"
+    },
+    {
+      "id": "https://github.com/ruby/ruby",
+      "title": "ruby / ruby",
+      "description": "The Ruby Programming Language",
+      "url": "https://github.com/ruby/ruby",
+      "source": "github_trends",
+      "score": 14.352208209313318,
+      "summary": "",
+      "metadata": {
+        "stars": "23,372"
+      },
+      "timestamp": "2026-02-15T02:55:06.851743+01:00"
+    }
+  ]
+}
