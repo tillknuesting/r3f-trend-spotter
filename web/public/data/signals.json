@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-02-15T03:48:50.456Z",
+  "generated_at": "2026-02-15T06:00:24.691Z",
   "trends": [
     {
       "source": "COMBINED",
       "title": "[🔥 HOT] Zvec: A lightweight, fast, in-process vector database",
-      "description": "Hacker News submission with 80 points and 16 comments.",
+      "description": "Hacker News submission with 108 points and 18 comments.",
       "url": "https://github.com/alibaba/zvec",
-      "score": 60.66999126563531,
-      "timestamp": "2026-02-15T03:48:43.942Z",
+      "score": 63.56318884097669,
+      "timestamp": "2026-02-15T06:00:16.187Z",
       "metadata": {
-        "points": 80,
-        "comments": 16
+        "points": 108,
+        "comments": 18
       },
       "id": "aHR0cHM6Ly9naXRo"
     },
@@ -19,7 +19,7 @@
       "title": "Spotlight on SIG Architecture: API Governance",
       "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
       "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "score": 30.013020284596287,
+      "score": 30.012385139349803,
       "timestamp": "2026-02-12T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -30,22 +30,35 @@
     {
       "source": "hackernews",
       "title": "Ooh.directory: a place to find good blogs that interest you",
-      "description": "Hacker News submission with 456 points and 120 comments.",
+      "description": "Hacker News submission with 478 points and 122 comments.",
       "url": "https://ooh.directory/",
-      "score": 27.218825038697606,
-      "timestamp": "2026-02-15T03:48:43.942Z",
+      "score": 27.219164987949842,
+      "timestamp": "2026-02-15T06:00:16.187Z",
       "metadata": {
-        "points": 456,
-        "comments": 120
+        "points": 478,
+        "comments": 122
       },
       "id": "aHR0cHM6Ly9vb2gu"
+    },
+    {
+      "source": "hackernews",
+      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
+      "description": "Hacker News submission with 183 points and 49 comments.",
+      "url": "https://newpipe.net/",
+      "score": 22.604428771179286,
+      "timestamp": "2026-02-15T06:00:16.187Z",
+      "metadata": {
+        "points": 183,
+        "comments": 49
+      },
+      "id": "aHR0cHM6Ly9uZXdw"
     },
     {
       "source": "tech_blogs",
       "title": "Introducing Node Readiness Controller",
       "description": "<img style=\"float: right; display: inline-block; margin-left: 2em; max-width: 15em;\" src=\"./node-readiness-controller-logo.svg\" alt=\"Logo for node readiness controller\" />\n<p>In the standard Kubernetes model, a node’s suitability for workloads hinges on a single binary &quot;Ready&quot; condition. H",
       "url": "https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/",
-      "score": 20.001205940024093,
+      "score": 20.00118980242381,
       "timestamp": "2026-02-03T02:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -56,100 +69,74 @@
     {
       "source": "hackernews",
       "title": "A header-only C vector database library",
-      "description": "Hacker News submission with 69 points and 24 comments.",
+      "description": "Hacker News submission with 72 points and 28 comments.",
       "url": "https://github.com/abdimoallim/vdb",
-      "score": 19.75239571068054,
-      "timestamp": "2026-02-15T03:48:43.942Z",
+      "score": 19.959119516529555,
+      "timestamp": "2026-02-15T06:00:16.187Z",
       "metadata": {
-        "points": 69,
-        "comments": 24
+        "points": 72,
+        "comments": 28
       },
       "id": "aHR0cHM6Ly9naXRo"
     },
     {
       "source": "hackernews",
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "description": "Hacker News submission with 431 points and 281 comments.",
-      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 19.218825038697606,
-      "timestamp": "2026-02-15T03:48:43.942Z",
-      "metadata": {
-        "points": 431,
-        "comments": 281
-      },
-      "id": "aHR0cHM6Ly93d3cu"
-    },
-    {
-      "source": "hackernews",
-      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
-      "description": "Hacker News submission with 293 points and 150 comments.",
-      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-      "score": 19.218825038697606,
-      "timestamp": "2026-02-15T03:48:43.942Z",
-      "metadata": {
-        "points": 293,
-        "comments": 150
-      },
-      "id": "aHR0cHM6Ly9mb3J0"
-    },
-    {
-      "source": "hackernews",
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "description": "Hacker News submission with 356 points and 178 comments.",
+      "description": "Hacker News submission with 383 points and 185 comments.",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 19.218825038697606,
-      "timestamp": "2026-02-15T03:48:43.942Z",
+      "score": 19.219164987949842,
+      "timestamp": "2026-02-15T06:00:16.187Z",
       "metadata": {
-        "points": 356,
-        "comments": 178
+        "points": 383,
+        "comments": 185
       },
       "id": "aHR0cHM6Ly9haW1p"
     },
     {
       "source": "hackernews",
-      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
-      "description": "Hacker News submission with 123 points and 27 comments.",
-      "url": "https://newpipe.net/",
-      "score": 18.47166191903922,
-      "timestamp": "2026-02-15T03:48:43.942Z",
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "description": "Hacker News submission with 453 points and 291 comments.",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "score": 19.219164987949842,
+      "timestamp": "2026-02-15T06:00:16.187Z",
       "metadata": {
-        "points": 123,
-        "comments": 27
+        "points": 453,
+        "comments": 291
       },
-      "id": "aHR0cHM6Ly9uZXdw"
+      "id": "aHR0cHM6Ly93d3cu"
     },
     {
       "source": "hackernews",
       "title": "uBlock filter list to hide all YouTube Shorts",
-      "description": "Hacker News submission with 663 points and 218 comments.",
+      "description": "Hacker News submission with 746 points and 248 comments.",
       "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 17.218825038697606,
-      "timestamp": "2026-02-15T03:48:43.942Z",
+      "score": 17.219164987949842,
+      "timestamp": "2026-02-15T06:00:16.187Z",
       "metadata": {
-        "points": 663,
-        "comments": 218
+        "points": 746,
+        "comments": 248
       },
       "id": "aHR0cHM6Ly9naXRo"
     },
     {
       "source": "hackernews",
-      "title": "Vim 9.2",
-      "description": "Hacker News submission with 356 points and 147 comments.",
-      "url": "https://www.vim.org/vim-9.2-released.php",
-      "score": 17.218825038697606,
-      "timestamp": "2026-02-15T03:48:43.942Z",
+      "title": "Babylon 5 is now free to watch on YouTube",
+      "description": "Hacker News submission with 603 points and 313 comments.",
+      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "score": 17.219164987949842,
+      "timestamp": "2026-02-15T06:00:16.187Z",
       "metadata": {
-        "points": 356,
-        "comments": 147
+        "points": 603,
+        "comments": 313
       },
-      "id": "aHR0cHM6Ly93d3cu"
+      "id": "aHR0cHM6Ly9jb3Jk"
     },
     {
       "source": "tech_blogs",
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.043498065400417,
+      "score": 15.039497349377237,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -162,7 +149,7 @@
       "title": "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)",
       "description": "Here are the notable launches and updates from last week that can help you build, scale, and innovate on AWS. Last week’s launches Here are the launches that got my attention this week. Let’s start with news related to compute and networking infrastructure: Introducing Amazon EC2 C8id, M8id, and R8i",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-6-in-amazon-bedrock-aws-builder-id-sign-in-with-apple-and-more-february-9-2026/",
-      "score": 15.005233292063023,
+      "score": 15.00507706745457,
       "timestamp": "2026-02-09T20:42:04.000Z",
       "metadata": {
         "author": "AWS News",
@@ -175,7 +162,7 @@
       "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
       "description": "<p><strong>In March 2026, Kubernetes will retire Ingress NGINX, a piece of critical infrastructure for about half of cloud native environments.</strong> The retirement of Ingress NGINX was <a href=\"https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/\">announced</a> for March 2026, after y",
       "url": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
-      "score": 15.000643082343428,
+      "score": 15.000636995147703,
       "timestamp": "2026-01-29T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -186,48 +173,61 @@
     {
       "source": "hackernews",
       "title": "YouTube as Storage",
-      "description": "Hacker News submission with 176 points and 130 comments.",
+      "description": "Hacker News submission with 185 points and 138 comments.",
       "url": "https://github.com/PulseBeat02/yt-media-storage",
-      "score": 14.122052827243115,
-      "timestamp": "2026-02-15T03:48:43.942Z",
+      "score": 14.742182091082885,
+      "timestamp": "2026-02-15T06:00:16.187Z",
       "metadata": {
-        "points": 176,
-        "comments": 130
+        "points": 185,
+        "comments": 138
       },
       "id": "aHR0cHM6Ly9naXRo"
-    },
-    {
-      "source": "hackernews",
-      "title": "Discord: A case study in performance optimization",
-      "description": "Hacker News submission with 55 points and 34 comments.",
-      "url": "https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance",
-      "score": 13.788141508513473,
-      "timestamp": "2026-02-15T03:48:43.942Z",
-      "metadata": {
-        "points": 55,
-        "comments": 34
-      },
-      "id": "aHR0cHM6Ly9uZXdz"
     },
     {
       "source": "hackernews",
       "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
-      "description": "Hacker News submission with 198 points and 59 comments.",
+      "description": "Hacker News submission with 207 points and 62 comments.",
       "url": "https://github.com/datavorous/sameshi",
-      "score": 13.637309430648504,
-      "timestamp": "2026-02-15T03:48:43.942Z",
+      "score": 14.25746861002247,
+      "timestamp": "2026-02-15T06:00:16.187Z",
       "metadata": {
-        "points": 198,
-        "comments": 59
+        "points": 207,
+        "comments": 62
       },
       "id": "aHR0cHM6Ly9naXRo"
+    },
+    {
+      "source": "hackernews",
+      "title": "I love the work of the ArchWiki maintainers",
+      "description": "Hacker News submission with 168 points and 34 comments.",
+      "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+      "score": 13.571278871902296,
+      "timestamp": "2026-02-15T06:00:16.187Z",
+      "metadata": {
+        "points": 168,
+        "comments": 34
+      },
+      "id": "aHR0cHM6Ly9rN3Iu"
+    },
+    {
+      "source": "hackernews",
+      "title": "Descent, ported to the web",
+      "description": "Hacker News submission with 194 points and 41 comments.",
+      "url": "https://mrdoob.github.io/three-descent/",
+      "score": 13.362072030649077,
+      "timestamp": "2026-02-15T06:00:16.187Z",
+      "metadata": {
+        "points": 194,
+        "comments": 41
+      },
+      "id": "aHR0cHM6Ly9tcmRv"
     },
     {
       "source": "tech_blogs",
       "title": "Improve global upload performance with R2 Local Uploads",
       "description": "Local Uploads on R2 reduces request duration for uploads by up to 75%. It writes object data to a nearby location and asynchronously copies it to your bucket, all while data is available immediately.",
       "url": "https://blog.cloudflare.com/r2-local-uploads/",
-      "score": 12.001300624288108,
+      "score": 12.001282481348547,
       "timestamp": "2026-02-03T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -240,7 +240,7 @@
       "title": "Google’s AI advantage: why crawler separation is the only path to a fair Internet",
       "description": "Google's dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI.",
       "url": "https://blog.cloudflare.com/uk-google-ai-crawler-policy/",
-      "score": 12.000776010183413,
+      "score": 12.000767863145796,
       "timestamp": "2026-01-30T17:01:04.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -250,16 +250,16 @@
     },
     {
       "source": "hackernews",
-      "title": "Ask HN: How to get started with robotics as a hobbyist?",
-      "description": "Hacker News submission with 174 points and 77 comments.",
-      "url": "https://news.ycombinator.com/item?id=46934622",
-      "score": 11.984302226933531,
-      "timestamp": "2026-02-15T03:48:43.942Z",
+      "title": "Breaking the spell of vibe coding",
+      "description": "Hacker News submission with 171 points and 131 comments.",
+      "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+      "score": 11.777908851757696,
+      "timestamp": "2026-02-15T06:00:16.187Z",
       "metadata": {
-        "points": 174,
-        "comments": 77
+        "points": 171,
+        "comments": 131
       },
-      "id": "aHR0cHM6Ly9uZXdz"
+      "id": "aHR0cHM6Ly93d3cu"
     }
   ]
 }
