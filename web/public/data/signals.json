@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T00:50:14.717Z",
+  "generated_at": "2026-02-16T01:00:17.655Z",
   "trends": [
     {
       "id": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
@@ -7,7 +7,7 @@
       "title": "Spotlight on SIG Architecture: API Governance",
       "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
       "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "score": 30.00846555446882,
+      "score": 30.008439794379967,
       "timestamp": "2026-02-12T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -20,8 +20,8 @@
       "title": "alibaba / zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
-      "score": 29.354943099314184,
-      "timestamp": "2026-02-16T00:50:13.662Z",
+      "score": 29.358352528510444,
+      "timestamp": "2026-02-16T01:00:17.550Z",
       "metadata": {
         "stars": 673,
         "language": "C++"
@@ -31,13 +31,13 @@
       "id": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
       "source": "hackernews",
       "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
-      "description": "Hacker News submission with 661 points and 478 comments.",
+      "description": "Hacker News submission with 666 points and 480 comments.",
       "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
-      "score": 27.223559448851198,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 27.21742662310703,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
-        "points": 661,
-        "comments": 478
+        "points": 666,
+        "comments": 480
       }
     },
     {
@@ -46,8 +46,8 @@
       "title": "steipete / gogcli",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "url": "https://github.com/steipete/gogcli",
-      "score": 26.354943099314184,
-      "timestamp": "2026-02-16T00:50:13.662Z",
+      "score": 26.358352528510444,
+      "timestamp": "2026-02-16T01:00:17.550Z",
       "metadata": {
         "stars": 630,
         "language": "Go"
@@ -59,8 +59,8 @@
       "title": "nautechsystems / nautilus_trader",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "url": "https://github.com/nautechsystems/nautilus_trader",
-      "score": 21.952272261506728,
-      "timestamp": "2026-02-16T00:50:13.662Z",
+      "score": 21.95273594387742,
+      "timestamp": "2026-02-16T01:00:17.550Z",
       "metadata": {
         "stars": 68,
         "language": "Rust"
@@ -70,64 +70,64 @@
       "id": "https://steipete.me/posts/2026/openclaw",
       "source": "hackernews",
       "title": "I’m joining OpenAI",
-      "description": "Hacker News submission with 429 points and 319 comments.",
+      "description": "Hacker News submission with 450 points and 335 comments.",
       "url": "https://steipete.me/posts/2026/openclaw",
-      "score": 19.223559448851198,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 19.21742662310703,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
-        "points": 429,
-        "comments": 319
+        "points": 450,
+        "comments": 335
       }
     },
     {
       "id": "https://github.com/TechPaula/LT6502",
       "source": "hackernews",
       "title": "LT6502: A 6502-based homebrew laptop",
-      "description": "Hacker News submission with 293 points and 122 comments.",
+      "description": "Hacker News submission with 295 points and 123 comments.",
       "url": "https://github.com/TechPaula/LT6502",
-      "score": 17.223559448851198,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 17.21742662310703,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
-        "points": 293,
-        "comments": 122
+        "points": 295,
+        "comments": 123
       }
     },
     {
       "id": "https://marler8997.github.io/blog/fixed-windows/",
       "source": "hackernews",
       "title": "I fixed Windows native development",
-      "description": "Hacker News submission with 648 points and 317 comments.",
+      "description": "Hacker News submission with 651 points and 318 comments.",
       "url": "https://marler8997.github.io/blog/fixed-windows/",
-      "score": 17.223559448851198,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 17.21742662310703,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
-        "points": 648,
-        "comments": 317
+        "points": 651,
+        "comments": 318
       }
     },
     {
       "id": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
       "source": "hackernews",
       "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "description": "Hacker News submission with 745 points and 493 comments.",
+      "description": "Hacker News submission with 750 points and 496 comments.",
       "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-      "score": 17.223559448851198,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 17.21742662310703,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
-        "points": 745,
-        "comments": 493
+        "points": 750,
+        "comments": 496
       }
     },
     {
       "id": "https://oat.ink/",
       "source": "hackernews",
       "title": "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
-      "description": "Hacker News submission with 457 points and 122 comments.",
+      "description": "Hacker News submission with 460 points and 122 comments.",
       "url": "https://oat.ink/",
-      "score": 17.223559448851198,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 17.21742662310703,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
-        "points": 457,
+        "points": 460,
         "comments": 122
       }
     },
@@ -135,12 +135,12 @@
       "id": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
       "source": "hackernews",
       "title": "Hideki Sato, designer of all Sega's consoles, has died",
-      "description": "Hacker News submission with 319 points and 31 comments.",
+      "description": "Hacker News submission with 324 points and 31 comments.",
       "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-      "score": 17.223559448851198,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 17.21742662310703,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
-        "points": 319,
+        "points": 324,
         "comments": 31
       }
     },
@@ -150,8 +150,8 @@
       "title": "rowboatlabs / rowboat",
       "description": "Open-source AI coworker, with memory",
       "url": "https://github.com/rowboatlabs/rowboat",
-      "score": 16.354943099314184,
-      "timestamp": "2026-02-16T00:50:13.662Z",
+      "score": 16.358352528510444,
+      "timestamp": "2026-02-16T01:00:17.550Z",
       "metadata": {
         "stars": 803,
         "language": "TypeScript"
@@ -163,8 +163,8 @@
       "title": "openclaw / openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 16.354943099314184,
-      "timestamp": "2026-02-16T00:50:13.662Z",
+      "score": 16.358352528510444,
+      "timestamp": "2026-02-16T01:00:17.550Z",
       "metadata": {
         "stars": 2380,
         "language": "TypeScript"
@@ -174,26 +174,26 @@
       "id": "https://github.com/klawsh/klaw.sh",
       "source": "hackernews",
       "title": "Show HN: Klaw.sh – Kubernetes for AI agents",
-      "description": "Hacker News submission with 24 points and 11 comments.",
+      "description": "Hacker News submission with 24 points and 13 comments.",
       "url": "https://github.com/klawsh/klaw.sh",
-      "score": 15.653461707089715,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 15.652872955818275,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
         "points": 24,
-        "comments": 11
+        "comments": 13
       }
     },
     {
       "id": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
       "source": "hackernews",
       "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
-      "description": "Hacker News submission with 74 points and 49 comments.",
+      "description": "Hacker News submission with 76 points and 50 comments.",
       "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
-      "score": 15.098173596859954,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 15.234097693424538,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
-        "points": 74,
-        "comments": 49
+        "points": 76,
+        "comments": 50
       }
     },
     {
@@ -202,7 +202,7 @@
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.020277130832588,
+      "score": 15.020177037041096,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -215,7 +215,7 @@
       "title": "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)",
       "description": "Here are the notable launches and updates from last week that can help you build, scale, and innovate on AWS. Last week’s launches Here are the launches that got my attention this week. Let’s start with news related to compute and networking infrastructure: Introducing Amazon EC2 C8id, M8id, and R8i",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-6-in-amazon-bedrock-aws-builder-id-sign-in-with-apple-and-more-february-9-2026/",
-      "score": 15.00398877565533,
+      "score": 15.003980778809932,
       "timestamp": "2026-02-09T20:42:04.000Z",
       "metadata": {
         "author": "AWS News",
@@ -228,8 +228,8 @@
       "title": "Two different tricks for fast LLM inference",
       "description": "Hacker News submission with 161 points and 63 comments.",
       "url": "https://www.seangoedecke.com/fast-llm-inference/",
-      "score": 13.091972285060173,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 13.088022745280929,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
         "points": 161,
         "comments": 63
@@ -239,26 +239,26 @@
       "id": "https://modern-css.com",
       "source": "hackernews",
       "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-      "description": "Hacker News submission with 180 points and 69 comments.",
+      "description": "Hacker News submission with 187 points and 71 comments.",
       "url": "https://modern-css.com",
-      "score": 12.400962803172861,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 12.878635114084057,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
-        "points": 180,
-        "comments": 69
+        "points": 187,
+        "comments": 71
       }
     },
     {
       "id": "https://github.com/fosrl/pangolin",
       "source": "hackernews",
       "title": "Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)",
-      "description": "Hacker News submission with 33 points and 19 comments.",
+      "description": "Hacker News submission with 34 points and 20 comments.",
       "url": "https://github.com/fosrl/pangolin",
-      "score": 12.273509847248357,
-      "timestamp": "2026-02-16T00:50:13.111Z",
+      "score": 12.341570020742555,
+      "timestamp": "2026-02-16T01:00:14.624Z",
       "metadata": {
-        "points": 33,
-        "comments": 19
+        "points": 34,
+        "comments": 20
       }
     }
   ]
