@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T00:00:16.678Z",
+  "generated_at": "2026-02-17T06:00:22.672Z",
   "trends": [
     {
       "id": "https://github.com/nautechsystems/nautilus_trader",
@@ -7,8 +7,8 @@
       "title": "[🚀 BURST] nautechsystems / nautilus_trader",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "url": "https://github.com/nautechsystems/nautilus_trader",
-      "score": 68.70911833766131,
-      "timestamp": "2026-02-17T00:00:15.516Z",
+      "score": 68.70088916144945,
+      "timestamp": "2026-02-17T06:00:20.363Z",
       "metadata": {
         "stars": 546,
         "language": "Rust"
@@ -20,7 +20,7 @@
       "title": "Spotlight on SIG Architecture: API Governance",
       "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
       "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "score": 30.005794774764176,
+      "score": 30.005314929806737,
       "timestamp": "2026-02-12T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -33,8 +33,8 @@
       "title": "alibaba / zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
-      "score": 29.354559168830654,
-      "timestamp": "2026-02-17T00:00:15.516Z",
+      "score": 29.350444580724727,
+      "timestamp": "2026-02-17T06:00:20.363Z",
       "metadata": {
         "stars": 1094,
         "language": "C++"
@@ -46,89 +46,76 @@
       "title": "steipete / gogcli",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "url": "https://github.com/steipete/gogcli",
-      "score": 26.354559168830654,
-      "timestamp": "2026-02-17T00:00:15.516Z",
+      "score": 26.350444580724727,
+      "timestamp": "2026-02-17T06:00:20.363Z",
       "metadata": {
         "stars": 637,
         "language": "Go"
       }
     },
     {
-      "id": "https://qwen.ai/blog?id=qwen3.5",
+      "id": "https://www.bbc.com/news/articles/cx2gn239exlo",
       "source": "hackernews",
-      "title": "Qwen3.5: Towards Native Multimodal Agents",
-      "description": "Hacker News submission with 363 points and 173 comments.",
-      "url": "https://qwen.ai/blog?id=qwen3.5",
-      "score": 19.22599630714541,
-      "timestamp": "2026-02-17T00:00:15.638Z",
+      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "description": "Hacker News submission with 305 points and 152 comments.",
+      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+      "score": 19.219474824210128,
+      "timestamp": "2026-02-17T06:00:20.117Z",
       "metadata": {
-        "points": 363,
-        "comments": 173
+        "points": 305,
+        "comments": 152
       }
     },
     {
-      "id": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "id": "https://arxiv.org/abs/2602.12670",
       "source": "hackernews",
-      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-      "description": "Hacker News submission with 335 points and 67 comments.",
-      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-      "score": 17.22599630714541,
-      "timestamp": "2026-02-17T00:00:15.638Z",
+      "title": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
+      "description": "Hacker News submission with 320 points and 134 comments.",
+      "url": "https://arxiv.org/abs/2602.12670",
+      "score": 19.219474824210128,
+      "timestamp": "2026-02-17T06:00:20.117Z",
       "metadata": {
-        "points": 335,
-        "comments": 67
+        "points": 320,
+        "comments": 134
       }
     },
     {
       "id": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
       "source": "hackernews",
       "title": "What your Bluetooth devices reveal",
-      "description": "Hacker News submission with 270 points and 105 comments.",
+      "description": "Hacker News submission with 356 points and 140 comments.",
       "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-      "score": 17.22599630714541,
-      "timestamp": "2026-02-17T00:00:15.638Z",
+      "score": 17.219474824210128,
+      "timestamp": "2026-02-17T06:00:20.117Z",
       "metadata": {
-        "points": 270,
-        "comments": 105
+        "points": 356,
+        "comments": 140
       }
     },
     {
       "id": "https://github.com/NationalSecurityAgency/ghidra",
       "source": "hackernews",
       "title": "Ghidra by NSA",
-      "description": "Hacker News submission with 297 points and 166 comments.",
+      "description": "Hacker News submission with 334 points and 188 comments.",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "score": 17.22599630714541,
-      "timestamp": "2026-02-17T00:00:15.638Z",
+      "score": 17.219474824210128,
+      "timestamp": "2026-02-17T06:00:20.117Z",
       "metadata": {
-        "points": 297,
-        "comments": 166
+        "points": 334,
+        "comments": 188
       }
     },
     {
-      "id": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "source": "tech_blogs",
-      "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
-      "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "score": 17.19047493240769,
-      "timestamp": "2026-02-16T23:12:37.000Z",
+      "id": "https://jmail.world/jemini",
+      "source": "hackernews",
+      "title": "Show HN: Jemini – Gemini for the Epstein Files",
+      "description": "Hacker News submission with 309 points and 59 comments.",
+      "url": "https://jmail.world/jemini",
+      "score": 17.219474824210128,
+      "timestamp": "2026-02-17T06:00:20.117Z",
       "metadata": {
-        "author": "AWS News",
-        "category": "CLOUD"
-      }
-    },
-    {
-      "id": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "source": "tech_blogs",
-      "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
-      "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 17.131507770032737,
-      "timestamp": "2026-02-16T21:25:23.000Z",
-      "metadata": {
-        "author": "AWS News",
-        "category": "CLOUD"
+        "points": 309,
+        "comments": 59
       }
     },
     {
@@ -137,8 +124,8 @@
       "title": "rowboatlabs / rowboat",
       "description": "Open-source AI coworker, with memory",
       "url": "https://github.com/rowboatlabs/rowboat",
-      "score": 16.354559168830654,
-      "timestamp": "2026-02-17T00:00:15.516Z",
+      "score": 16.350444580724727,
+      "timestamp": "2026-02-17T06:00:20.363Z",
       "metadata": {
         "stars": 700,
         "language": "TypeScript"
@@ -150,24 +137,24 @@
       "title": "openclaw / openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 16.354559168830654,
-      "timestamp": "2026-02-17T00:00:15.516Z",
+      "score": 16.350444580724727,
+      "timestamp": "2026-02-17T06:00:20.363Z",
       "metadata": {
         "stars": 3873,
         "language": "TypeScript"
       }
     },
     {
-      "id": "https://jmail.world/jemini",
-      "source": "hackernews",
-      "title": "Show HN: Jemini – Gemini for the Epstein Files",
-      "description": "Hacker News submission with 223 points and 43 comments.",
-      "url": "https://jmail.world/jemini",
-      "score": 15.365588705973709,
-      "timestamp": "2026-02-17T00:00:15.638Z",
+      "id": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
+      "source": "tech_blogs",
+      "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
+      "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
+      "score": 15.47228071811756,
+      "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
-        "points": 223,
-        "comments": 43
+        "author": "AWS News",
+        "category": "CLOUD"
       }
     },
     {
@@ -176,7 +163,7 @@
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.011344049478879,
+      "score": 15.01001896185201,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -186,40 +173,66 @@
     {
       "id": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
       "source": "hackernews",
-      "title": "Show HN: Wildex – we built Pokémon Go for real wildlife",
-      "description": "Hacker News submission with 55 points and 39 comments.",
+      "title": "Show HN: Wildex – Pokémon Go for real wildlife",
+      "description": "Hacker News submission with 66 points and 45 comments.",
       "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
-      "score": 13.78971918757199,
-      "timestamp": "2026-02-17T00:00:15.638Z",
+      "score": 14.545941353591473,
+      "timestamp": "2026-02-17T06:00:20.117Z",
       "metadata": {
-        "points": 55,
-        "comments": 39
+        "points": 66,
+        "comments": 45
       }
     },
     {
-      "id": "https://arxiv.org/abs/2602.12670",
-      "source": "hackernews",
-      "title": "Study: Self-generated Agent Skills are useless",
-      "description": "Hacker News submission with 159 points and 71 comments.",
-      "url": "https://arxiv.org/abs/2602.12670",
-      "score": 12.955733651344483,
-      "timestamp": "2026-02-17T00:00:15.638Z",
+      "id": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+      "source": "tech_blogs",
+      "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
+      "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+      "score": 12.658868530974264,
+      "timestamp": "2026-02-16T23:12:37.000Z",
       "metadata": {
-        "points": 159,
-        "comments": 71
+        "author": "AWS News",
+        "category": "CLOUD"
       }
     },
     {
-      "id": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
+      "id": "https://0byte.io/articles/pytorch_introduction.html",
       "source": "hackernews",
-      "title": "Privilege is bad grammar",
-      "description": "Hacker News submission with 170 points and 168 comments.",
-      "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
-      "score": 11.713677488858881,
-      "timestamp": "2026-02-17T00:00:15.638Z",
+      "title": "Visual Introduction to PyTorch",
+      "description": "Hacker News submission with 180 points and 13 comments.",
+      "url": "https://0byte.io/articles/pytorch_introduction.html",
+      "score": 12.398021873431292,
+      "timestamp": "2026-02-17T06:00:20.117Z",
       "metadata": {
-        "points": 170,
-        "comments": 168
+        "points": 180,
+        "comments": 13
+      }
+    },
+    {
+      "id": "https://qntm.org/suicide",
+      "source": "hackernews",
+      "title": "Suicide Linux (2009)",
+      "description": "Hacker News submission with 98 points and 57 comments.",
+      "url": "https://qntm.org/suicide",
+      "score": 11.75003413109037,
+      "timestamp": "2026-02-17T06:00:20.117Z",
+      "metadata": {
+        "points": 98,
+        "comments": 57
+      }
+    },
+    {
+      "id": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "source": "hackernews",
+      "title": "Rise of the Triforce",
+      "description": "Hacker News submission with 169 points and 19 comments.",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "score": 11.640364981166046,
+      "timestamp": "2026-02-17T06:00:20.117Z",
+      "metadata": {
+        "points": 169,
+        "comments": 19
       }
     },
     {
@@ -228,7 +241,7 @@
       "title": "AWS Weekly Roundup: Amazon EC2 M8azn instances, new open weights models in Amazon Bedrock, and more (February 16, 2026)",
       "description": "I joined AWS in 2021, and since then I’ve watched the Amazon Elastic Compute Cloud (Amazon EC2) instance family grow at a pace that still surprises me. From AWS Graviton-powered instances to specialized accelerated computing options, it feels like every few months there’s a new instance type landing",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/",
-      "score": 10.697267808038266,
+      "score": 10.267112886022236,
       "timestamp": "2026-02-16T17:28:52.000Z",
       "metadata": {
         "author": "AWS News",
@@ -236,29 +249,16 @@
       }
     },
     {
-      "id": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
+      "id": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
       "source": "hackernews",
-      "title": "Building a model that visualizes strategic golf",
-      "description": "Hacker News submission with 7 points and 2 comments.",
-      "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
-      "score": 10.482327896600072,
-      "timestamp": "2026-02-17T00:00:15.638Z",
+      "title": "PCB Rework and Repair Guide [pdf]",
+      "description": "Hacker News submission with 120 points and 33 comments.",
+      "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
+      "score": 10.265347915620861,
+      "timestamp": "2026-02-17T06:00:20.117Z",
       "metadata": {
-        "points": 7,
-        "comments": 2
-      }
-    },
-    {
-      "id": "https://thenewstack.io/deno-sandbox-security-secrets/",
-      "source": "tech_blogs",
-      "title": "OpenClaw is being called a security “Dumpster fire,” but there is a way to stay safe",
-      "description": "<img width=\"1024\" height=\"512\" src=\"https://cdn.thenewstack.io/media/2026/02/2611e898-getty-images-g3qsdop2isy-unsplash-1024x512.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"Conceptual 3D render of a row of dark protective shields with one shield glowing in bright gold, s",
-      "url": "https://thenewstack.io/deno-sandbox-security-secrets/",
-      "score": 10.054874072831694,
-      "timestamp": "2026-02-15T15:00:45.000Z",
-      "metadata": {
-        "author": "The New Stack",
-        "category": "ENGINEERING"
+        "points": 120,
+        "comments": 33
       }
     }
   ]
