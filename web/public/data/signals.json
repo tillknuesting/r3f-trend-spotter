@@ -1,26 +1,13 @@
 {
-  "generated_at": "2026-02-17T06:00:22.672Z",
+  "generated_at": "2026-02-17T12:00:13.286Z",
   "trends": [
-    {
-      "id": "https://github.com/nautechsystems/nautilus_trader",
-      "source": "github_trends",
-      "title": "[🚀 BURST] nautechsystems / nautilus_trader",
-      "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "score": 68.70088916144945,
-      "timestamp": "2026-02-17T06:00:20.363Z",
-      "metadata": {
-        "stars": 546,
-        "language": "Rust"
-      }
-    },
     {
       "id": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
       "source": "tech_blogs",
       "title": "Spotlight on SIG Architecture: API Governance",
       "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
       "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "score": 30.005314929806737,
+      "score": 30.004894448612294,
       "timestamp": "2026-02-12T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -33,10 +20,10 @@
       "title": "alibaba / zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
-      "score": 29.350444580724727,
-      "timestamp": "2026-02-17T06:00:20.363Z",
+      "score": 29.349530078502774,
+      "timestamp": "2026-02-17T12:00:10.722Z",
       "metadata": {
-        "stars": 1094,
+        "stars": 1473,
         "language": "C++"
       }
     },
@@ -46,89 +33,128 @@
       "title": "steipete / gogcli",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "url": "https://github.com/steipete/gogcli",
-      "score": 26.350444580724727,
-      "timestamp": "2026-02-17T06:00:20.363Z",
+      "score": 25.459859213635603,
+      "timestamp": "2026-02-17T12:00:10.722Z",
       "metadata": {
-        "stars": 637,
+        "stars": 469,
         "language": "Go"
+      }
+    },
+    {
+      "id": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+      "source": "hackernews",
+      "title": "GrapheneOS – Break Free from Google and Apple",
+      "description": "Hacker News submission with 164 points and 115 comments.",
+      "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+      "score": 21.29390934844359,
+      "timestamp": "2026-02-17T12:00:09.999Z",
+      "metadata": {
+        "points": 164,
+        "comments": 115
       }
     },
     {
       "id": "https://www.bbc.com/news/articles/cx2gn239exlo",
       "source": "hackernews",
       "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
-      "description": "Hacker News submission with 305 points and 152 comments.",
+      "description": "Hacker News submission with 453 points and 244 comments.",
       "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
-      "score": 19.219474824210128,
-      "timestamp": "2026-02-17T06:00:20.117Z",
+      "score": 19.216325226285964,
+      "timestamp": "2026-02-17T12:00:09.999Z",
       "metadata": {
-        "points": 305,
-        "comments": 152
+        "points": 453,
+        "comments": 244
       }
     },
     {
-      "id": "https://arxiv.org/abs/2602.12670",
+      "id": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
       "source": "hackernews",
-      "title": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
-      "description": "Hacker News submission with 320 points and 134 comments.",
-      "url": "https://arxiv.org/abs/2602.12670",
-      "score": 19.219474824210128,
-      "timestamp": "2026-02-17T06:00:20.117Z",
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "description": "Hacker News submission with 724 points and 149 comments.",
+      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "score": 17.216325226285964,
+      "timestamp": "2026-02-17T12:00:09.999Z",
       "metadata": {
-        "points": 320,
-        "comments": 134
+        "points": 724,
+        "comments": 149
+      }
+    },
+    {
+      "id": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "source": "hackernews",
+      "title": "Rise of the Triforce",
+      "description": "Hacker News submission with 301 points and 38 comments.",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "score": 17.216325226285964,
+      "timestamp": "2026-02-17T12:00:09.999Z",
+      "metadata": {
+        "points": 301,
+        "comments": 38
       }
     },
     {
       "id": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
       "source": "hackernews",
       "title": "What your Bluetooth devices reveal",
-      "description": "Hacker News submission with 356 points and 140 comments.",
+      "description": "Hacker News submission with 447 points and 164 comments.",
       "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-      "score": 17.219474824210128,
-      "timestamp": "2026-02-17T06:00:20.117Z",
+      "score": 17.216325226285964,
+      "timestamp": "2026-02-17T12:00:09.999Z",
       "metadata": {
-        "points": 356,
-        "comments": 140
+        "points": 447,
+        "comments": 164
+      }
+    },
+    {
+      "id": "https://0byte.io/articles/pytorch_introduction.html",
+      "source": "hackernews",
+      "title": "Visual introduction to PyTorch",
+      "description": "Hacker News submission with 282 points and 21 comments.",
+      "url": "https://0byte.io/articles/pytorch_introduction.html",
+      "score": 17.216325226285964,
+      "timestamp": "2026-02-17T12:00:09.999Z",
+      "metadata": {
+        "points": 282,
+        "comments": 21
       }
     },
     {
       "id": "https://github.com/NationalSecurityAgency/ghidra",
       "source": "hackernews",
       "title": "Ghidra by NSA",
-      "description": "Hacker News submission with 334 points and 188 comments.",
+      "description": "Hacker News submission with 381 points and 196 comments.",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "score": 17.219474824210128,
-      "timestamp": "2026-02-17T06:00:20.117Z",
+      "score": 17.216325226285964,
+      "timestamp": "2026-02-17T12:00:09.999Z",
       "metadata": {
-        "points": 334,
-        "comments": 188
+        "points": 381,
+        "comments": 196
       }
     },
     {
       "id": "https://jmail.world/jemini",
       "source": "hackernews",
       "title": "Show HN: Jemini – Gemini for the Epstein Files",
-      "description": "Hacker News submission with 309 points and 59 comments.",
+      "description": "Hacker News submission with 386 points and 73 comments.",
       "url": "https://jmail.world/jemini",
-      "score": 17.219474824210128,
-      "timestamp": "2026-02-17T06:00:20.117Z",
+      "score": 17.216325226285964,
+      "timestamp": "2026-02-17T12:00:09.999Z",
       "metadata": {
-        "points": 309,
-        "comments": 59
+        "points": 386,
+        "comments": 73
       }
     },
     {
-      "id": "https://github.com/rowboatlabs/rowboat",
+      "id": "https://github.com/obra/superpowers",
       "source": "github_trends",
-      "title": "rowboatlabs / rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "score": 16.350444580724727,
-      "timestamp": "2026-02-17T06:00:20.363Z",
+      "title": "obra / superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "score": 16.349530078502774,
+      "timestamp": "2026-02-17T12:00:10.722Z",
       "metadata": {
-        "stars": 700,
-        "language": "TypeScript"
+        "stars": 725,
+        "language": "Shell"
       }
     },
     {
@@ -137,11 +163,24 @@
       "title": "openclaw / openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 16.350444580724727,
-      "timestamp": "2026-02-17T06:00:20.363Z",
+      "score": 16.349530078502774,
+      "timestamp": "2026-02-17T12:00:10.722Z",
       "metadata": {
-        "stars": 3873,
+        "stars": 4201,
         "language": "TypeScript"
+      }
+    },
+    {
+      "id": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
+      "source": "hackernews",
+      "title": "Show HN: Wildex – Pokémon Go for real wildlife",
+      "description": "Hacker News submission with 87 points and 55 comments.",
+      "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
+      "score": 15.991281178747514,
+      "timestamp": "2026-02-17T12:00:09.999Z",
+      "metadata": {
+        "points": 87,
+        "comments": 55
       }
     },
     {
@@ -150,7 +189,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.47228071811756,
+      "score": 15.210490186864687,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -163,7 +202,7 @@
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.01001896185201,
+      "score": 15.008920632919896,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -171,94 +210,55 @@
       }
     },
     {
-      "id": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
+      "id": "https://github.com/p-e-w/heretic",
+      "source": "github_trends",
+      "title": "p-e-w / heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "url": "https://github.com/p-e-w/heretic",
+      "score": 14.349530078502774,
+      "timestamp": "2026-02-17T12:00:10.722Z",
+      "metadata": {
+        "stars": 891,
+        "language": "Python"
+      }
+    },
+    {
+      "id": "https://github.com/ashishps1/awesome-system-design-resources",
+      "source": "github_trends",
+      "title": "ashishps1 / awesome-system-design-resources",
+      "description": "Learn System Design concepts and prepare for interviews using free resources.",
+      "url": "https://github.com/ashishps1/awesome-system-design-resources",
+      "score": 14.349530078502774,
+      "timestamp": "2026-02-17T12:00:10.722Z",
+      "metadata": {
+        "stars": 1097,
+        "language": "Java"
+      }
+    },
+    {
+      "id": "https://github.com/zachlatta/freeflow",
       "source": "hackernews",
-      "title": "Show HN: Wildex – Pokémon Go for real wildlife",
-      "description": "Hacker News submission with 66 points and 45 comments.",
-      "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
-      "score": 14.545941353591473,
-      "timestamp": "2026-02-17T06:00:20.117Z",
+      "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+      "description": "Hacker News submission with 201 points and 96 comments.",
+      "url": "https://github.com/zachlatta/freeflow",
+      "score": 13.841925481933915,
+      "timestamp": "2026-02-17T12:00:09.999Z",
       "metadata": {
-        "points": 66,
-        "comments": 45
+        "points": 201,
+        "comments": 96
       }
     },
     {
-      "id": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "source": "tech_blogs",
-      "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
-      "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "score": 12.658868530974264,
-      "timestamp": "2026-02-16T23:12:37.000Z",
-      "metadata": {
-        "author": "AWS News",
-        "category": "CLOUD"
-      }
-    },
-    {
-      "id": "https://0byte.io/articles/pytorch_introduction.html",
+      "id": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
       "source": "hackernews",
-      "title": "Visual Introduction to PyTorch",
-      "description": "Hacker News submission with 180 points and 13 comments.",
-      "url": "https://0byte.io/articles/pytorch_introduction.html",
-      "score": 12.398021873431292,
-      "timestamp": "2026-02-17T06:00:20.117Z",
+      "title": "Four Column ASCII (2017)",
+      "description": "Hacker News submission with 185 points and 32 comments.",
+      "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
+      "score": 12.740080667451611,
+      "timestamp": "2026-02-17T12:00:09.999Z",
       "metadata": {
-        "points": 180,
-        "comments": 13
-      }
-    },
-    {
-      "id": "https://qntm.org/suicide",
-      "source": "hackernews",
-      "title": "Suicide Linux (2009)",
-      "description": "Hacker News submission with 98 points and 57 comments.",
-      "url": "https://qntm.org/suicide",
-      "score": 11.75003413109037,
-      "timestamp": "2026-02-17T06:00:20.117Z",
-      "metadata": {
-        "points": 98,
-        "comments": 57
-      }
-    },
-    {
-      "id": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-      "source": "hackernews",
-      "title": "Rise of the Triforce",
-      "description": "Hacker News submission with 169 points and 19 comments.",
-      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-      "score": 11.640364981166046,
-      "timestamp": "2026-02-17T06:00:20.117Z",
-      "metadata": {
-        "points": 169,
-        "comments": 19
-      }
-    },
-    {
-      "id": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/",
-      "source": "tech_blogs",
-      "title": "AWS Weekly Roundup: Amazon EC2 M8azn instances, new open weights models in Amazon Bedrock, and more (February 16, 2026)",
-      "description": "I joined AWS in 2021, and since then I’ve watched the Amazon Elastic Compute Cloud (Amazon EC2) instance family grow at a pace that still surprises me. From AWS Graviton-powered instances to specialized accelerated computing options, it feels like every few months there’s a new instance type landing",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/",
-      "score": 10.267112886022236,
-      "timestamp": "2026-02-16T17:28:52.000Z",
-      "metadata": {
-        "author": "AWS News",
-        "category": "CLOUD"
-      }
-    },
-    {
-      "id": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
-      "source": "hackernews",
-      "title": "PCB Rework and Repair Guide [pdf]",
-      "description": "Hacker News submission with 120 points and 33 comments.",
-      "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
-      "score": 10.265347915620861,
-      "timestamp": "2026-02-17T06:00:20.117Z",
-      "metadata": {
-        "points": 120,
-        "comments": 33
+        "points": 185,
+        "comments": 32
       }
     }
   ]
