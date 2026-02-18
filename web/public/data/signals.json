@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T00:00:22.745Z",
+  "generated_at": "2026-02-18T06:01:30.810Z",
   "trends": [
     {
       "id": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
@@ -7,7 +7,7 @@
       "title": "Spotlight on SIG Architecture: API Governance",
       "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
       "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "score": 30.004194159780788,
+      "score": 30.00390001036414,
       "timestamp": "2026-02-12T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -20,8 +20,8 @@
       "title": "alibaba / zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
-      "score": 29.335773285749937,
-      "timestamp": "2026-02-18T00:00:16.342Z",
+      "score": 29.269478594248753,
+      "timestamp": "2026-02-18T06:01:05.826Z",
       "metadata": {
         "stars": 1473,
         "language": "C++"
@@ -31,26 +31,13 @@
       "id": "https://go.dev/blog/gofix",
       "source": "hackernews",
       "title": "Using go fix to modernize Go code",
-      "description": "Hacker News submission with 256 points and 51 comments.",
+      "description": "Hacker News submission with 309 points and 67 comments.",
       "url": "https://go.dev/blog/gofix",
-      "score": 27.192255272392728,
-      "timestamp": "2026-02-18T00:00:13.857Z",
+      "score": 27.122444355571087,
+      "timestamp": "2026-02-18T06:01:05.608Z",
       "metadata": {
-        "points": 256,
-        "comments": 51
-      }
-    },
-    {
-      "id": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-      "source": "hackernews",
-      "title": "GrapheneOS – Break Free from Google and Apple",
-      "description": "Hacker News submission with 1030 points and 743 comments.",
-      "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-      "score": 27.192255272392728,
-      "timestamp": "2026-02-18T00:00:13.857Z",
-      "metadata": {
-        "points": 1030,
-        "comments": 743
+        "points": 309,
+        "comments": 67
       }
     },
     {
@@ -59,37 +46,128 @@
       "title": "steipete / gogcli",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "url": "https://github.com/steipete/gogcli",
-      "score": 25.44695534203344,
-      "timestamp": "2026-02-18T00:00:16.342Z",
+      "score": 25.384770921405327,
+      "timestamp": "2026-02-18T06:01:05.826Z",
       "metadata": {
         "stars": 469,
         "language": "Go"
       }
     },
     {
+      "id": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
+      "source": "hackernews",
+      "title": "Google Public CA is down",
+      "description": "Hacker News submission with 219 points and 119 comments.",
+      "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
+      "score": 24.99926125548027,
+      "timestamp": "2026-02-18T06:01:05.608Z",
+      "metadata": {
+        "points": 219,
+        "comments": 119
+      }
+    },
+    {
+      "id": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "source": "hackernews",
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "description": "Hacker News submission with 293 points and 196 comments.",
+      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "score": 19.122444355571087,
+      "timestamp": "2026-02-18T06:01:05.608Z",
+      "metadata": {
+        "points": 293,
+        "comments": 196
+      }
+    },
+    {
       "id": "https://www.anthropic.com/news/claude-sonnet-4-6",
       "source": "hackernews",
       "title": "Claude Sonnet 4.6",
-      "description": "Hacker News submission with 775 points and 665 comments.",
+      "description": "Hacker News submission with 998 points and 886 comments.",
       "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "score": 17.192255272392728,
-      "timestamp": "2026-02-18T00:00:13.857Z",
+      "score": 17.122444355571087,
+      "timestamp": "2026-02-18T06:01:05.608Z",
       "metadata": {
-        "points": 775,
-        "comments": 665
+        "points": 998,
+        "comments": 886
+      }
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47049824",
+      "source": "hackernews",
+      "title": "Thank HN: You helped save 33k lives",
+      "description": "Hacker News submission with 638 points and 73 comments.",
+      "url": "https://news.ycombinator.com/item?id=47049824",
+      "score": 17.122444355571087,
+      "timestamp": "2026-02-18T06:01:05.608Z",
+      "metadata": {
+        "points": 638,
+        "comments": 73
+      }
+    },
+    {
+      "id": "https://asteroidos.org/news/2-0-release/index.html",
+      "source": "hackernews",
+      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+      "description": "Hacker News submission with 324 points and 36 comments.",
+      "url": "https://asteroidos.org/news/2-0-release/index.html",
+      "score": 17.122444355571087,
+      "timestamp": "2026-02-18T06:01:05.608Z",
+      "metadata": {
+        "points": 324,
+        "comments": 36
+      }
+    },
+    {
+      "id": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+      "source": "hackernews",
+      "title": "Gentoo on Codeberg",
+      "description": "Hacker News submission with 294 points and 106 comments.",
+      "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+      "score": 17.122444355571087,
+      "timestamp": "2026-02-18T06:01:05.608Z",
+      "metadata": {
+        "points": 294,
+        "comments": 106
       }
     },
     {
       "id": "https://www.arthurcnops.blog/death-of-show-hn/",
       "source": "hackernews",
       "title": "Is Show HN dead? No, but it's drowning",
-      "description": "Hacker News submission with 374 points and 326 comments.",
+      "description": "Hacker News submission with 452 points and 376 comments.",
       "url": "https://www.arthurcnops.blog/death-of-show-hn/",
-      "score": 17.192255272392728,
-      "timestamp": "2026-02-18T00:00:13.857Z",
+      "score": 17.122444355571087,
+      "timestamp": "2026-02-18T06:01:05.608Z",
       "metadata": {
-        "points": 374,
-        "comments": 326
+        "points": 452,
+        "comments": 376
+      }
+    },
+    {
+      "id": "https://hackmyclaw.com/",
+      "source": "hackernews",
+      "title": "HackMyClaw",
+      "description": "Hacker News submission with 284 points and 145 comments.",
+      "url": "https://hackmyclaw.com/",
+      "score": 17.122444355571087,
+      "timestamp": "2026-02-18T06:01:05.608Z",
+      "metadata": {
+        "points": 284,
+        "comments": 145
+      }
+    },
+    {
+      "id": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "source": "hackernews",
+      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+      "description": "Hacker News submission with 244 points and 157 comments.",
+      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "score": 16.71150569103738,
+      "timestamp": "2026-02-18T06:01:05.608Z",
+      "metadata": {
+        "points": 244,
+        "comments": 157
       }
     },
     {
@@ -98,8 +176,8 @@
       "title": "obra / superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "score": 16.335773285749937,
-      "timestamp": "2026-02-18T00:00:16.342Z",
+      "score": 16.269478594248753,
+      "timestamp": "2026-02-18T06:01:05.826Z",
       "metadata": {
         "stars": 569,
         "language": "Shell"
@@ -111,50 +189,37 @@
       "title": "openclaw / openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 16.335773285749937,
-      "timestamp": "2026-02-18T00:00:16.342Z",
+      "score": 16.269478594248753,
+      "timestamp": "2026-02-18T06:01:05.826Z",
       "metadata": {
         "stars": 4201,
         "language": "TypeScript"
       }
     },
     {
-      "id": "https://asteroidos.org/news/2-0-release/index.html",
+      "id": "https://aeris.edbn.me/?city=SFO",
       "source": "hackernews",
-      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "description": "Hacker News submission with 233 points and 28 comments.",
-      "url": "https://asteroidos.org/news/2-0-release/index.html",
-      "score": 16.023181913870026,
-      "timestamp": "2026-02-18T00:00:13.857Z",
+      "title": "I converted 2D conventional flight tracking into 3D",
+      "description": "Hacker News submission with 236 points and 48 comments.",
+      "url": "https://aeris.edbn.me/?city=SFO",
+      "score": 16.163587471659106,
+      "timestamp": "2026-02-18T06:01:05.608Z",
       "metadata": {
-        "points": 233,
-        "comments": 28
+        "points": 236,
+        "comments": 48
       }
     },
     {
-      "id": "https://hackmyclaw.com/",
+      "id": "https://github.com/Zaneham/BarraCUDA",
       "source": "hackernews",
-      "title": "HackMyClaw",
-      "description": "Hacker News submission with 232 points and 126 comments.",
-      "url": "https://hackmyclaw.com/",
-      "score": 15.954412892780452,
-      "timestamp": "2026-02-18T00:00:13.857Z",
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "description": "Hacker News submission with 231 points and 80 comments.",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "score": 15.821138584547684,
+      "timestamp": "2026-02-18T06:01:05.608Z",
       "metadata": {
-        "points": 232,
-        "comments": 126
-      }
-    },
-    {
-      "id": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
-      "source": "hackernews",
-      "title": "Gentoo on Codeberg",
-      "description": "Hacker News submission with 227 points and 68 comments.",
-      "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
-      "score": 15.610567787332597,
-      "timestamp": "2026-02-18T00:00:13.857Z",
-      "metadata": {
-        "points": 227,
-        "comments": 68
+        "points": 231,
+        "comments": 80
       }
     },
     {
@@ -163,7 +228,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.078979195194485,
+      "score": 15.05599225373466,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -176,7 +241,7 @@
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.007216148297674,
+      "score": 15.006545039195252,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -189,76 +254,11 @@
       "title": "p-e-w / heretic",
       "description": "Fully automatic censorship removal for language models",
       "url": "https://github.com/p-e-w/heretic",
-      "score": 14.335773285749935,
-      "timestamp": "2026-02-18T00:00:16.342Z",
+      "score": 14.269478594248753,
+      "timestamp": "2026-02-18T06:01:05.826Z",
       "metadata": {
         "stars": 656,
         "language": "Python"
-      }
-    },
-    {
-      "id": "https://github.com/ashishps1/awesome-system-design-resources",
-      "source": "github_trends",
-      "title": "ashishps1 / awesome-system-design-resources",
-      "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "url": "https://github.com/ashishps1/awesome-system-design-resources",
-      "score": 14.335773285749935,
-      "timestamp": "2026-02-18T00:00:16.342Z",
-      "metadata": {
-        "stars": 510,
-        "language": "Java"
-      }
-    },
-    {
-      "id": "https://github.com/hummingbot/hummingbot",
-      "source": "github_trends",
-      "title": "hummingbot / hummingbot",
-      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "url": "https://github.com/hummingbot/hummingbot",
-      "score": 14.335773285749935,
-      "timestamp": "2026-02-18T00:00:16.342Z",
-      "metadata": {
-        "stars": 568,
-        "language": "Python"
-      }
-    },
-    {
-      "id": "https://aeris.edbn.me/?city=SFO",
-      "source": "hackernews",
-      "title": "I converted 2D conventional flight tracking into 3D",
-      "description": "Hacker News submission with 199 points and 42 comments.",
-      "url": "https://aeris.edbn.me/?city=SFO",
-      "score": 13.685035196824613,
-      "timestamp": "2026-02-18T00:00:13.857Z",
-      "metadata": {
-        "points": 199,
-        "comments": 42
-      }
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=47049824",
-      "source": "hackernews",
-      "title": "Thank HN: You helped save 33k lives",
-      "description": "Hacker News submission with 187 points and 22 comments.",
-      "url": "https://news.ycombinator.com/item?id=47049824",
-      "score": 12.85980694374976,
-      "timestamp": "2026-02-18T00:00:13.857Z",
-      "metadata": {
-        "points": 187,
-        "comments": 22
-      }
-    },
-    {
-      "id": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
-      "source": "hackernews",
-      "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
-      "description": "Hacker News submission with 182 points and 83 comments.",
-      "url": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
-      "score": 12.515961838301907,
-      "timestamp": "2026-02-18T00:00:13.857Z",
-      "metadata": {
-        "points": 182,
-        "comments": 83
       }
     }
   ]
