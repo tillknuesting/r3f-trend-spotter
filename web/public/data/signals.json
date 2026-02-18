@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T06:01:30.810Z",
+  "generated_at": "2026-02-18T12:01:05.630Z",
   "trends": [
     {
       "id": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
@@ -7,7 +7,7 @@
       "title": "Spotlight on SIG Architecture: API Governance",
       "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
       "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "score": 30.00390001036414,
+      "score": 30.00363781818826,
       "timestamp": "2026-02-12T00:00:00.000Z",
       "metadata": {
         "author": "Kubernetes Blog",
@@ -20,10 +20,10 @@
       "title": "alibaba / zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
-      "score": 29.269478594248753,
-      "timestamp": "2026-02-18T06:01:05.826Z",
+      "score": 29.33733104752818,
+      "timestamp": "2026-02-18T12:00:59.662Z",
       "metadata": {
-        "stars": 1473,
+        "stars": 501,
         "language": "C++"
       }
     },
@@ -31,143 +31,143 @@
       "id": "https://go.dev/blog/gofix",
       "source": "hackernews",
       "title": "Using go fix to modernize Go code",
-      "description": "Hacker News submission with 309 points and 67 comments.",
+      "description": "Hacker News submission with 368 points and 72 comments.",
       "url": "https://go.dev/blog/gofix",
-      "score": 27.122444355571087,
-      "timestamp": "2026-02-18T06:01:05.608Z",
+      "score": 27.201845174407463,
+      "timestamp": "2026-02-18T12:00:58.975Z",
       "metadata": {
-        "points": 309,
-        "comments": 67
+        "points": 368,
+        "comments": 72
       }
     },
     {
-      "id": "https://github.com/steipete/gogcli",
+      "id": "https://github.com/HailToDodongo/pyrite64",
       "source": "github_trends",
-      "title": "steipete / gogcli",
-      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "url": "https://github.com/steipete/gogcli",
-      "score": 25.384770921405327,
-      "timestamp": "2026-02-18T06:01:05.826Z",
+      "title": "HailToDodongo / pyrite64",
+      "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+      "url": "https://github.com/HailToDodongo/pyrite64",
+      "score": 25.67058747268794,
+      "timestamp": "2026-02-18T12:00:59.662Z",
       "metadata": {
-        "stars": 469,
-        "language": "Go"
-      }
-    },
-    {
-      "id": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
-      "source": "hackernews",
-      "title": "Google Public CA is down",
-      "description": "Hacker News submission with 219 points and 119 comments.",
-      "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
-      "score": 24.99926125548027,
-      "timestamp": "2026-02-18T06:01:05.608Z",
-      "metadata": {
-        "points": 219,
-        "comments": 119
+        "stars": 407,
+        "language": "C++"
       }
     },
     {
       "id": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
       "source": "hackernews",
       "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-      "description": "Hacker News submission with 293 points and 196 comments.",
+      "description": "Hacker News submission with 537 points and 447 comments.",
       "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-      "score": 19.122444355571087,
-      "timestamp": "2026-02-18T06:01:05.608Z",
+      "score": 19.201845174407463,
+      "timestamp": "2026-02-18T12:00:58.975Z",
       "metadata": {
-        "points": 293,
-        "comments": 196
+        "points": 537,
+        "comments": 447
       }
     },
     {
       "id": "https://www.anthropic.com/news/claude-sonnet-4-6",
       "source": "hackernews",
       "title": "Claude Sonnet 4.6",
-      "description": "Hacker News submission with 998 points and 886 comments.",
+      "description": "Hacker News submission with 1147 points and 994 comments.",
       "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "score": 17.122444355571087,
-      "timestamp": "2026-02-18T06:01:05.608Z",
+      "score": 17.201845174407463,
+      "timestamp": "2026-02-18T12:00:58.975Z",
       "metadata": {
-        "points": 998,
-        "comments": 886
+        "points": 1147,
+        "comments": 994
       }
     },
     {
       "id": "https://news.ycombinator.com/item?id=47049824",
       "source": "hackernews",
       "title": "Thank HN: You helped save 33k lives",
-      "description": "Hacker News submission with 638 points and 73 comments.",
+      "description": "Hacker News submission with 868 points and 87 comments.",
       "url": "https://news.ycombinator.com/item?id=47049824",
-      "score": 17.122444355571087,
-      "timestamp": "2026-02-18T06:01:05.608Z",
+      "score": 17.201845174407463,
+      "timestamp": "2026-02-18T12:00:58.975Z",
       "metadata": {
-        "points": 638,
-        "comments": 73
+        "points": 868,
+        "comments": 87
+      }
+    },
+    {
+      "id": "https://github.com/Zaneham/BarraCUDA",
+      "source": "hackernews",
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "description": "Hacker News submission with 333 points and 142 comments.",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "score": 17.201845174407463,
+      "timestamp": "2026-02-18T12:00:58.975Z",
+      "metadata": {
+        "points": 333,
+        "comments": 142
+      }
+    },
+    {
+      "id": "https://nvie.com/posts/15-years-later/",
+      "source": "hackernews",
+      "title": "15 years later, Microsoft morged my diagram",
+      "description": "Hacker News submission with 557 points and 227 comments.",
+      "url": "https://nvie.com/posts/15-years-later/",
+      "score": 17.201845174407463,
+      "timestamp": "2026-02-18T12:00:58.975Z",
+      "metadata": {
+        "points": 557,
+        "comments": 227
       }
     },
     {
       "id": "https://asteroidos.org/news/2-0-release/index.html",
       "source": "hackernews",
       "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "description": "Hacker News submission with 324 points and 36 comments.",
+      "description": "Hacker News submission with 392 points and 48 comments.",
       "url": "https://asteroidos.org/news/2-0-release/index.html",
-      "score": 17.122444355571087,
-      "timestamp": "2026-02-18T06:01:05.608Z",
+      "score": 17.201845174407463,
+      "timestamp": "2026-02-18T12:00:58.975Z",
       "metadata": {
-        "points": 324,
-        "comments": 36
+        "points": 392,
+        "comments": 48
+      }
+    },
+    {
+      "id": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "source": "hackernews",
+      "title": "Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)",
+      "description": "Hacker News submission with 484 points and 264 comments.",
+      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "score": 17.201845174407463,
+      "timestamp": "2026-02-18T12:00:58.975Z",
+      "metadata": {
+        "points": 484,
+        "comments": 264
       }
     },
     {
       "id": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
       "source": "hackernews",
       "title": "Gentoo on Codeberg",
-      "description": "Hacker News submission with 294 points and 106 comments.",
+      "description": "Hacker News submission with 356 points and 123 comments.",
       "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
-      "score": 17.122444355571087,
-      "timestamp": "2026-02-18T06:01:05.608Z",
+      "score": 17.201845174407463,
+      "timestamp": "2026-02-18T12:00:58.975Z",
       "metadata": {
-        "points": 294,
-        "comments": 106
-      }
-    },
-    {
-      "id": "https://www.arthurcnops.blog/death-of-show-hn/",
-      "source": "hackernews",
-      "title": "Is Show HN dead? No, but it's drowning",
-      "description": "Hacker News submission with 452 points and 376 comments.",
-      "url": "https://www.arthurcnops.blog/death-of-show-hn/",
-      "score": 17.122444355571087,
-      "timestamp": "2026-02-18T06:01:05.608Z",
-      "metadata": {
-        "points": 452,
-        "comments": 376
+        "points": 356,
+        "comments": 123
       }
     },
     {
       "id": "https://hackmyclaw.com/",
       "source": "hackernews",
       "title": "HackMyClaw",
-      "description": "Hacker News submission with 284 points and 145 comments.",
+      "description": "Hacker News submission with 320 points and 159 comments.",
       "url": "https://hackmyclaw.com/",
-      "score": 17.122444355571087,
-      "timestamp": "2026-02-18T06:01:05.608Z",
+      "score": 17.201845174407463,
+      "timestamp": "2026-02-18T12:00:58.975Z",
       "metadata": {
-        "points": 284,
-        "comments": 145
-      }
-    },
-    {
-      "id": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
-      "source": "hackernews",
-      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
-      "description": "Hacker News submission with 244 points and 157 comments.",
-      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
-      "score": 16.71150569103738,
-      "timestamp": "2026-02-18T06:01:05.608Z",
-      "metadata": {
-        "points": 244,
-        "comments": 157
+        "points": 320,
+        "comments": 159
       }
     },
     {
@@ -176,10 +176,10 @@
       "title": "obra / superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "score": 16.269478594248753,
-      "timestamp": "2026-02-18T06:01:05.826Z",
+      "score": 16.33733104752818,
+      "timestamp": "2026-02-18T12:00:59.662Z",
       "metadata": {
-        "stars": 569,
+        "stars": 868,
         "language": "Shell"
       }
     },
@@ -189,37 +189,37 @@
       "title": "openclaw / openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 16.269478594248753,
-      "timestamp": "2026-02-18T06:01:05.826Z",
+      "score": 16.33733104752818,
+      "timestamp": "2026-02-18T12:00:59.662Z",
       "metadata": {
-        "stars": 4201,
+        "stars": 3796,
         "language": "TypeScript"
       }
     },
     {
-      "id": "https://aeris.edbn.me/?city=SFO",
+      "id": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
       "source": "hackernews",
-      "title": "I converted 2D conventional flight tracking into 3D",
-      "description": "Hacker News submission with 236 points and 48 comments.",
-      "url": "https://aeris.edbn.me/?city=SFO",
-      "score": 16.163587471659106,
-      "timestamp": "2026-02-18T06:01:05.608Z",
+      "title": "So you want to build a tunnel",
+      "description": "Hacker News submission with 233 points and 87 comments.",
+      "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
+      "score": 16.032119702547757,
+      "timestamp": "2026-02-18T12:00:58.975Z",
       "metadata": {
-        "points": 236,
-        "comments": 48
+        "points": 233,
+        "comments": 87
       }
     },
     {
-      "id": "https://github.com/Zaneham/BarraCUDA",
+      "id": "https://www.vectorware.com/blog/async-await-on-gpu/",
       "source": "hackernews",
-      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "description": "Hacker News submission with 231 points and 80 comments.",
-      "url": "https://github.com/Zaneham/BarraCUDA",
-      "score": 15.821138584547684,
-      "timestamp": "2026-02-18T06:01:05.608Z",
+      "title": "Async/Await on the GPU",
+      "description": "Hacker News submission with 201 points and 53 comments.",
+      "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+      "score": 15.8302835202236,
+      "timestamp": "2026-02-18T12:00:58.975Z",
       "metadata": {
-        "points": 231,
-        "comments": 80
+        "points": 201,
+        "comments": 53
       }
     },
     {
@@ -228,7 +228,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.05599225373466,
+      "score": 15.042001034524809,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -241,7 +241,7 @@
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.006545039195252,
+      "score": 15.00596855148644,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -249,16 +249,16 @@
       }
     },
     {
-      "id": "https://github.com/p-e-w/heretic",
-      "source": "github_trends",
-      "title": "p-e-w / heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "url": "https://github.com/p-e-w/heretic",
-      "score": 14.269478594248753,
-      "timestamp": "2026-02-18T06:01:05.826Z",
+      "id": "https://berksoft.ca/gol/",
+      "source": "hackernews",
+      "title": "Show HN: I wrote a technical history book on Lisp",
+      "description": "Hacker News submission with 218 points and 79 comments.",
+      "url": "https://berksoft.ca/gol/",
+      "score": 15.000008992083307,
+      "timestamp": "2026-02-18T12:00:58.975Z",
       "metadata": {
-        "stars": 656,
-        "language": "Python"
+        "points": 218,
+        "comments": 79
       }
     }
   ]
