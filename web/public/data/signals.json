@@ -1,134 +1,108 @@
 {
-  "generated_at": "2026-02-19T06:01:09.018Z",
+  "generated_at": "2026-02-19T12:00:54.017Z",
   "trends": [
-    {
-      "id": "https://github.com/alibaba/zvec",
-      "source": "github_trends",
-      "title": "alibaba / zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "url": "https://github.com/alibaba/zvec",
-      "score": 29.352227224051155,
-      "timestamp": "2026-02-19T06:01:07.206Z",
-      "metadata": {
-        "stars": 502,
-        "language": "C++"
-      }
-    },
     {
       "id": "https://github.com/HailToDodongo/pyrite64",
       "source": "github_trends",
       "title": "HailToDodongo / pyrite64",
       "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
       "url": "https://github.com/HailToDodongo/pyrite64",
-      "score": 26.027166413754866,
-      "timestamp": "2026-02-19T06:01:07.206Z",
+      "score": 28.35209091320461,
+      "timestamp": "2026-02-19T12:00:52.167Z",
       "metadata": {
-        "stars": 419,
+        "stars": 605,
         "language": "C++"
-      }
-    },
-    {
-      "id": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-      "source": "hackernews",
-      "title": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
-      "description": "Hacker News submission with 247 points and 146 comments.",
-      "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-      "score": 21.014197503206564,
-      "timestamp": "2026-02-19T06:01:06.782Z",
-      "metadata": {
-        "points": 247,
-        "comments": 146
       }
     },
     {
       "id": "https://tailscale.com/blog/peer-relays-ga",
       "source": "hackernews",
       "title": "Tailscale Peer Relays is now generally available",
-      "description": "Hacker News submission with 367 points and 186 comments.",
+      "description": "Hacker News submission with 418 points and 208 comments.",
       "url": "https://tailscale.com/blog/peer-relays-ga",
-      "score": 19.22084767531029,
-      "timestamp": "2026-02-19T06:01:06.782Z",
+      "score": 19.21857115935716,
+      "timestamp": "2026-02-19T12:00:51.252Z",
       "metadata": {
-        "points": 367,
-        "comments": 186
+        "points": 418,
+        "comments": 208
       }
     },
     {
       "id": "https://pudding.cool/2026/02/womens-sizing/",
       "source": "hackernews",
       "title": "Sizing chaos",
-      "description": "Hacker News submission with 424 points and 219 comments.",
+      "description": "Hacker News submission with 634 points and 345 comments.",
       "url": "https://pudding.cool/2026/02/womens-sizing/",
-      "score": 17.22084767531029,
-      "timestamp": "2026-02-19T06:01:06.782Z",
+      "score": 17.21857115935716,
+      "timestamp": "2026-02-19T12:00:51.252Z",
       "metadata": {
-        "points": 424,
-        "comments": 219
+        "points": 634,
+        "comments": 345
       }
     },
     {
       "id": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
       "source": "hackernews",
       "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
-      "description": "Hacker News submission with 259 points and 134 comments.",
+      "description": "Hacker News submission with 368 points and 202 comments.",
       "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-      "score": 17.22084767531029,
-      "timestamp": "2026-02-19T06:01:06.782Z",
+      "score": 17.21857115935716,
+      "timestamp": "2026-02-19T12:00:51.252Z",
       "metadata": {
-        "points": 259,
-        "comments": 134
+        "points": 368,
+        "comments": 202
       }
     },
     {
       "id": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
       "source": "hackernews",
       "title": "Cosmologically Unique IDs",
-      "description": "Hacker News submission with 332 points and 105 comments.",
+      "description": "Hacker News submission with 405 points and 121 comments.",
       "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-      "score": 17.22084767531029,
-      "timestamp": "2026-02-19T06:01:06.782Z",
+      "score": 17.21857115935716,
+      "timestamp": "2026-02-19T12:00:51.252Z",
       "metadata": {
-        "points": 332,
-        "comments": 105
+        "points": 405,
+        "comments": 121
+      }
+    },
+    {
+      "id": "https://code.claude.com/docs/en/legal-and-compliance",
+      "source": "hackernews",
+      "title": "Anthropic officially bans using subscription auth for third party use",
+      "description": "Hacker News submission with 419 points and 497 comments.",
+      "url": "https://code.claude.com/docs/en/legal-and-compliance",
+      "score": 17.21857115935716,
+      "timestamp": "2026-02-19T12:00:51.252Z",
+      "metadata": {
+        "points": 419,
+        "comments": 497
       }
     },
     {
       "id": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
       "source": "hackernews",
       "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
-      "description": "Hacker News submission with 301 points and 151 comments.",
+      "description": "Hacker News submission with 344 points and 188 comments.",
       "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
-      "score": 17.22084767531029,
-      "timestamp": "2026-02-19T06:01:06.782Z",
+      "score": 17.21857115935716,
+      "timestamp": "2026-02-19T12:00:51.252Z",
       "metadata": {
-        "points": 301,
-        "comments": 151
-      }
-    },
-    {
-      "id": "https://github.com/LadybirdBrowser/ladybird/issues/933",
-      "source": "hackernews",
-      "title": "Closing this as we are no longer pursuing Swift adoption",
-      "description": "Hacker News submission with 251 points and 193 comments.",
-      "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
-      "score": 17.22084767531029,
-      "timestamp": "2026-02-19T06:01:06.782Z",
-      "metadata": {
-        "points": 251,
-        "comments": 193
+        "points": 344,
+        "comments": 188
       }
     },
     {
       "id": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
       "source": "hackernews",
       "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-      "description": "Hacker News submission with 238 points and 107 comments.",
+      "description": "Hacker News submission with 280 points and 126 comments.",
       "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-      "score": 16.394246986895396,
-      "timestamp": "2026-02-19T06:01:06.782Z",
+      "score": 17.21857115935716,
+      "timestamp": "2026-02-19T12:00:51.252Z",
       "metadata": {
-        "points": 238,
-        "comments": 107
+        "points": 280,
+        "comments": 126
       }
     },
     {
@@ -137,10 +111,10 @@
       "title": "obra / superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "score": 16.352227224051155,
-      "timestamp": "2026-02-19T06:01:07.206Z",
+      "score": 16.35209091320461,
+      "timestamp": "2026-02-19T12:00:52.167Z",
       "metadata": {
-        "stars": 868,
+        "stars": 886,
         "language": "Shell"
       }
     },
@@ -150,10 +124,10 @@
       "title": "openclaw / openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 16.352227224051155,
-      "timestamp": "2026-02-19T06:01:07.206Z",
+      "score": 16.35209091320461,
+      "timestamp": "2026-02-19T12:00:52.167Z",
       "metadata": {
-        "stars": 3805,
+        "stars": 3384,
         "language": "TypeScript"
       }
     },
@@ -163,7 +137,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.021694519930627,
+      "score": 15.018205090297148,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -176,7 +150,7 @@
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.004641122055531,
+      "score": 15.004299124304978,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -184,16 +158,16 @@
       }
     },
     {
-      "id": "https://github.com/p-e-w/heretic",
-      "source": "github_trends",
-      "title": "p-e-w / heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "url": "https://github.com/p-e-w/heretic",
-      "score": 14.352227224051154,
-      "timestamp": "2026-02-19T06:01:07.206Z",
+      "id": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+      "source": "hackernews",
+      "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+      "description": "Hacker News submission with 7 points and 0 comments.",
+      "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+      "score": 14.482119992462,
+      "timestamp": "2026-02-19T12:00:51.252Z",
       "metadata": {
-        "stars": 946,
-        "language": "Python"
+        "points": 7,
+        "comments": 0
       }
     },
     {
@@ -202,24 +176,37 @@
       "title": "harvard-edge / cs249r_book",
       "description": "Introduction to Machine Learning Systems",
       "url": "https://github.com/harvard-edge/cs249r_book",
-      "score": 14.352227224051154,
-      "timestamp": "2026-02-19T06:01:07.206Z",
+      "score": 14.35209091320461,
+      "timestamp": "2026-02-19T12:00:52.167Z",
       "metadata": {
-        "stars": 690,
+        "stars": 660,
         "language": "JavaScript"
       }
     },
     {
-      "id": "https://code.claude.com/docs/en/legal-and-compliance",
-      "source": "hackernews",
-      "title": "Anthropic officially bans using subscription auth for third party use",
-      "description": "Hacker News submission with 192 points and 204 comments.",
-      "url": "https://code.claude.com/docs/en/legal-and-compliance",
-      "score": 13.225611014638302,
-      "timestamp": "2026-02-19T06:01:06.782Z",
+      "id": "https://github.com/p-e-w/heretic",
+      "source": "github_trends",
+      "title": "p-e-w / heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "url": "https://github.com/p-e-w/heretic",
+      "score": 14.35209091320461,
+      "timestamp": "2026-02-19T12:00:52.167Z",
       "metadata": {
-        "points": 192,
-        "comments": 204
+        "stars": 657,
+        "language": "Python"
+      }
+    },
+    {
+      "id": "https://github.com/open-mercato/open-mercato",
+      "source": "github_trends",
+      "title": "open-mercato / open-mercato",
+      "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+      "url": "https://github.com/open-mercato/open-mercato",
+      "score": 13.607434182278917,
+      "timestamp": "2026-02-19T12:00:52.167Z",
+      "metadata": {
+        "stars": 56,
+        "language": "TypeScript"
       }
     },
     {
@@ -228,7 +215,7 @@
       "title": "Anthropic: You can still use your Claude accounts to run OpenClaw, NanoClaw and Co.",
       "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/9df13c00-img_0962-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"The Anthropic logo on a lectern.\" style=\"display: block; margin: auto; margin-bottom: 20px;max-width: 100%;\" link_thumbnail",
       "url": "https://thenewstack.io/anthropic-agent-sdk-confusion/",
-      "score": 12.760826908501514,
+      "score": 12.281207277447825,
       "timestamp": "2026-02-18T23:53:56.000Z",
       "metadata": {
         "author": "The New Stack",
@@ -236,29 +223,42 @@
       }
     },
     {
-      "id": "https://github.com/NirDiamant/RAG_Techniques",
-      "source": "github_trends",
-      "title": "NirDiamant / RAG_Techniques",
-      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
-      "url": "https://github.com/NirDiamant/RAG_Techniques",
-      "score": 12.381700698845874,
-      "timestamp": "2026-02-19T06:01:07.206Z",
+      "id": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+      "source": "tech_blogs",
+      "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
+      "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+      "score": 12.019148190640253,
+      "timestamp": "2026-02-16T23:12:37.000Z",
       "metadata": {
-        "stars": 292,
-        "language": "Jupyter Notebook"
+        "author": "AWS News",
+        "category": "CLOUD"
       }
     },
     {
-      "id": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
+      "id": "https://phys.org/news/2026-02-antarctica-earth-strongest-gravity-hole.html",
       "source": "hackernews",
-      "title": "Ukranian controls Home Assistant over LoRa radio when their power grid goes down",
-      "description": "Hacker News submission with 30 points and 4 comments.",
-      "url": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
-      "score": 12.066501721037234,
-      "timestamp": "2026-02-19T06:01:06.782Z",
+      "title": "Antarctica sits above Earth's strongest 'gravity hole' – how it got that way",
+      "description": "Hacker News submission with 11 points and 6 comments.",
+      "url": "https://phys.org/news/2026-02-antarctica-earth-strongest-gravity-hole.html",
+      "score": 10.757617131011715,
+      "timestamp": "2026-02-19T12:00:51.252Z",
       "metadata": {
-        "points": 30,
-        "comments": 4
+        "points": 11,
+        "comments": 6
+      }
+    },
+    {
+      "id": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
+      "source": "hackernews",
+      "title": "The Mongol Khans of Medieval France",
+      "description": "Hacker News submission with 4 points and 0 comments.",
+      "url": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
+      "score": 10.275497138549715,
+      "timestamp": "2026-02-19T12:00:51.252Z",
+      "metadata": {
+        "points": 4,
+        "comments": 0
       }
     }
   ]
