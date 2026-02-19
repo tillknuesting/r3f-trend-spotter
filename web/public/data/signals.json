@@ -1,95 +1,82 @@
 {
-  "generated_at": "2026-02-18T18:00:58.575Z",
+  "generated_at": "2026-02-19T00:00:59.170Z",
   "trends": [
-    {
-      "id": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "source": "tech_blogs",
-      "title": "[🚀 BURST] Spotlight on SIG Architecture: API Governance",
-      "description": "<p><em>This is the fifth interview of a SIG Architecture Spotlight series that covers the different\nsubprojects, and we will be covering <a href=\"https://github.com/kubernetes/community/blob/master/sig-architecture/README.md#architecture-and-api-governance-1\">SIG Architecture: API\nGovernance</a>.</e",
-      "url": "https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/",
-      "score": 60.00680373602987,
-      "timestamp": "2026-02-12T00:00:00.000Z",
-      "metadata": {
-        "author": "Kubernetes Blog",
-        "category": "INFRA"
-      }
-    },
     {
       "id": "https://github.com/alibaba/zvec",
       "source": "github_trends",
       "title": "[🚀 BURST] alibaba / zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
-      "score": 58.7044759710391,
-      "timestamp": "2026-02-18T18:00:56.766Z",
+      "score": 58.70154908207252,
+      "timestamp": "2026-02-19T00:00:56.953Z",
       "metadata": {
-        "stars": 501,
+        "stars": 502,
         "language": "C++"
       }
     },
     {
       "id": "https://github.com/HailToDodongo/pyrite64",
       "source": "github_trends",
-      "title": "HailToDodongo / pyrite64",
+      "title": "[🚀 BURST] HailToDodongo / pyrite64",
       "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
       "url": "https://github.com/HailToDodongo/pyrite64",
-      "score": 25.682721720212914,
-      "timestamp": "2026-02-18T18:00:56.766Z",
+      "score": 52.05189813077677,
+      "timestamp": "2026-02-19T00:00:56.953Z",
       "metadata": {
-        "stars": 407,
+        "stars": 419,
         "language": "C++"
+      }
+    },
+    {
+      "id": "https://thenewstack.io/anthropic-agent-sdk-confusion/",
+      "source": "tech_blogs",
+      "title": "Anthropic: You can still use your Claude accounts to run OpenClaw, NanoClaw and Co.",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/9df13c00-img_0962-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"The Anthropic logo on a lectern.\" style=\"display: block; margin: auto; margin-bottom: 20px;max-width: 100%;\" link_thumbnail",
+      "url": "https://thenewstack.io/anthropic-agent-sdk-confusion/",
+      "score": 20.55094971585911,
+      "timestamp": "2026-02-18T23:53:56.000Z",
+      "metadata": {
+        "author": "The New Stack",
+        "category": "ENGINEERING"
+      }
+    },
+    {
+      "id": "https://tailscale.com/blog/peer-relays-ga",
+      "source": "hackernews",
+      "title": "Tailscale Peer Relays is now generally available",
+      "description": "Hacker News submission with 296 points and 160 comments.",
+      "url": "https://tailscale.com/blog/peer-relays-ga",
+      "score": 19.216449988390007,
+      "timestamp": "2026-02-19T00:00:55.912Z",
+      "metadata": {
+        "points": 296,
+        "comments": 160
       }
     },
     {
       "id": "https://annas-archive.li/blog/llms-txt.html",
       "source": "hackernews",
       "title": "If you’re an LLM, please read this",
-      "description": "Hacker News submission with 523 points and 250 comments.",
+      "description": "Hacker News submission with 743 points and 345 comments.",
       "url": "https://annas-archive.li/blog/llms-txt.html",
-      "score": 19.218102143348798,
-      "timestamp": "2026-02-18T18:00:55.701Z",
+      "score": 19.216449988390007,
+      "timestamp": "2026-02-19T00:00:55.912Z",
       "metadata": {
-        "points": 523,
-        "comments": 250
+        "points": 743,
+        "comments": 345
       }
     },
     {
-      "id": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+      "id": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
       "source": "hackernews",
-      "title": "Terminals should generate the 256-color palette",
-      "description": "Hacker News submission with 384 points and 143 comments.",
-      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
-      "score": 17.218102143348798,
-      "timestamp": "2026-02-18T18:00:55.701Z",
+      "title": "Cosmologically Unique IDs",
+      "description": "Hacker News submission with 254 points and 76 comments.",
+      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+      "score": 17.216449988390007,
+      "timestamp": "2026-02-19T00:00:55.912Z",
       "metadata": {
-        "points": 384,
-        "comments": 143
-      }
-    },
-    {
-      "id": "https://asteroidos.org/news/2-0-release/index.html",
-      "source": "hackernews",
-      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "description": "Hacker News submission with 439 points and 61 comments.",
-      "url": "https://asteroidos.org/news/2-0-release/index.html",
-      "score": 17.218102143348798,
-      "timestamp": "2026-02-18T18:00:55.701Z",
-      "metadata": {
-        "points": 439,
-        "comments": 61
-      }
-    },
-    {
-      "id": "https://nvie.com/posts/15-years-later/",
-      "source": "hackernews",
-      "title": "15 years later, Microsoft morged my diagram",
-      "description": "Hacker News submission with 867 points and 321 comments.",
-      "url": "https://nvie.com/posts/15-years-later/",
-      "score": 17.218102143348798,
-      "timestamp": "2026-02-18T18:00:55.701Z",
-      "metadata": {
-        "points": 867,
-        "comments": 321
+        "points": 254,
+        "comments": 76
       }
     },
     {
@@ -98,8 +85,8 @@
       "title": "obra / superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "score": 16.35223798551955,
-      "timestamp": "2026-02-18T18:00:56.766Z",
+      "score": 16.35077454103626,
+      "timestamp": "2026-02-19T00:00:56.953Z",
       "metadata": {
         "stars": 868,
         "language": "Shell"
@@ -111,11 +98,24 @@
       "title": "openclaw / openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 16.35223798551955,
-      "timestamp": "2026-02-18T18:00:56.766Z",
+      "score": 16.35077454103626,
+      "timestamp": "2026-02-19T00:00:56.953Z",
       "metadata": {
-        "stars": 3796,
+        "stars": 3805,
         "language": "TypeScript"
+      }
+    },
+    {
+      "id": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+      "source": "hackernews",
+      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+      "description": "Hacker News submission with 237 points and 125 comments.",
+      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+      "score": 16.321194588993723,
+      "timestamp": "2026-02-19T00:00:55.912Z",
+      "metadata": {
+        "points": 237,
+        "comments": 125
       }
     },
     {
@@ -124,7 +124,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.03277427655418,
+      "score": 15.026353480671979,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -137,7 +137,7 @@
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.005466961526416,
+      "score": 15.005027864116265,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -150,10 +150,10 @@
       "title": "p-e-w / heretic",
       "description": "Fully automatic censorship removal for language models",
       "url": "https://github.com/p-e-w/heretic",
-      "score": 14.35223798551955,
-      "timestamp": "2026-02-18T18:00:56.766Z",
+      "score": 14.35077454103626,
+      "timestamp": "2026-02-19T00:00:56.953Z",
       "metadata": {
-        "stars": 947,
+        "stars": 946,
         "language": "Python"
       }
     },
@@ -163,24 +163,24 @@
       "title": "harvard-edge / cs249r_book",
       "description": "Introduction to Machine Learning Systems",
       "url": "https://github.com/harvard-edge/cs249r_book",
-      "score": 14.35223798551955,
-      "timestamp": "2026-02-18T18:00:56.766Z",
+      "score": 14.35077454103626,
+      "timestamp": "2026-02-19T00:00:56.953Z",
       "metadata": {
-        "stars": 737,
+        "stars": 690,
         "language": "JavaScript"
       }
     },
     {
-      "id": "https://www.mnemom.ai",
+      "id": "https://pudding.cool/2026/02/womens-sizing/",
       "source": "hackernews",
-      "title": "Show HN: Trust Protocols for Anthropic/OpenAI/Gemini",
-      "description": "Hacker News submission with 5 points and 2 comments.",
-      "url": "https://www.mnemom.ai",
-      "score": 12.344362042866976,
-      "timestamp": "2026-02-18T18:00:55.701Z",
+      "title": "Sizing chaos",
+      "description": "Hacker News submission with 200 points and 95 comments.",
+      "url": "https://pudding.cool/2026/02/womens-sizing/",
+      "score": 13.773159990712005,
+      "timestamp": "2026-02-19T00:00:55.912Z",
       "metadata": {
-        "points": 5,
-        "comments": 2
+        "points": 200,
+        "comments": 95
       }
     },
     {
@@ -189,10 +189,10 @@
       "title": "NirDiamant / RAG_Techniques",
       "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
       "url": "https://github.com/NirDiamant/RAG_Techniques",
-      "score": 12.037253271890947,
-      "timestamp": "2026-02-18T18:00:56.766Z",
+      "score": 12.380852331965176,
+      "timestamp": "2026-02-19T00:00:56.953Z",
       "metadata": {
-        "stars": 280,
+        "stars": 292,
         "language": "Jupyter Notebook"
       }
     },
@@ -202,11 +202,24 @@
       "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
       "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
       "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "score": 12.035164864383788,
+      "score": 12.02804558457047,
       "timestamp": "2026-02-16T23:12:37.000Z",
       "metadata": {
         "author": "AWS News",
         "category": "CLOUD"
+      }
+    },
+    {
+      "id": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "source": "hackernews",
+      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "description": "Hacker News submission with 163 points and 77 comments.",
+      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "score": 11.225125392430284,
+      "timestamp": "2026-02-19T00:00:55.912Z",
+      "metadata": {
+        "points": 163,
+        "comments": 77
       }
     },
     {
@@ -215,24 +228,11 @@
       "title": "p2r3 / convert",
       "description": "Truly universal online file converter",
       "url": "https://github.com/p2r3/convert",
-      "score": 11.395676960502522,
-      "timestamp": "2026-02-18T18:00:56.766Z",
+      "score": 11.222305691090355,
+      "timestamp": "2026-02-19T00:00:56.953Z",
       "metadata": {
-        "stars": 397,
+        "stars": 391,
         "language": "TypeScript"
-      }
-    },
-    {
-      "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-      "source": "hackernews",
-      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
-      "description": "Hacker News submission with 136 points and 40 comments.",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-      "score": 11.366647565981744,
-      "timestamp": "2026-02-18T18:00:55.701Z",
-      "metadata": {
-        "points": 136,
-        "comments": 40
       }
     },
     {
@@ -241,7 +241,7 @@
       "title": "AWS Weekly Roundup: Amazon EC2 M8azn instances, new open weights models in Amazon Bedrock, and more (February 16, 2026)",
       "description": "I joined AWS in 2021, and since then I’ve watched the Amazon Elastic Compute Cloud (Amazon EC2) instance family grow at a pace that still surprises me. From AWS Graviton-powered instances to specialized accelerated computing options, it feels like every few months there’s a new instance type landing",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/",
-      "score": 10.02831687887068,
+      "score": 10.023138656147507,
       "timestamp": "2026-02-16T17:28:52.000Z",
       "metadata": {
         "author": "AWS News",
