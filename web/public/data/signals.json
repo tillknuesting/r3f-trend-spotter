@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T12:00:26.992Z",
+  "generated_at": "2026-02-20T18:00:27.991Z",
   "trends": [
     {
       "id": "https://github.com/HailToDodongo/pyrite64",
@@ -7,8 +7,8 @@
       "title": "HailToDodongo / pyrite64",
       "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
       "url": "https://github.com/HailToDodongo/pyrite64",
-      "score": 26.63464900364736,
-      "timestamp": "2026-02-20T12:00:26.665Z",
+      "score": 26.635321796015525,
+      "timestamp": "2026-02-20T18:00:27.877Z",
       "metadata": {
         "stars": 440,
         "language": "C++"
@@ -20,37 +20,63 @@
       "title": "google-research / timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "url": "https://github.com/google-research/timesfm",
-      "score": 24.577218780903507,
-      "timestamp": "2026-02-20T12:00:26.665Z",
+      "score": 24.577888515124545,
+      "timestamp": "2026-02-20T18:00:27.877Z",
       "metadata": {
         "stars": 438,
         "language": "Python"
       }
     },
     {
-      "id": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "id": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "source": "hackernews",
-      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
-      "description": "Hacker News submission with 403 points and 344 comments.",
-      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-      "score": 21.222715714793534,
-      "timestamp": "2026-02-20T12:00:25.190Z",
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "description": "Hacker News submission with 416 points and 92 comments.",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "score": 19.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
       "metadata": {
-        "points": 403,
-        "comments": 344
+        "points": 416,
+        "comments": 92
+      }
+    },
+    {
+      "id": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "source": "hackernews",
+      "title": "The path to ubiquitous AI (17k tokens/sec)",
+      "description": "Hacker News submission with 504 points and 307 comments.",
+      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "score": 19.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
+      "metadata": {
+        "points": 504,
+        "comments": 307
       }
     },
     {
       "id": "https://www.kasava.dev/blog/ai-as-exoskeleton",
       "source": "hackernews",
       "title": "AI is not a coworker, it's an exoskeleton",
-      "description": "Hacker News submission with 289 points and 335 comments.",
+      "description": "Hacker News submission with 430 points and 423 comments.",
       "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "score": 19.222715714793534,
-      "timestamp": "2026-02-20T12:00:25.190Z",
+      "score": 19.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
       "metadata": {
-        "points": 289,
-        "comments": 335
+        "points": 430,
+        "comments": 423
+      }
+    },
+    {
+      "id": "https://github.com/vxcontrol/pentagi",
+      "source": "github_trends",
+      "title": "vxcontrol / pentagi",
+      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "score": 18.358320222744915,
+      "timestamp": "2026-02-20T18:00:27.877Z",
+      "metadata": {
+        "stars": 1310,
+        "language": "Go"
       }
     },
     {
@@ -59,102 +85,115 @@
       "title": "aquasecurity / trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "url": "https://github.com/aquasecurity/trivy",
-      "score": 18.234749788992808,
-      "timestamp": "2026-02-20T12:00:26.665Z",
+      "score": 18.062515696483125,
+      "timestamp": "2026-02-20T18:00:27.877Z",
       "metadata": {
-        "stars": 43,
+        "stars": 37,
         "language": "Go"
       }
     },
     {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "id": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
       "source": "hackernews",
-      "title": "Gemini 3.1 Pro",
-      "description": "Hacker News submission with 802 points and 830 comments.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "score": 17.222715714793534,
-      "timestamp": "2026-02-20T12:00:25.190Z",
+      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+      "description": "Hacker News submission with 355 points and 154 comments.",
+      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+      "score": 17.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
       "metadata": {
-        "points": 802,
-        "comments": 830
+        "points": 355,
+        "comments": 154
       }
     },
     {
-      "id": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+      "id": "https://www.bbc.com/news/live/c0l9r67drg7t",
       "source": "hackernews",
-      "title": "I tried building my startup entirely on European infrastructure",
-      "description": "Hacker News submission with 330 points and 180 comments.",
-      "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
-      "score": 17.222715714793534,
-      "timestamp": "2026-02-20T12:00:25.190Z",
+      "title": "Trump's global tariffs struck down by US Supreme Court",
+      "description": "Hacker News submission with 614 points and 477 comments.",
+      "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
+      "score": 17.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
       "metadata": {
-        "points": 330,
-        "comments": 180
+        "points": 614,
+        "comments": 477
       }
     },
     {
       "id": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
       "source": "hackernews",
       "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
-      "description": "Hacker News submission with 288 points and 125 comments.",
+      "description": "Hacker News submission with 414 points and 185 comments.",
       "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
-      "score": 17.222715714793534,
-      "timestamp": "2026-02-20T12:00:25.190Z",
+      "score": 17.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
       "metadata": {
-        "points": 288,
-        "comments": 125
-      }
-    },
-    {
-      "id": "https://micasa.dev",
-      "source": "hackernews",
-      "title": "Show HN: Micasa – track your house from the terminal",
-      "description": "Hacker News submission with 568 points and 183 comments.",
-      "url": "https://micasa.dev",
-      "score": 17.222715714793534,
-      "timestamp": "2026-02-20T12:00:25.190Z",
-      "metadata": {
-        "points": 568,
-        "comments": 183
+        "points": 414,
+        "comments": 185
       }
     },
     {
       "id": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
       "source": "hackernews",
       "title": "US plans online portal to bypass content bans in Europe and elsewhere",
-      "description": "Hacker News submission with 345 points and 609 comments.",
+      "description": "Hacker News submission with 422 points and 806 comments.",
       "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
-      "score": 17.222715714793534,
-      "timestamp": "2026-02-20T12:00:25.190Z",
+      "score": 17.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
       "metadata": {
-        "points": 345,
-        "comments": 609
+        "points": 422,
+        "comments": 806
       }
     },
     {
-      "id": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "id": "https://micasa.dev",
       "source": "hackernews",
-      "title": "America vs. Singapore: You can't save your way out of economic shocks",
-      "description": "Hacker News submission with 286 points and 419 comments.",
-      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-      "score": 17.222715714793534,
-      "timestamp": "2026-02-20T12:00:25.190Z",
+      "title": "Show HN: Micasa – track your house from the terminal",
+      "description": "Hacker News submission with 607 points and 193 comments.",
+      "url": "https://micasa.dev",
+      "score": 17.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
       "metadata": {
-        "points": 286,
-        "comments": 419
+        "points": 607,
+        "comments": 193
       }
     },
     {
-      "id": "https://pagedout.institute/download/PagedOut_008.pdf",
+      "id": "https://www.freecad.org/index.php",
       "source": "hackernews",
-      "title": "Paged Out Issue #8 [pdf]",
-      "description": "Hacker News submission with 397 points and 60 comments.",
-      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
-      "score": 17.222715714793534,
-      "timestamp": "2026-02-20T12:00:25.190Z",
+      "title": "FreeCAD",
+      "description": "Hacker News submission with 346 points and 148 comments.",
+      "url": "https://www.freecad.org/index.php",
+      "score": 17.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
       "metadata": {
-        "points": 397,
-        "comments": 60
+        "points": 346,
+        "comments": 148
+      }
+    },
+    {
+      "id": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+      "source": "hackernews",
+      "title": "I tried building my startup entirely on European infrastructure",
+      "description": "Hacker News submission with 623 points and 320 comments.",
+      "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+      "score": 17.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
+      "metadata": {
+        "points": 623,
+        "comments": 320
+      }
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "source": "hackernews",
+      "title": "Gemini 3.1 Pro",
+      "description": "Hacker News submission with 905 points and 872 comments.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "score": 17.213998025541933,
+      "timestamp": "2026-02-20T18:00:24.163Z",
+      "metadata": {
+        "points": 905,
+        "comments": 872
       }
     },
     {
@@ -163,24 +202,11 @@
       "title": "obra / superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "score": 16.35755568596291,
-      "timestamp": "2026-02-20T12:00:26.665Z",
+      "score": 16.358320222744915,
+      "timestamp": "2026-02-20T18:00:27.877Z",
       "metadata": {
         "stars": 980,
         "language": "Shell"
-      }
-    },
-    {
-      "id": "https://github.com/Veirt/weathr",
-      "source": "hackernews",
-      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-      "description": "Hacker News submission with 225 points and 39 comments.",
-      "url": "https://github.com/Veirt/weathr",
-      "score": 15.50044414331418,
-      "timestamp": "2026-02-20T12:00:25.190Z",
-      "metadata": {
-        "points": 225,
-        "comments": 39
       }
     },
     {
@@ -189,50 +215,11 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.010310281453524,
+      "score": 15.009162968078806,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
         "category": "CLOUD"
-      }
-    },
-    {
-      "id": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "source": "tech_blogs",
-      "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
-      "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
-      "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.003257784444175,
-      "timestamp": "2026-02-13T14:00:00.000Z",
-      "metadata": {
-        "author": "Cloudflare Blog",
-        "category": "INFRA"
-      }
-    },
-    {
-      "id": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
-      "source": "hackernews",
-      "title": "Defer available in gcc and clang",
-      "description": "Hacker News submission with 186 points and 140 comments.",
-      "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
-      "score": 14.81370049180639,
-      "timestamp": "2026-02-20T12:00:25.190Z",
-      "metadata": {
-        "points": 186,
-        "comments": 140
-      }
-    },
-    {
-      "id": "https://github.com/blackboardsh/electrobun",
-      "source": "github_trends",
-      "title": "blackboardsh / electrobun",
-      "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
-      "url": "https://github.com/blackboardsh/electrobun",
-      "score": 14.357555685962911,
-      "timestamp": "2026-02-20T12:00:26.665Z",
-      "metadata": {
-        "stars": 951,
-        "language": "C++"
       }
     },
     {
@@ -241,24 +228,37 @@
       "title": "freemocap / freemocap",
       "description": "Free Motion Capture for Everyone 💀✨",
       "url": "https://github.com/freemocap/freemocap",
-      "score": 14.357555685962911,
-      "timestamp": "2026-02-20T12:00:26.665Z",
+      "score": 14.358320222744915,
+      "timestamp": "2026-02-20T18:00:27.877Z",
       "metadata": {
         "stars": 503,
         "language": "Python"
       }
     },
     {
-      "id": "https://www.freecad.org/index.php",
-      "source": "hackernews",
-      "title": "FreeCAD",
-      "description": "Hacker News submission with 203 points and 67 comments.",
-      "url": "https://www.freecad.org/index.php",
-      "score": 13.98484516041235,
-      "timestamp": "2026-02-20T12:00:25.190Z",
+      "id": "https://github.com/roboflow/trackers",
+      "source": "github_trends",
+      "title": "roboflow / trackers",
+      "description": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
+      "url": "https://github.com/roboflow/trackers",
+      "score": 13.647013336577208,
+      "timestamp": "2026-02-20T18:00:27.877Z",
       "metadata": {
-        "points": 203,
-        "comments": 67
+        "stars": 127,
+        "language": "Python"
+      }
+    },
+    {
+      "id": "https://github.com/blackboardsh/electrobun",
+      "source": "github_trends",
+      "title": "blackboardsh / electrobun",
+      "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+      "url": "https://github.com/blackboardsh/electrobun",
+      "score": 12.491738593788076,
+      "timestamp": "2026-02-20T18:00:27.877Z",
+      "metadata": {
+        "stars": 435,
+        "language": "C++"
       }
     }
   ]
