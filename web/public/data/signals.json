@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T00:00:33.143Z",
+  "generated_at": "2026-02-20T06:00:31.049Z",
   "trends": [
     {
       "id": "https://github.com/HailToDodongo/pyrite64",
@@ -7,8 +7,8 @@
       "title": "HailToDodongo / pyrite64",
       "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
       "url": "https://github.com/HailToDodongo/pyrite64",
-      "score": 28.351079406160938,
-      "timestamp": "2026-02-20T00:00:31.011Z",
+      "score": 28.35487492357597,
+      "timestamp": "2026-02-20T06:00:29.975Z",
       "metadata": {
         "stars": 608,
         "language": "C++"
@@ -18,117 +18,104 @@
       "id": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
       "source": "hackernews",
       "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-      "description": "Hacker News submission with 173 points and 74 comments.",
+      "description": "Hacker News submission with 194 points and 79 comments.",
       "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-      "score": 25.916504943640845,
-      "timestamp": "2026-02-20T00:00:30.799Z",
+      "score": 27.362656427962243,
+      "timestamp": "2026-02-20T06:00:28.597Z",
       "metadata": {
-        "points": 173,
-        "comments": 74
+        "points": 194,
+        "comments": 79
       }
     },
     {
-      "id": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0",
+      "id": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
       "source": "hackernews",
-      "title": "Mark Zuckerberg grilled on usage goals and underage users at California trial",
-      "description": "Hacker News submission with 153 points and 85 comments.",
-      "url": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0",
-      "score": 22.538874314318207,
-      "timestamp": "2026-02-20T00:00:30.799Z",
+      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+      "description": "Hacker News submission with 239 points and 182 comments.",
+      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "score": 20.46224168187101,
+      "timestamp": "2026-02-20T06:00:28.597Z",
       "metadata": {
-        "points": 153,
-        "comments": 85
-      }
-    },
-    {
-      "id": "https://www.marginalia.nu/log/a_132_ai_bores/",
-      "source": "hackernews",
-      "title": "AI makes you boring",
-      "description": "Hacker News submission with 495 points and 279 comments.",
-      "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
-      "score": 19.22038286653301,
-      "timestamp": "2026-02-20T00:00:30.799Z",
-      "metadata": {
-        "points": 495,
-        "comments": 279
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-      "source": "hackernews",
-      "title": "We're no longer attracting top talent: the brain drain killing American science",
-      "description": "Hacker News submission with 235 points and 180 comments.",
-      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-      "score": 18.187159894541033,
-      "timestamp": "2026-02-20T00:00:30.799Z",
-      "metadata": {
-        "points": 235,
-        "comments": 180
-      }
-    },
-    {
-      "id": "https://yieldcode.blog/post/farewell-rust/",
-      "source": "hackernews",
-      "title": "Farewell, Rust for web",
-      "description": "Hacker News submission with 111 points and 100 comments.",
-      "url": "https://yieldcode.blog/post/farewell-rust/",
-      "score": 17.645849992740658,
-      "timestamp": "2026-02-20T00:00:30.799Z",
-      "metadata": {
-        "points": 111,
-        "comments": 100
+        "points": 239,
+        "comments": 182
       }
     },
     {
       "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
       "source": "hackernews",
       "title": "Gemini 3.1 Pro",
-      "description": "Hacker News submission with 441 points and 656 comments.",
+      "description": "Hacker News submission with 644 points and 752 comments.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "score": 17.22038286653301,
-      "timestamp": "2026-02-20T00:00:30.799Z",
+      "score": 17.219918077270933,
+      "timestamp": "2026-02-20T06:00:28.597Z",
       "metadata": {
-        "points": 441,
-        "comments": 656
+        "points": 644,
+        "comments": 752
       }
     },
     {
       "id": "https://micasa.dev",
       "source": "hackernews",
       "title": "Show HN: Micasa – track your house from the terminal",
-      "description": "Hacker News submission with 387 points and 119 comments.",
+      "description": "Hacker News submission with 499 points and 158 comments.",
       "url": "https://micasa.dev",
-      "score": 17.22038286653301,
-      "timestamp": "2026-02-20T00:00:30.799Z",
+      "score": 17.219918077270933,
+      "timestamp": "2026-02-20T06:00:28.597Z",
       "metadata": {
-        "points": 387,
-        "comments": 119
+        "points": 499,
+        "comments": 158
+      }
+    },
+    {
+      "id": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "source": "hackernews",
+      "title": "America vs. Singapore: You can't save your way out of economic shocks",
+      "description": "Hacker News submission with 263 points and 388 comments.",
+      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "score": 17.219918077270933,
+      "timestamp": "2026-02-20T06:00:28.597Z",
+      "metadata": {
+        "points": 263,
+        "comments": 388
       }
     },
     {
       "id": "https://pagedout.institute/download/PagedOut_008.pdf",
       "source": "hackernews",
       "title": "Paged Out Issue #8 [pdf]",
-      "description": "Hacker News submission with 289 points and 47 comments.",
+      "description": "Hacker News submission with 357 points and 56 comments.",
       "url": "https://pagedout.institute/download/PagedOut_008.pdf",
-      "score": 17.22038286653301,
-      "timestamp": "2026-02-20T00:00:30.799Z",
+      "score": 17.219918077270933,
+      "timestamp": "2026-02-20T06:00:28.597Z",
       "metadata": {
-        "points": 289,
-        "comments": 47
+        "points": 357,
+        "comments": 56
       }
     },
     {
       "id": "https://repebble.com/blog/february-pebble-production-and-software-updates",
       "source": "hackernews",
       "title": "Pebble Production: February Update",
-      "description": "Hacker News submission with 257 points and 119 comments.",
+      "description": "Hacker News submission with 276 points and 128 comments.",
       "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-      "score": 17.22038286653301,
-      "timestamp": "2026-02-20T00:00:30.799Z",
+      "score": 17.219918077270933,
+      "timestamp": "2026-02-20T06:00:28.597Z",
       "metadata": {
-        "points": 257,
-        "comments": 119
+        "points": 276,
+        "comments": 128
+      }
+    },
+    {
+      "id": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+      "source": "hackernews",
+      "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+      "description": "Hacker News submission with 240 points and 320 comments.",
+      "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+      "score": 16.531121354180097,
+      "timestamp": "2026-02-20T06:00:28.597Z",
+      "metadata": {
+        "points": 240,
+        "comments": 320
       }
     },
     {
@@ -137,8 +124,8 @@
       "title": "obra / superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "score": 16.351079406160938,
-      "timestamp": "2026-02-20T00:00:31.011Z",
+      "score": 16.35487492357597,
+      "timestamp": "2026-02-20T06:00:29.975Z",
       "metadata": {
         "stars": 889,
         "language": "Shell"
@@ -150,24 +137,11 @@
       "title": "openclaw / openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "score": 16.351079406160938,
-      "timestamp": "2026-02-20T00:00:31.011Z",
+      "score": 16.35487492357597,
+      "timestamp": "2026-02-20T06:00:29.975Z",
       "metadata": {
         "stars": 3390,
         "language": "TypeScript"
-      }
-    },
-    {
-      "id": "https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/",
-      "source": "hackernews",
-      "title": "California's new bill requires DOJ-approved 3D printers that report themselves",
-      "description": "Hacker News submission with 223 points and 239 comments.",
-      "url": "https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/",
-      "score": 15.360581516947448,
-      "timestamp": "2026-02-20T00:00:30.799Z",
-      "metadata": {
-        "points": 223,
-        "comments": 239
       }
     },
     {
@@ -176,7 +150,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.0133981088857,
+      "score": 15.011697321878623,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -189,7 +163,7 @@
       "title": "Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare",
       "description": "ecdysis is a Rust library enabling zero-downtime upgrades for network services. After five years protecting millions of connections at Cloudflare, it’s now open source.",
       "url": "https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/",
-      "score": 15.003722575632267,
+      "score": 15.00347812588293,
       "timestamp": "2026-02-13T14:00:00.000Z",
       "metadata": {
         "author": "Cloudflare Blog",
@@ -202,8 +176,8 @@
       "title": "harvard-edge / cs249r_book",
       "description": "Introduction to Machine Learning Systems",
       "url": "https://github.com/harvard-edge/cs249r_book",
-      "score": 14.351079406160938,
-      "timestamp": "2026-02-20T00:00:31.011Z",
+      "score": 14.354874923575972,
+      "timestamp": "2026-02-20T06:00:29.975Z",
       "metadata": {
         "stars": 663,
         "language": "JavaScript"
@@ -215,11 +189,24 @@
       "title": "p-e-w / heretic",
       "description": "Fully automatic censorship removal for language models",
       "url": "https://github.com/p-e-w/heretic",
-      "score": 14.351079406160938,
-      "timestamp": "2026-02-20T00:00:31.011Z",
+      "score": 14.354874923575972,
+      "timestamp": "2026-02-20T06:00:29.975Z",
       "metadata": {
         "stars": 652,
         "language": "Python"
+      }
+    },
+    {
+      "id": "https://github.com/Veirt/weathr",
+      "source": "hackernews",
+      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+      "description": "Hacker News submission with 198 points and 34 comments.",
+      "url": "https://github.com/Veirt/weathr",
+      "score": 13.63817511719858,
+      "timestamp": "2026-02-20T06:00:28.597Z",
+      "metadata": {
+        "points": 198,
+        "comments": 34
       }
     },
     {
@@ -228,24 +215,37 @@
       "title": "open-mercato / open-mercato",
       "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
       "url": "https://github.com/open-mercato/open-mercato",
-      "score": 13.607320893490025,
-      "timestamp": "2026-02-20T00:00:31.011Z",
+      "score": 13.607745991440508,
+      "timestamp": "2026-02-20T06:00:29.975Z",
       "metadata": {
         "stars": 56,
         "language": "TypeScript"
       }
     },
     {
-      "id": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "id": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
       "source": "hackernews",
-      "title": "America vs. Singapore: You can't save your way out of economic shocks",
-      "description": "Hacker News submission with 193 points and 279 comments.",
-      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-      "score": 13.294135572963487,
-      "timestamp": "2026-02-20T00:00:30.799Z",
+      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "description": "Hacker News submission with 166 points and 71 comments.",
+      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "score": 13.434025603307902,
+      "timestamp": "2026-02-20T06:00:28.597Z",
       "metadata": {
-        "points": 193,
-        "comments": 279
+        "points": 166,
+        "comments": 71
+      }
+    },
+    {
+      "id": "https://makie.org/website/blogposts/raytracing/",
+      "source": "hackernews",
+      "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+      "description": "Hacker News submission with 176 points and 67 comments.",
+      "url": "https://makie.org/website/blogposts/raytracing/",
+      "score": 12.122822326398738,
+      "timestamp": "2026-02-20T06:00:28.597Z",
+      "metadata": {
+        "points": 176,
+        "comments": 67
       }
     },
     {
@@ -254,7 +254,7 @@
       "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
       "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
       "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "score": 12.013979841928313,
+      "score": 12.012167167413796,
       "timestamp": "2026-02-16T23:12:37.000Z",
       "metadata": {
         "author": "AWS News",
