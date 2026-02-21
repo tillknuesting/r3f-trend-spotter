@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T00:00:16.547Z",
+  "generated_at": "2026-02-21T06:01:04.804Z",
   "trends": [
     {
       "id": "https://github.com/HailToDodongo/pyrite64",
@@ -7,8 +7,8 @@
       "title": "HailToDodongo / pyrite64",
       "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
       "url": "https://github.com/HailToDodongo/pyrite64",
-      "score": 26.20456608714607,
-      "timestamp": "2026-02-21T00:00:16.431Z",
+      "score": 26.199966388608964,
+      "timestamp": "2026-02-21T06:01:03.180Z",
       "metadata": {
         "stars": 425,
         "language": "C++"
@@ -20,8 +20,8 @@
       "title": "google-research / timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "url": "https://github.com/google-research/timesfm",
-      "score": 23.60151693931062,
-      "timestamp": "2026-02-21T00:00:16.431Z",
+      "score": 23.597144519995343,
+      "timestamp": "2026-02-21T06:01:03.180Z",
       "metadata": {
         "stars": 404,
         "language": "Python"
@@ -31,26 +31,26 @@
       "id": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "source": "hackernews",
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "description": "Hacker News submission with 631 points and 151 comments.",
+      "description": "Hacker News submission with 702 points and 177 comments.",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 19.218351709026123,
-      "timestamp": "2026-02-21T00:00:13.731Z",
+      "score": 19.22037856283922,
+      "timestamp": "2026-02-21T06:01:02.459Z",
       "metadata": {
-        "points": 631,
-        "comments": 151
+        "points": 702,
+        "comments": 177
       }
     },
     {
       "id": "https://taalas.com/the-path-to-ubiquitous-ai/",
       "source": "hackernews",
       "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "description": "Hacker News submission with 650 points and 373 comments.",
+      "description": "Hacker News submission with 703 points and 401 comments.",
       "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 19.218351709026123,
-      "timestamp": "2026-02-21T00:00:13.731Z",
+      "score": 19.22037856283922,
+      "timestamp": "2026-02-21T06:01:02.459Z",
       "metadata": {
-        "points": 650,
-        "comments": 373
+        "points": 703,
+        "comments": 401
       }
     },
     {
@@ -59,8 +59,8 @@
       "title": "vxcontrol / pentagi",
       "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "url": "https://github.com/vxcontrol/pentagi",
-      "score": 18.35831304370126,
-      "timestamp": "2026-02-21T00:00:16.431Z",
+      "score": 18.352901633657602,
+      "timestamp": "2026-02-21T06:01:03.180Z",
       "metadata": {
         "stars": 875,
         "language": "Go"
@@ -72,8 +72,8 @@
       "title": "aquasecurity / trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "url": "https://github.com/aquasecurity/trivy",
-      "score": 17.89021540870948,
-      "timestamp": "2026-02-21T00:00:16.431Z",
+      "score": 17.889879901286772,
+      "timestamp": "2026-02-21T06:01:03.180Z",
       "metadata": {
         "stars": 31,
         "language": "Go"
@@ -83,91 +83,91 @@
       "id": "https://f-droid.org/2026/02/20/twif.html",
       "source": "hackernews",
       "title": "Keep Android Open",
-      "description": "Hacker News submission with 903 points and 359 comments.",
+      "description": "Hacker News submission with 1276 points and 488 comments.",
       "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 17.218351709026123,
-      "timestamp": "2026-02-21T00:00:13.731Z",
+      "score": 17.22037856283922,
+      "timestamp": "2026-02-21T06:01:02.459Z",
       "metadata": {
-        "points": 903,
-        "comments": 359
+        "points": 1276,
+        "comments": 488
+      }
+    },
+    {
+      "id": "https://words.filippo.io/dependabot/",
+      "source": "hackernews",
+      "title": "Turn Dependabot Off",
+      "description": "Hacker News submission with 367 points and 94 comments.",
+      "url": "https://words.filippo.io/dependabot/",
+      "score": 17.22037856283922,
+      "timestamp": "2026-02-21T06:01:02.459Z",
+      "metadata": {
+        "points": 367,
+        "comments": 94
       }
     },
     {
       "id": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
       "source": "hackernews",
       "title": "I found a Vulnerability. They found a Lawyer",
-      "description": "Hacker News submission with 260 points and 126 comments.",
+      "description": "Hacker News submission with 454 points and 195 comments.",
       "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 17.218351709026123,
-      "timestamp": "2026-02-21T00:00:13.731Z",
+      "score": 17.22037856283922,
+      "timestamp": "2026-02-21T06:01:02.459Z",
       "metadata": {
-        "points": 260,
-        "comments": 126
+        "points": 454,
+        "comments": 195
       }
     },
     {
       "id": "https://pilk.website/3/facebook-is-absolutely-cooked",
       "source": "hackernews",
       "title": "Facebook is cooked",
-      "description": "Hacker News submission with 586 points and 363 comments.",
+      "description": "Hacker News submission with 899 points and 515 comments.",
       "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 17.218351709026123,
-      "timestamp": "2026-02-21T00:00:13.731Z",
+      "score": 17.22037856283922,
+      "timestamp": "2026-02-21T06:01:02.459Z",
       "metadata": {
-        "points": 586,
-        "comments": 363
+        "points": 899,
+        "comments": 515
+      }
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "source": "hackernews",
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "description": "Hacker News submission with 372 points and 218 comments.",
+      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "score": 17.22037856283922,
+      "timestamp": "2026-02-21T06:01:02.459Z",
+      "metadata": {
+        "points": 372,
+        "comments": 218
+      }
+    },
+    {
+      "id": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
+      "source": "hackernews",
+      "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
+      "description": "Hacker News submission with 252 points and 104 comments.",
+      "url": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
+      "score": 17.22037856283922,
+      "timestamp": "2026-02-21T06:01:02.459Z",
+      "metadata": {
+        "points": 252,
+        "comments": 104
       }
     },
     {
       "id": "https://www.bbc.com/news/live/c0l9r67drg7t",
       "source": "hackernews",
       "title": "Trump's global tariffs struck down by US Supreme Court",
-      "description": "Hacker News submission with 1170 points and 952 comments.",
+      "description": "Hacker News submission with 1326 points and 1076 comments.",
       "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 17.218351709026123,
-      "timestamp": "2026-02-21T00:00:13.731Z",
+      "score": 17.22037856283922,
+      "timestamp": "2026-02-21T06:01:02.459Z",
       "metadata": {
-        "points": 1170,
-        "comments": 952
-      }
-    },
-    {
-      "id": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-      "source": "hackernews",
-      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
-      "description": "Hacker News submission with 580 points and 206 comments.",
-      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-      "score": 17.218351709026123,
-      "timestamp": "2026-02-21T00:00:13.731Z",
-      "metadata": {
-        "points": 580,
-        "comments": 206
-      }
-    },
-    {
-      "id": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
-      "source": "hackernews",
-      "title": "Child's Play: Tech's new generation and the end of thinking",
-      "description": "Hacker News submission with 322 points and 205 comments.",
-      "url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
-      "score": 17.218351709026123,
-      "timestamp": "2026-02-21T00:00:13.731Z",
-      "metadata": {
-        "points": 322,
-        "comments": 205
-      }
-    },
-    {
-      "id": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-      "source": "hackernews",
-      "title": "PayPal discloses data breach that exposed user info for 6 months",
-      "description": "Hacker News submission with 257 points and 78 comments.",
-      "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-      "score": 17.218351709026123,
-      "timestamp": "2026-02-21T00:00:13.731Z",
-      "metadata": {
-        "points": 257,
-        "comments": 78
+        "points": 1326,
+        "comments": 1076
       }
     },
     {
@@ -176,24 +176,11 @@
       "title": "obra / superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "score": 16.35831304370126,
-      "timestamp": "2026-02-21T00:00:16.431Z",
+      "score": 16.352901633657602,
+      "timestamp": "2026-02-21T06:01:03.180Z",
       "metadata": {
         "stars": 980,
         "language": "Shell"
-      }
-    },
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "source": "hackernews",
-      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-      "description": "Hacker News submission with 236 points and 129 comments.",
-      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 16.254124013320663,
-      "timestamp": "2026-02-21T00:00:13.731Z",
-      "metadata": {
-        "points": 236,
-        "comments": 129
       }
     },
     {
@@ -202,7 +189,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.008203157082685,
+      "score": 15.007389040348782,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -215,8 +202,8 @@
       "title": "freemocap / freemocap",
       "description": "Free Motion Capture for Everyone 💀✨",
       "url": "https://github.com/freemocap/freemocap",
-      "score": 14.272163165439054,
-      "timestamp": "2026-02-21T00:00:16.431Z",
+      "score": 14.266784223855657,
+      "timestamp": "2026-02-21T06:01:03.180Z",
       "metadata": {
         "stars": 497,
         "language": "Python"
@@ -228,37 +215,50 @@
       "title": "roboflow / trackers",
       "description": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
       "url": "https://github.com/roboflow/trackers",
-      "score": 13.819311269624535,
-      "timestamp": "2026-02-21T00:00:16.431Z",
+      "score": 13.817871834552923,
+      "timestamp": "2026-02-21T06:01:03.180Z",
       "metadata": {
         "stars": 133,
         "language": "Python"
       }
     },
     {
-      "id": "https://words.filippo.io/dependabot/",
+      "id": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
       "source": "hackernews",
-      "title": "Turn Dependabot Off",
-      "description": "Hacker News submission with 190 points and 55 comments.",
-      "url": "https://words.filippo.io/dependabot/",
-      "score": 13.085947298859853,
-      "timestamp": "2026-02-21T00:00:13.731Z",
+      "title": "Building a model that visualizes strategic golf",
+      "description": "Hacker News submission with 50 points and 14 comments.",
+      "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
+      "score": 13.444075712567845,
+      "timestamp": "2026-02-21T06:01:02.459Z",
       "metadata": {
-        "points": 190,
-        "comments": 55
+        "points": 50,
+        "comments": 14
       }
     },
     {
-      "id": "https://jimmyhmiller.com/learn-codebase-visualizer",
+      "id": "https://github.com/IronsideXXVI/Hacker-News",
       "source": "hackernews",
-      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
-      "description": "Hacker News submission with 188 points and 33 comments.",
-      "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
-      "score": 12.948200485187646,
-      "timestamp": "2026-02-21T00:00:13.731Z",
+      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
+      "description": "Hacker News submission with 193 points and 141 comments.",
+      "url": "https://github.com/IronsideXXVI/Hacker-News",
+      "score": 13.294132250511879,
+      "timestamp": "2026-02-21T06:01:02.459Z",
       "metadata": {
-        "points": 188,
-        "comments": 33
+        "points": 193,
+        "comments": 141
+      }
+    },
+    {
+      "id": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "source": "hackernews",
+      "title": "Every company building your AI assistant is now an ad company",
+      "description": "Hacker News submission with 150 points and 68 comments.",
+      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "score": 12.332227137703532,
+      "timestamp": "2026-02-21T06:01:02.459Z",
+      "metadata": {
+        "points": 150,
+        "comments": 68
       }
     }
   ]
