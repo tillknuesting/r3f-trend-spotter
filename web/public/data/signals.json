@@ -1,30 +1,69 @@
 {
-  "generated_at": "2026-02-21T12:00:57.665Z",
+  "generated_at": "2026-02-21T18:00:50.705Z",
   "trends": [
+    {
+      "id": "https://thenewstack.io/kubernetes-vpa-inplace-resize/",
+      "source": "tech_blogs",
+      "title": "Why Kubernetes 1.35 is a game-changer for stateful workload scaling",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/f4366d87-ruliff-andrean-rmxjbihxjws-unsplash-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"An isometric 3D illustration of a computer network on a solid blue background. A central platfor",
+      "url": "https://thenewstack.io/kubernetes-vpa-inplace-resize/",
+      "score": 22.71107076379124,
+      "timestamp": "2026-02-21T16:00:20.000Z",
+      "metadata": {
+        "author": "The New Stack",
+        "category": "ENGINEERING"
+      }
+    },
+    {
+      "id": "https://simonwillison.net/2026/Feb/21/claws/",
+      "source": "hackernews",
+      "title": "Andrej Karpathy talks about \"Claws\"",
+      "description": "Hacker News submission with 256 points and 413 comments.",
+      "url": "https://simonwillison.net/2026/Feb/21/claws/",
+      "score": 22.215740153802063,
+      "timestamp": "2026-02-21T18:00:47.282Z",
+      "metadata": {
+        "points": 256,
+        "comments": 413
+      }
+    },
     {
       "id": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "source": "hackernews",
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "description": "Hacker News submission with 747 points and 185 comments.",
+      "description": "Hacker News submission with 789 points and 209 comments.",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 19.197605351709846,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "score": 19.215740153802063,
+      "timestamp": "2026-02-21T18:00:47.282Z",
       "metadata": {
-        "points": 747,
-        "comments": 185
+        "points": 789,
+        "comments": 209
+      }
+    },
+    {
+      "id": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "source": "hackernews",
+      "title": "Every company building your AI assistant is now an ad company",
+      "description": "Hacker News submission with 267 points and 143 comments.",
+      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "score": 19.215740153802063,
+      "timestamp": "2026-02-21T18:00:47.282Z",
+      "metadata": {
+        "points": 267,
+        "comments": 143
       }
     },
     {
       "id": "https://taalas.com/the-path-to-ubiquitous-ai/",
       "source": "hackernews",
       "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "description": "Hacker News submission with 751 points and 417 comments.",
+      "description": "Hacker News submission with 795 points and 431 comments.",
       "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 19.197605351709846,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "score": 19.215740153802063,
+      "timestamp": "2026-02-21T18:00:47.282Z",
       "metadata": {
-        "points": 751,
-        "comments": 417
+        "points": 795,
+        "comments": 431
       }
     },
     {
@@ -33,89 +72,89 @@
       "title": "vxcontrol / pentagi",
       "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "url": "https://github.com/vxcontrol/pentagi",
-      "score": 18.333997400443018,
-      "timestamp": "2026-02-21T12:00:50.766Z",
+      "score": 18.356561523930125,
+      "timestamp": "2026-02-21T18:00:50.101Z",
       "metadata": {
         "stars": 2107,
         "language": "Go"
       }
     },
     {
-      "id": "https://f-droid.org/2026/02/20/twif.html",
+      "id": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
       "source": "hackernews",
-      "title": "Keep Android Open",
-      "description": "Hacker News submission with 1579 points and 579 comments.",
-      "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 17.197605351709846,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
+      "description": "Hacker News submission with 757 points and 278 comments.",
+      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "score": 17.215740153802063,
+      "timestamp": "2026-02-21T18:00:47.282Z",
       "metadata": {
-        "points": 1579,
-        "comments": 579
+        "points": 757,
+        "comments": 278
       }
     },
     {
-      "id": "https://words.filippo.io/dependabot/",
+      "id": "https://f-droid.org/2026/02/20/twif.html",
       "source": "hackernews",
-      "title": "Turn Dependabot off",
-      "description": "Hacker News submission with 484 points and 139 comments.",
-      "url": "https://words.filippo.io/dependabot/",
-      "score": 17.197605351709846,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "title": "Keep Android Open",
+      "description": "Hacker News submission with 1871 points and 638 comments.",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "score": 17.215740153802063,
+      "timestamp": "2026-02-21T18:00:47.282Z",
       "metadata": {
-        "points": 484,
-        "comments": 139
+        "points": 1871,
+        "comments": 638
       }
     },
     {
       "id": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
       "source": "hackernews",
       "title": "I found a Vulnerability. They found a Lawyer",
-      "description": "Hacker News submission with 635 points and 289 comments.",
+      "description": "Hacker News submission with 796 points and 362 comments.",
       "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 17.197605351709846,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "score": 17.215740153802063,
+      "timestamp": "2026-02-21T18:00:47.282Z",
       "metadata": {
-        "points": 635,
-        "comments": 289
+        "points": 796,
+        "comments": 362
+      }
+    },
+    {
+      "id": "https://words.filippo.io/dependabot/",
+      "source": "hackernews",
+      "title": "Turn Dependabot off",
+      "description": "Hacker News submission with 585 points and 170 comments.",
+      "url": "https://words.filippo.io/dependabot/",
+      "score": 17.215740153802063,
+      "timestamp": "2026-02-21T18:00:47.282Z",
+      "metadata": {
+        "points": 585,
+        "comments": 170
       }
     },
     {
       "id": "https://pilk.website/3/facebook-is-absolutely-cooked",
       "source": "hackernews",
       "title": "Facebook is cooked",
-      "description": "Hacker News submission with 1141 points and 629 comments.",
+      "description": "Hacker News submission with 1357 points and 733 comments.",
       "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 17.197605351709846,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "score": 17.215740153802063,
+      "timestamp": "2026-02-21T18:00:47.282Z",
       "metadata": {
-        "points": 1141,
-        "comments": 629
+        "points": 1357,
+        "comments": 733
       }
     },
     {
       "id": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
       "source": "hackernews",
       "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-      "description": "Hacker News submission with 463 points and 277 comments.",
+      "description": "Hacker News submission with 545 points and 327 comments.",
       "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 17.197605351709846,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "score": 17.215740153802063,
+      "timestamp": "2026-02-21T18:00:47.282Z",
       "metadata": {
-        "points": 463,
-        "comments": 277
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "source": "hackernews",
-      "title": "Trump's global tariffs struck down by US Supreme Court",
-      "description": "Hacker News submission with 1417 points and 1157 comments.",
-      "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 17.197605351709846,
-      "timestamp": "2026-02-21T12:00:50.023Z",
-      "metadata": {
-        "points": 1417,
-        "comments": 1157
+        "points": 545,
+        "comments": 327
       }
     },
     {
@@ -124,37 +163,24 @@
       "title": "obra / superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "score": 16.333997400443018,
-      "timestamp": "2026-02-21T12:00:50.766Z",
+      "score": 16.356561523930125,
+      "timestamp": "2026-02-21T18:00:50.101Z",
       "metadata": {
         "stars": 769,
         "language": "Shell"
       }
     },
     {
-      "id": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "id": "https://worldwideweb.cern.ch",
       "source": "hackernews",
-      "title": "Every company building your AI assistant is now an ad company",
-      "description": "Hacker News submission with 201 points and 104 comments.",
-      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-      "score": 15.826874702774719,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "title": "CERN rebuilt the original browser from 1989 (2019)",
+      "description": "Hacker News submission with 231 points and 82 comments.",
+      "url": "https://worldwideweb.cern.ch",
+      "score": 15.907343902113107,
+      "timestamp": "2026-02-21T18:00:47.282Z",
       "metadata": {
-        "points": 201,
-        "comments": 104
-      }
-    },
-    {
-      "id": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "source": "github_trends",
-      "title": "HandsOnLLM / Hands-On-Large-Language-Models",
-      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "score": 15.445289561615551,
-      "timestamp": "2026-02-21T12:00:50.766Z",
-      "metadata": {
-        "stars": 469,
-        "language": "Jupyter Notebook"
+        "points": 231,
+        "comments": 82
       }
     },
     {
@@ -163,60 +189,8 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.006695664689504,
+      "score": 15.006098466344971,
       "timestamp": "2026-02-16T21:25:23.000Z",
-      "metadata": {
-        "author": "AWS News",
-        "category": "CLOUD"
-      }
-    },
-    {
-      "id": "https://github.com/RichardAtCT/claude-code-telegram",
-      "source": "github_trends",
-      "title": "RichardAtCT / claude-code-telegram",
-      "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
-      "url": "https://github.com/RichardAtCT/claude-code-telegram",
-      "score": 14.757257686394286,
-      "timestamp": "2026-02-21T12:00:50.766Z",
-      "metadata": {
-        "stars": 445,
-        "language": "Python"
-      }
-    },
-    {
-      "id": "https://worldwideweb.cern.ch",
-      "source": "hackernews",
-      "title": "CERN rebuilt the original browser from 1989 (2019)",
-      "description": "Hacker News submission with 186 points and 66 comments.",
-      "url": "https://worldwideweb.cern.ch",
-      "score": 12.795018381672127,
-      "timestamp": "2026-02-21T12:00:50.023Z",
-      "metadata": {
-        "points": 186,
-        "comments": 66
-      }
-    },
-    {
-      "id": "https://thenewstack.io/agentic-ai-verification-impact/",
-      "source": "tech_blogs",
-      "title": "96% of developers don’t trust AI code: Here’s a step toward the fix",
-      "description": "<img width=\"1024\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2026/02/93cda083-daniil-komov-sbrnecfkmn4-unsplash-1024x683.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 20px;max-width: 100%;\" link_thumbnail=\"\" dec",
-      "url": "https://thenewstack.io/agentic-ai-verification-impact/",
-      "score": 12.151129754330153,
-      "timestamp": "2026-02-20T18:05:05.000Z",
-      "metadata": {
-        "author": "The New Stack",
-        "category": "ENGINEERING"
-      }
-    },
-    {
-      "id": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "source": "tech_blogs",
-      "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
-      "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "score": 12.006891311363882,
-      "timestamp": "2026-02-16T23:12:37.000Z",
       "metadata": {
         "author": "AWS News",
         "category": "CLOUD"
@@ -226,39 +200,65 @@
       "id": "https://www.neuroai.science/p/blue-light-filters-dont-work",
       "source": "hackernews",
       "title": "Blue light filters don't work – controlling total luminance is a better bet",
-      "description": "Hacker News submission with 174 points and 186 comments.",
+      "description": "Hacker News submission with 212 points and 207 comments.",
       "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
-      "score": 11.969533324790053,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "score": 14.598947650424149,
+      "timestamp": "2026-02-21T18:00:47.282Z",
       "metadata": {
-        "points": 174,
-        "comments": 186
+        "points": 212,
+        "comments": 207
       }
     },
     {
       "id": "https://openscan.eu/pages/scan-gallery",
       "source": "hackernews",
       "title": "OpenScan",
-      "description": "Hacker News submission with 166 points and 13 comments.",
+      "description": "Hacker News submission with 204 points and 20 comments.",
       "url": "https://openscan.eu/pages/scan-gallery",
-      "score": 11.41920995353534,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "score": 14.048043965502481,
+      "timestamp": "2026-02-21T18:00:47.282Z",
       "metadata": {
-        "points": 166,
-        "comments": 13
+        "points": 204,
+        "comments": 20
       }
     },
     {
-      "id": "https://www.june.kim/cord",
-      "source": "hackernews",
-      "title": "Cord: Coordinating Trees of AI Agents",
-      "description": "Hacker News submission with 103 points and 46 comments.",
-      "url": "https://www.june.kim/cord",
-      "score": 11.085413404904457,
-      "timestamp": "2026-02-21T12:00:50.023Z",
+      "id": "https://thenewstack.io/model-context-protocol-evolution/",
+      "source": "tech_blogs",
+      "title": "Beyond the vibe code: The steep mountain MCP must climb to reach production",
+      "description": "<img width=\"1024\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2026/02/708f059c-vackground-com-up8ooq1pm2s-unsplash-1024x683.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"Abstract geometric pattern featuring organic polygonal shapes in coral orange, teal, and dark na",
+      "url": "https://thenewstack.io/model-context-protocol-evolution/",
+      "score": 13.30946142486862,
+      "timestamp": "2026-02-21T14:00:30.000Z",
       "metadata": {
-        "points": 103,
-        "comments": 46
+        "author": "The New Stack",
+        "category": "ENGINEERING"
+      }
+    },
+    {
+      "id": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+      "source": "hackernews",
+      "title": "What Is OAuth?",
+      "description": "Hacker News submission with 180 points and 68 comments.",
+      "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+      "score": 12.395332910737485,
+      "timestamp": "2026-02-21T18:00:47.282Z",
+      "metadata": {
+        "points": 180,
+        "comments": 68
+      }
+    },
+    {
+      "id": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+      "source": "tech_blogs",
+      "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
+      "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+      "score": 12.00626745672294,
+      "timestamp": "2026-02-16T23:12:37.000Z",
+      "metadata": {
+        "author": "AWS News",
+        "category": "CLOUD"
       }
     }
   ]
