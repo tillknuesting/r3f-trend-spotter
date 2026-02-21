@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T18:00:27.991Z",
+  "generated_at": "2026-02-21T00:00:16.547Z",
   "trends": [
     {
       "id": "https://github.com/HailToDodongo/pyrite64",
@@ -7,10 +7,10 @@
       "title": "HailToDodongo / pyrite64",
       "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
       "url": "https://github.com/HailToDodongo/pyrite64",
-      "score": 26.635321796015525,
-      "timestamp": "2026-02-20T18:00:27.877Z",
+      "score": 26.20456608714607,
+      "timestamp": "2026-02-21T00:00:16.431Z",
       "metadata": {
-        "stars": 440,
+        "stars": 425,
         "language": "C++"
       }
     },
@@ -20,10 +20,10 @@
       "title": "google-research / timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "url": "https://github.com/google-research/timesfm",
-      "score": 24.577888515124545,
-      "timestamp": "2026-02-20T18:00:27.877Z",
+      "score": 23.60151693931062,
+      "timestamp": "2026-02-21T00:00:16.431Z",
       "metadata": {
-        "stars": 438,
+        "stars": 404,
         "language": "Python"
       }
     },
@@ -31,39 +31,26 @@
       "id": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "source": "hackernews",
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "description": "Hacker News submission with 416 points and 92 comments.",
+      "description": "Hacker News submission with 631 points and 151 comments.",
       "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 19.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
+      "score": 19.218351709026123,
+      "timestamp": "2026-02-21T00:00:13.731Z",
       "metadata": {
-        "points": 416,
-        "comments": 92
+        "points": 631,
+        "comments": 151
       }
     },
     {
       "id": "https://taalas.com/the-path-to-ubiquitous-ai/",
       "source": "hackernews",
       "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "description": "Hacker News submission with 504 points and 307 comments.",
+      "description": "Hacker News submission with 650 points and 373 comments.",
       "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 19.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
+      "score": 19.218351709026123,
+      "timestamp": "2026-02-21T00:00:13.731Z",
       "metadata": {
-        "points": 504,
-        "comments": 307
-      }
-    },
-    {
-      "id": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "source": "hackernews",
-      "title": "AI is not a coworker, it's an exoskeleton",
-      "description": "Hacker News submission with 430 points and 423 comments.",
-      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "score": 19.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
-      "metadata": {
-        "points": 430,
-        "comments": 423
+        "points": 650,
+        "comments": 373
       }
     },
     {
@@ -72,10 +59,10 @@
       "title": "vxcontrol / pentagi",
       "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "url": "https://github.com/vxcontrol/pentagi",
-      "score": 18.358320222744915,
-      "timestamp": "2026-02-20T18:00:27.877Z",
+      "score": 18.35831304370126,
+      "timestamp": "2026-02-21T00:00:16.431Z",
       "metadata": {
-        "stars": 1310,
+        "stars": 875,
         "language": "Go"
       }
     },
@@ -85,115 +72,102 @@
       "title": "aquasecurity / trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "url": "https://github.com/aquasecurity/trivy",
-      "score": 18.062515696483125,
-      "timestamp": "2026-02-20T18:00:27.877Z",
+      "score": 17.89021540870948,
+      "timestamp": "2026-02-21T00:00:16.431Z",
       "metadata": {
-        "stars": 37,
+        "stars": 31,
         "language": "Go"
       }
     },
     {
-      "id": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+      "id": "https://f-droid.org/2026/02/20/twif.html",
       "source": "hackernews",
-      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
-      "description": "Hacker News submission with 355 points and 154 comments.",
-      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-      "score": 17.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
+      "title": "Keep Android Open",
+      "description": "Hacker News submission with 903 points and 359 comments.",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "score": 17.218351709026123,
+      "timestamp": "2026-02-21T00:00:13.731Z",
       "metadata": {
-        "points": 355,
-        "comments": 154
+        "points": 903,
+        "comments": 359
+      }
+    },
+    {
+      "id": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "source": "hackernews",
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "description": "Hacker News submission with 260 points and 126 comments.",
+      "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "score": 17.218351709026123,
+      "timestamp": "2026-02-21T00:00:13.731Z",
+      "metadata": {
+        "points": 260,
+        "comments": 126
+      }
+    },
+    {
+      "id": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "source": "hackernews",
+      "title": "Facebook is cooked",
+      "description": "Hacker News submission with 586 points and 363 comments.",
+      "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "score": 17.218351709026123,
+      "timestamp": "2026-02-21T00:00:13.731Z",
+      "metadata": {
+        "points": 586,
+        "comments": 363
       }
     },
     {
       "id": "https://www.bbc.com/news/live/c0l9r67drg7t",
       "source": "hackernews",
       "title": "Trump's global tariffs struck down by US Supreme Court",
-      "description": "Hacker News submission with 614 points and 477 comments.",
+      "description": "Hacker News submission with 1170 points and 952 comments.",
       "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 17.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
+      "score": 17.218351709026123,
+      "timestamp": "2026-02-21T00:00:13.731Z",
       "metadata": {
-        "points": 614,
-        "comments": 477
+        "points": 1170,
+        "comments": 952
       }
     },
     {
-      "id": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+      "id": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
       "source": "hackernews",
-      "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
-      "description": "Hacker News submission with 414 points and 185 comments.",
-      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
-      "score": 17.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
+      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+      "description": "Hacker News submission with 580 points and 206 comments.",
+      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+      "score": 17.218351709026123,
+      "timestamp": "2026-02-21T00:00:13.731Z",
       "metadata": {
-        "points": 414,
-        "comments": 185
+        "points": 580,
+        "comments": 206
       }
     },
     {
-      "id": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+      "id": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
       "source": "hackernews",
-      "title": "US plans online portal to bypass content bans in Europe and elsewhere",
-      "description": "Hacker News submission with 422 points and 806 comments.",
-      "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
-      "score": 17.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
+      "title": "Child's Play: Tech's new generation and the end of thinking",
+      "description": "Hacker News submission with 322 points and 205 comments.",
+      "url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
+      "score": 17.218351709026123,
+      "timestamp": "2026-02-21T00:00:13.731Z",
       "metadata": {
-        "points": 422,
-        "comments": 806
+        "points": 322,
+        "comments": 205
       }
     },
     {
-      "id": "https://micasa.dev",
+      "id": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
       "source": "hackernews",
-      "title": "Show HN: Micasa – track your house from the terminal",
-      "description": "Hacker News submission with 607 points and 193 comments.",
-      "url": "https://micasa.dev",
-      "score": 17.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
+      "title": "PayPal discloses data breach that exposed user info for 6 months",
+      "description": "Hacker News submission with 257 points and 78 comments.",
+      "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
+      "score": 17.218351709026123,
+      "timestamp": "2026-02-21T00:00:13.731Z",
       "metadata": {
-        "points": 607,
-        "comments": 193
-      }
-    },
-    {
-      "id": "https://www.freecad.org/index.php",
-      "source": "hackernews",
-      "title": "FreeCAD",
-      "description": "Hacker News submission with 346 points and 148 comments.",
-      "url": "https://www.freecad.org/index.php",
-      "score": 17.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
-      "metadata": {
-        "points": 346,
-        "comments": 148
-      }
-    },
-    {
-      "id": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
-      "source": "hackernews",
-      "title": "I tried building my startup entirely on European infrastructure",
-      "description": "Hacker News submission with 623 points and 320 comments.",
-      "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
-      "score": 17.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
-      "metadata": {
-        "points": 623,
-        "comments": 320
-      }
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "source": "hackernews",
-      "title": "Gemini 3.1 Pro",
-      "description": "Hacker News submission with 905 points and 872 comments.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "score": 17.213998025541933,
-      "timestamp": "2026-02-20T18:00:24.163Z",
-      "metadata": {
-        "points": 905,
-        "comments": 872
+        "points": 257,
+        "comments": 78
       }
     },
     {
@@ -202,11 +176,24 @@
       "title": "obra / superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "score": 16.358320222744915,
-      "timestamp": "2026-02-20T18:00:27.877Z",
+      "score": 16.35831304370126,
+      "timestamp": "2026-02-21T00:00:16.431Z",
       "metadata": {
         "stars": 980,
         "language": "Shell"
+      }
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "source": "hackernews",
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "description": "Hacker News submission with 236 points and 129 comments.",
+      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "score": 16.254124013320663,
+      "timestamp": "2026-02-21T00:00:13.731Z",
+      "metadata": {
+        "points": 236,
+        "comments": 129
       }
     },
     {
@@ -215,7 +202,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.009162968078806,
+      "score": 15.008203157082685,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -228,10 +215,10 @@
       "title": "freemocap / freemocap",
       "description": "Free Motion Capture for Everyone 💀✨",
       "url": "https://github.com/freemocap/freemocap",
-      "score": 14.358320222744915,
-      "timestamp": "2026-02-20T18:00:27.877Z",
+      "score": 14.272163165439054,
+      "timestamp": "2026-02-21T00:00:16.431Z",
       "metadata": {
-        "stars": 503,
+        "stars": 497,
         "language": "Python"
       }
     },
@@ -241,24 +228,37 @@
       "title": "roboflow / trackers",
       "description": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
       "url": "https://github.com/roboflow/trackers",
-      "score": 13.647013336577208,
-      "timestamp": "2026-02-20T18:00:27.877Z",
+      "score": 13.819311269624535,
+      "timestamp": "2026-02-21T00:00:16.431Z",
       "metadata": {
-        "stars": 127,
+        "stars": 133,
         "language": "Python"
       }
     },
     {
-      "id": "https://github.com/blackboardsh/electrobun",
-      "source": "github_trends",
-      "title": "blackboardsh / electrobun",
-      "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
-      "url": "https://github.com/blackboardsh/electrobun",
-      "score": 12.491738593788076,
-      "timestamp": "2026-02-20T18:00:27.877Z",
+      "id": "https://words.filippo.io/dependabot/",
+      "source": "hackernews",
+      "title": "Turn Dependabot Off",
+      "description": "Hacker News submission with 190 points and 55 comments.",
+      "url": "https://words.filippo.io/dependabot/",
+      "score": 13.085947298859853,
+      "timestamp": "2026-02-21T00:00:13.731Z",
       "metadata": {
-        "stars": 435,
-        "language": "C++"
+        "points": 190,
+        "comments": 55
+      }
+    },
+    {
+      "id": "https://jimmyhmiller.com/learn-codebase-visualizer",
+      "source": "hackernews",
+      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
+      "description": "Hacker News submission with 188 points and 33 comments.",
+      "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
+      "score": 12.948200485187646,
+      "timestamp": "2026-02-21T00:00:13.731Z",
+      "metadata": {
+        "points": 188,
+        "comments": 33
       }
     }
   ]
