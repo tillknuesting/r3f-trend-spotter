@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-02-22T00:00:46.733Z",
+  "generated_at": "2026-02-22T06:00:37.818Z",
   "trends": [
     {
-      "id": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
-      "source": "COMBINED",
-      "title": "[🔥 HOT] Cloudflare outage on February 20, 2026",
-      "description": "Hacker News submission with 138 points and 94 comments.",
-      "url": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
-      "score": 29.394917258818715,
-      "timestamp": "2026-02-22T00:00:43.287Z",
+      "id": "https://twitter.com/karpathy/status/2024987174077432126",
+      "source": "hackernews",
+      "title": "Claws are now a new layer on top of LLM agents",
+      "description": "Hacker News submission with 248 points and 690 comments.",
+      "url": "https://twitter.com/karpathy/status/2024987174077432126",
+      "score": 26.08591190034063,
+      "timestamp": "2026-02-22T06:00:36.245Z",
       "metadata": {
-        "points": 138,
-        "comments": 94
+        "points": 248,
+        "comments": 690
+      }
+    },
+    {
+      "id": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "source": "hackernews",
+      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+      "description": "Hacker News submission with 161 points and 39 comments.",
+      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "score": 21.092063774011457,
+      "timestamp": "2026-02-22T06:00:36.245Z",
+      "metadata": {
+        "points": 161,
+        "comments": 39
       }
     },
     {
@@ -20,24 +33,11 @@
       "title": "Why Kubernetes 1.35 is a game-changer for stateful workload scaling",
       "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/f4366d87-ruliff-andrean-rmxjbihxjws-unsplash-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"An isometric 3D illustration of a computer network on a solid blue background. A central platfor",
       "url": "https://thenewstack.io/kubernetes-vpa-inplace-resize/",
-      "score": 20.52231639194207,
+      "score": 20.22431390086144,
       "timestamp": "2026-02-21T16:00:20.000Z",
       "metadata": {
         "author": "The New Stack",
         "category": "ENGINEERING"
-      }
-    },
-    {
-      "id": "https://twitter.com/karpathy/status/2024987174077432126",
-      "source": "hackernews",
-      "title": "Claws are now a new layer on top of LLM agents",
-      "description": "Hacker News submission with 160 points and 608 comments.",
-      "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "score": 20.01801037489782,
-      "timestamp": "2026-02-22T00:00:43.287Z",
-      "metadata": {
-        "points": 160,
-        "comments": 608
       }
     },
     {
@@ -46,89 +46,89 @@
       "title": "vxcontrol / pentagi",
       "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "url": "https://github.com/vxcontrol/pentagi",
-      "score": 18.356252888909484,
-      "timestamp": "2026-02-22T00:00:46.043Z",
+      "score": 18.35859303054118,
+      "timestamp": "2026-02-22T06:00:37.780Z",
       "metadata": {
         "stars": 2118,
         "language": "Go"
       }
     },
     {
-      "id": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "id": "https://boristane.com/blog/how-i-use-claude-code/",
       "source": "hackernews",
-      "title": "I verified my LinkedIn identity. Here's what I handed over",
-      "description": "Hacker News submission with 1126 points and 398 comments.",
-      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 17.21564121077784,
-      "timestamp": "2026-02-22T00:00:43.287Z",
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "description": "Hacker News submission with 300 points and 171 comments.",
+      "url": "https://boristane.com/blog/how-i-use-claude-code/",
+      "score": 17.22370151244015,
+      "timestamp": "2026-02-22T06:00:36.245Z",
       "metadata": {
-        "points": 1126,
-        "comments": 398
+        "points": 300,
+        "comments": 171
       }
     },
     {
       "id": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
       "source": "hackernews",
       "title": "How far back in time can you understand English?",
-      "description": "Hacker News submission with 306 points and 188 comments.",
+      "description": "Hacker News submission with 456 points and 255 comments.",
       "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 17.21564121077784,
-      "timestamp": "2026-02-22T00:00:43.287Z",
+      "score": 17.22370151244015,
+      "timestamp": "2026-02-22T06:00:36.245Z",
       "metadata": {
-        "points": 306,
-        "comments": 188
+        "points": 456,
+        "comments": 255
+      }
+    },
+    {
+      "id": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "source": "hackernews",
+      "title": "I verified my LinkedIn identity. Here's what I handed over",
+      "description": "Hacker News submission with 1218 points and 428 comments.",
+      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "score": 17.22370151244015,
+      "timestamp": "2026-02-22T06:00:36.245Z",
+      "metadata": {
+        "points": 1218,
+        "comments": 428
+      }
+    },
+    {
+      "id": "https://kevinak.se/blog/be-wary-of-bluesky",
+      "source": "hackernews",
+      "title": "Be wary of Bluesky",
+      "description": "Hacker News submission with 283 points and 185 comments.",
+      "url": "https://kevinak.se/blog/be-wary-of-bluesky",
+      "score": 17.22370151244015,
+      "timestamp": "2026-02-22T06:00:36.245Z",
+      "metadata": {
+        "points": 283,
+        "comments": 185
       }
     },
     {
       "id": "https://milk.com/wall-o-shame/security_clearance.html",
       "source": "hackernews",
       "title": "What not to write on your security clearance form (1988)",
-      "description": "Hacker News submission with 356 points and 145 comments.",
+      "description": "Hacker News submission with 419 points and 187 comments.",
       "url": "https://milk.com/wall-o-shame/security_clearance.html",
-      "score": 17.21564121077784,
-      "timestamp": "2026-02-22T00:00:43.287Z",
+      "score": 17.22370151244015,
+      "timestamp": "2026-02-22T06:00:36.245Z",
       "metadata": {
-        "points": 356,
-        "comments": 145
+        "points": 419,
+        "comments": 187
       }
     },
     {
       "id": "https://f-droid.org/2026/02/20/twif.html",
       "source": "hackernews",
       "title": "Keep Android Open",
-      "description": "Hacker News submission with 1974 points and 684 comments.",
+      "description": "Hacker News submission with 2031 points and 694 comments.",
       "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 17.21564121077784,
-      "timestamp": "2026-02-22T00:00:43.287Z",
+      "score": 17.22370151244015,
+      "timestamp": "2026-02-22T06:00:36.245Z",
       "metadata": {
-        "points": 1974,
-        "comments": 684
-      }
-    },
-    {
-      "id": "https://github.com/alvi-se/ai-ublock-blacklist",
-      "source": "hackernews",
-      "title": "AI uBlock Blacklist",
-      "description": "Hacker News submission with 210 points and 92 comments.",
-      "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-      "score": 16.461138617053386,
-      "timestamp": "2026-02-22T00:00:43.287Z",
-      "metadata": {
-        "points": 210,
-        "comments": 92
-      }
-    },
-    {
-      "id": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-      "source": "hackernews",
-      "title": "Why is Claude an Electron App?",
-      "description": "Hacker News submission with 238 points and 157 comments.",
-      "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-      "score": 16.389290432660506,
-      "timestamp": "2026-02-22T00:00:43.287Z",
-      "metadata": {
-        "points": 238,
-        "comments": 157
+        "points": 2031,
+        "comments": 694
       }
     },
     {
@@ -137,8 +137,8 @@
       "title": "obra / superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "score": 16.356252888909484,
-      "timestamp": "2026-02-22T00:00:46.043Z",
+      "score": 16.35859303054118,
+      "timestamp": "2026-02-22T06:00:37.780Z",
       "metadata": {
         "stars": 772,
         "language": "Shell"
@@ -150,7 +150,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.00558013454776,
+      "score": 15.005127330928811,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -158,42 +158,42 @@
       }
     },
     {
-      "id": "https://kevinak.se/blog/be-wary-of-bluesky",
+      "id": "https://www.koreaherald.com/article/10679206",
       "source": "hackernews",
-      "title": "Be wary of Bluesky",
-      "description": "Hacker News submission with 215 points and 160 comments.",
-      "url": "https://kevinak.se/blog/be-wary-of-bluesky",
-      "score": 14.805451441268943,
-      "timestamp": "2026-02-22T00:00:43.287Z",
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "description": "Hacker News submission with 182 points and 165 comments.",
+      "url": "https://www.koreaherald.com/article/10679206",
+      "score": 14.538854701056431,
+      "timestamp": "2026-02-22T06:00:36.245Z",
       "metadata": {
-        "points": 215,
-        "comments": 160
+        "points": 182,
+        "comments": 165
       }
     },
     {
-      "id": "https://github.com/Ragnaroek/iron-wolf",
+      "id": "https://humanrootoftrust.org/",
       "source": "hackernews",
-      "title": "Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust",
-      "description": "Hacker News submission with 52 points and 19 comments.",
-      "url": "https://github.com/Ragnaroek/iron-wolf",
-      "score": 13.58085337184179,
-      "timestamp": "2026-02-22T00:00:43.287Z",
+      "title": "The Human Root of Trust – public domain framework for agent accountability",
+      "description": "Hacker News submission with 6 points and 1 comments.",
+      "url": "https://humanrootoftrust.org/",
+      "score": 14.413368836298563,
+      "timestamp": "2026-02-22T06:00:36.245Z",
       "metadata": {
-        "points": 52,
-        "comments": 19
+        "points": 6,
+        "comments": 1
       }
     },
     {
-      "id": "https://thenewstack.io/model-context-protocol-evolution/",
-      "source": "tech_blogs",
-      "title": "Beyond the vibe code: The steep mountain MCP must climb to reach production",
-      "description": "<img width=\"1024\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2026/02/708f059c-vackground-com-up8ooq1pm2s-unsplash-1024x683.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"Abstract geometric pattern featuring organic polygonal shapes in coral orange, teal, and dark na",
-      "url": "https://thenewstack.io/model-context-protocol-evolution/",
-      "score": 12.376430636359327,
-      "timestamp": "2026-02-21T14:00:30.000Z",
+      "id": "https://github.com/xaskasdf/ntransformer",
+      "source": "hackernews",
+      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+      "description": "Hacker News submission with 181 points and 43 comments.",
+      "url": "https://github.com/xaskasdf/ntransformer",
+      "score": 12.46995989500667,
+      "timestamp": "2026-02-22T06:00:36.245Z",
       "metadata": {
-        "author": "The New Stack",
-        "category": "ENGINEERING"
+        "points": 181,
+        "comments": 43
       }
     },
     {
@@ -202,11 +202,24 @@
       "title": "HandsOnLLM / Hands-On-Large-Language-Models",
       "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "score": 12.192939551125733,
-      "timestamp": "2026-02-22T00:00:46.043Z",
+      "score": 12.194601051684238,
+      "timestamp": "2026-02-22T06:00:37.780Z",
       "metadata": {
         "stars": 355,
         "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "id": "https://thenewstack.io/model-context-protocol-evolution/",
+      "source": "tech_blogs",
+      "title": "Beyond the vibe code: The steep mountain MCP must climb to reach production",
+      "description": "<img width=\"1024\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2026/02/708f059c-vackground-com-up8ooq1pm2s-unsplash-1024x683.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"Abstract geometric pattern featuring organic polygonal shapes in coral orange, teal, and dark na",
+      "url": "https://thenewstack.io/model-context-protocol-evolution/",
+      "score": 12.181521939042682,
+      "timestamp": "2026-02-21T14:00:30.000Z",
+      "metadata": {
+        "author": "The New Stack",
+        "category": "ENGINEERING"
       }
     },
     {
@@ -215,7 +228,7 @@
       "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
       "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
       "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "score": 12.005727164651962,
+      "score": 12.005256104696342,
       "timestamp": "2026-02-16T23:12:37.000Z",
       "metadata": {
         "author": "AWS News",
@@ -223,42 +236,29 @@
       }
     },
     {
-      "id": "https://acmeweather.com/blog/introducing-acme-weather",
+      "id": "https://www.eduke32.com/",
       "source": "hackernews",
-      "title": "Acme Weather",
-      "description": "Hacker News submission with 168 points and 109 comments.",
-      "url": "https://acmeweather.com/blog/introducing-acme-weather",
-      "score": 11.568910893642709,
-      "timestamp": "2026-02-22T00:00:43.287Z",
+      "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
+      "description": "Hacker News submission with 170 points and 61 comments.",
+      "url": "https://www.eduke32.com/",
+      "score": 11.712117028459302,
+      "timestamp": "2026-02-22T06:00:36.245Z",
       "metadata": {
-        "points": 168,
-        "comments": 109
+        "points": 170,
+        "comments": 61
       }
     },
     {
-      "id": "https://www.koreaherald.com/article/10679206",
+      "id": "https://github.com/tnm/zclaw",
       "source": "hackernews",
-      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-      "description": "Hacker News submission with 135 points and 107 comments.",
-      "url": "https://www.koreaherald.com/article/10679206",
-      "score": 11.296446253820033,
-      "timestamp": "2026-02-22T00:00:43.287Z",
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "description": "Hacker News submission with 138 points and 79 comments.",
+      "url": "https://github.com/tnm/zclaw",
+      "score": 11.507483234866964,
+      "timestamp": "2026-02-22T06:00:36.245Z",
       "metadata": {
-        "points": 135,
-        "comments": 107
-      }
-    },
-    {
-      "id": "https://github.com/cloudflare/agents",
-      "source": "github_trends",
-      "title": "cloudflare / agents",
-      "description": "Build and deploy AI Agents on Cloudflare",
-      "url": "https://github.com/cloudflare/agents",
-      "score": 10.866312875558233,
-      "timestamp": "2026-02-22T00:00:46.043Z",
-      "metadata": {
-        "stars": 65,
-        "language": "TypeScript"
+        "points": 138,
+        "comments": 79
       }
     }
   ]
