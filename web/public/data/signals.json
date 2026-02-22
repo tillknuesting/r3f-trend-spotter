@@ -1,30 +1,43 @@
 {
-  "generated_at": "2026-02-22T12:00:43.922Z",
+  "generated_at": "2026-02-22T18:00:39.224Z",
   "trends": [
     {
       "id": "https://twitter.com/karpathy/status/2024987174077432126",
       "source": "hackernews",
       "title": "Claws are now a new layer on top of LLM agents",
-      "description": "Hacker News submission with 319 points and 754 comments.",
+      "description": "Hacker News submission with 371 points and 834 comments.",
       "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "score": 26.21809353773615,
-      "timestamp": "2026-02-22T12:00:41.046Z",
+      "score": 26.221712788051775,
+      "timestamp": "2026-02-22T18:00:37.189Z",
       "metadata": {
-        "points": 319,
-        "comments": 754
+        "points": 371,
+        "comments": 834
       }
     },
     {
       "id": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
       "source": "hackernews",
       "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "description": "Hacker News submission with 197 points and 49 comments.",
+      "description": "Hacker News submission with 232 points and 61 comments.",
       "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 23.567857707736085,
-      "timestamp": "2026-02-22T12:00:41.046Z",
+      "score": 25.98174946731205,
+      "timestamp": "2026-02-22T18:00:37.189Z",
       "metadata": {
-        "points": 197,
-        "comments": 49
+        "points": 232,
+        "comments": 61
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
+      "source": "hackernews",
+      "title": "Iran students stage first large anti-government protests since deadly crackdown",
+      "description": "Hacker News submission with 211 points and 237 comments.",
+      "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
+      "score": 24.535125593115698,
+      "timestamp": "2026-02-22T18:00:37.189Z",
+      "metadata": {
+        "points": 211,
+        "comments": 237
       }
     },
     {
@@ -33,11 +46,24 @@
       "title": "Why Kubernetes 1.35 is a game-changer for stateful workload scaling",
       "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/f4366d87-ruliff-andrean-rmxjbihxjws-unsplash-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"An isometric 3D illustration of a computer network on a solid blue background. A central platfor",
       "url": "https://thenewstack.io/kubernetes-vpa-inplace-resize/",
-      "score": 20.12644947543101,
+      "score": 20.08193706635722,
       "timestamp": "2026-02-21T16:00:20.000Z",
       "metadata": {
         "author": "The New Stack",
         "category": "ENGINEERING"
+      }
+    },
+    {
+      "id": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "source": "hackernews",
+      "title": "How Taalas “prints” LLM onto a chip?",
+      "description": "Hacker News submission with 322 points and 181 comments.",
+      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "score": 19.221712788051775,
+      "timestamp": "2026-02-22T18:00:37.189Z",
+      "metadata": {
+        "points": 322,
+        "comments": 181
       }
     },
     {
@@ -46,8 +72,8 @@
       "title": "vxcontrol / pentagi",
       "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "url": "https://github.com/vxcontrol/pentagi",
-      "score": 18.35087496608226,
-      "timestamp": "2026-02-22T12:00:41.733Z",
+      "score": 18.35868995104144,
+      "timestamp": "2026-02-22T18:00:39.213Z",
       "metadata": {
         "stars": 1599,
         "language": "Go"
@@ -59,8 +85,8 @@
       "title": "anthropics / claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code",
-      "score": 18.35087496608226,
-      "timestamp": "2026-02-22T12:00:41.733Z",
+      "score": 18.35868995104144,
+      "timestamp": "2026-02-22T18:00:39.213Z",
       "metadata": {
         "stars": 500,
         "language": "Shell"
@@ -72,88 +98,88 @@
       "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 18.35087496608226,
-      "timestamp": "2026-02-22T12:00:41.733Z",
+      "score": 18.35868995104144,
+      "timestamp": "2026-02-22T18:00:39.213Z",
       "metadata": {
         "stars": 914
       }
     },
     {
-      "id": "https://boristane.com/blog/how-i-use-claude-code/",
+      "id": "https://github.com/tnm/zclaw",
       "source": "hackernews",
-      "title": "How I use Claude Code: Separation of planning and execution",
-      "description": "Hacker News submission with 609 points and 375 comments.",
-      "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 17.21809353773615,
-      "timestamp": "2026-02-22T12:00:41.046Z",
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "description": "Hacker News submission with 237 points and 128 comments.",
+      "url": "https://github.com/tnm/zclaw",
+      "score": 18.326183723073083,
+      "timestamp": "2026-02-22T18:00:37.189Z",
       "metadata": {
-        "points": 609,
-        "comments": 375
+        "points": 237,
+        "comments": 128
+      }
+    },
+    {
+      "id": "https://susam.net/attention-media-vs-social-networks.html",
+      "source": "hackernews",
+      "title": "Attention Media ≠ Social Networks",
+      "description": "Hacker News submission with 305 points and 137 comments.",
+      "url": "https://susam.net/attention-media-vs-social-networks.html",
+      "score": 17.221712788051775,
+      "timestamp": "2026-02-22T18:00:37.189Z",
+      "metadata": {
+        "points": 305,
+        "comments": 137
       }
     },
     {
       "id": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
       "source": "hackernews",
       "title": "How far back in time can you understand English?",
-      "description": "Hacker News submission with 563 points and 310 comments.",
+      "description": "Hacker News submission with 680 points and 350 comments.",
       "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 17.21809353773615,
-      "timestamp": "2026-02-22T12:00:41.046Z",
+      "score": 17.221712788051775,
+      "timestamp": "2026-02-22T18:00:37.189Z",
       "metadata": {
-        "points": 563,
-        "comments": 310
+        "points": 680,
+        "comments": 350
+      }
+    },
+    {
+      "id": "https://gamedate.org/",
+      "source": "hackernews",
+      "title": "Gamedate – A site to revive dead multiplayer games",
+      "description": "Hacker News submission with 251 points and 34 comments.",
+      "url": "https://gamedate.org/",
+      "score": 17.221712788051775,
+      "timestamp": "2026-02-22T18:00:37.189Z",
+      "metadata": {
+        "points": 251,
+        "comments": 34
+      }
+    },
+    {
+      "id": "https://boristane.com/blog/how-i-use-claude-code/",
+      "source": "hackernews",
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "description": "Hacker News submission with 790 points and 501 comments.",
+      "url": "https://boristane.com/blog/how-i-use-claude-code/",
+      "score": 17.221712788051775,
+      "timestamp": "2026-02-22T18:00:37.189Z",
+      "metadata": {
+        "points": 790,
+        "comments": 501
       }
     },
     {
       "id": "https://github.com/xaskasdf/ntransformer",
       "source": "hackernews",
       "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-      "description": "Hacker News submission with 268 points and 62 comments.",
+      "description": "Hacker News submission with 329 points and 87 comments.",
       "url": "https://github.com/xaskasdf/ntransformer",
-      "score": 17.21809353773615,
-      "timestamp": "2026-02-22T12:00:41.046Z",
+      "score": 17.221712788051775,
+      "timestamp": "2026-02-22T18:00:37.189Z",
       "metadata": {
-        "points": 268,
-        "comments": 62
-      }
-    },
-    {
-      "id": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "source": "hackernews",
-      "title": "I verified my LinkedIn identity. Here's what I handed over",
-      "description": "Hacker News submission with 1296 points and 445 comments.",
-      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 17.21809353773615,
-      "timestamp": "2026-02-22T12:00:41.046Z",
-      "metadata": {
-        "points": 1296,
-        "comments": 445
-      }
-    },
-    {
-      "id": "https://f-droid.org/2026/02/20/twif.html",
-      "source": "hackernews",
-      "title": "Keep Android Open",
-      "description": "Hacker News submission with 2106 points and 701 comments.",
-      "url": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 17.21809353773615,
-      "timestamp": "2026-02-22T12:00:41.046Z",
-      "metadata": {
-        "points": 2106,
-        "comments": 701
-      }
-    },
-    {
-      "id": "https://www.koreaherald.com/article/10679206",
-      "source": "hackernews",
-      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-      "description": "Hacker News submission with 213 points and 195 comments.",
-      "url": "https://www.koreaherald.com/article/10679206",
-      "score": 16.6698156941512,
-      "timestamp": "2026-02-22T12:00:41.046Z",
-      "metadata": {
-        "points": 213,
-        "comments": 195
+        "points": 329,
+        "comments": 87
       }
     },
     {
@@ -162,8 +188,8 @@
       "title": "cloudflare / agents",
       "description": "Build and deploy AI Agents on Cloudflare",
       "url": "https://github.com/cloudflare/agents",
-      "score": 16.548560232159268,
-      "timestamp": "2026-02-22T12:00:41.733Z",
+      "score": 16.5526709142478,
+      "timestamp": "2026-02-22T18:00:39.213Z",
       "metadata": {
         "stars": 263,
         "language": "TypeScript"
@@ -175,24 +201,11 @@
       "title": "abhigyanpatwari / GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "score": 16.02603322157693,
-      "timestamp": "2026-02-22T12:00:41.733Z",
+      "score": 16.032582178972724,
+      "timestamp": "2026-02-22T18:00:39.213Z",
       "metadata": {
         "stars": 419,
         "language": "TypeScript"
-      }
-    },
-    {
-      "id": "https://humanrootoftrust.org/",
-      "source": "hackernews",
-      "title": "The Human Root of Trust – public domain framework for agent accountability",
-      "description": "Hacker News submission with 19 points and 7 comments.",
-      "url": "https://humanrootoftrust.org/",
-      "score": 15.308575108867947,
-      "timestamp": "2026-02-22T12:00:41.046Z",
-      "metadata": {
-        "points": 19,
-        "comments": 7
       }
     },
     {
@@ -201,7 +214,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.004728950892861,
+      "score": 15.0043768882422,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -209,55 +222,42 @@
       }
     },
     {
-      "id": "https://github.com/tnm/zclaw",
+      "id": "https://planetscale.com/blog/database-transactions",
       "source": "hackernews",
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "description": "Hacker News submission with 188 points and 104 comments.",
-      "url": "https://github.com/tnm/zclaw",
-      "score": 14.948006340377585,
-      "timestamp": "2026-02-22T12:00:41.046Z",
+      "title": "What Is a Database Transaction?",
+      "description": "Hacker News submission with 139 points and 21 comments.",
+      "url": "https://planetscale.com/blog/database-transactions",
+      "score": 14.575272310156787,
+      "timestamp": "2026-02-22T18:00:37.189Z",
       "metadata": {
-        "points": 188,
-        "comments": 104
+        "points": 139,
+        "comments": 21
       }
     },
     {
-      "id": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "id": "https://www.science.org/doi/10.1126/science.adq7188",
       "source": "hackernews",
-      "title": "How Taalas “prints” LLM onto a chip?",
-      "description": "Hacker News submission with 172 points and 86 comments.",
-      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 13.84604835396247,
-      "timestamp": "2026-02-22T12:00:41.046Z",
+      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+      "description": "Hacker News submission with 175 points and 55 comments.",
+      "url": "https://www.science.org/doi/10.1126/science.adq7188",
+      "score": 12.055198951636244,
+      "timestamp": "2026-02-22T18:00:37.189Z",
       "metadata": {
-        "points": 172,
-        "comments": 86
+        "points": 175,
+        "comments": 55
       }
     },
     {
-      "id": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "source": "hackernews",
-      "title": "Toyota’s hydrogen-powered Mirai has experienced rapid depreciation",
-      "description": "Hacker News submission with 152 points and 350 comments.",
-      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "score": 12.468600870943577,
-      "timestamp": "2026-02-22T12:00:41.046Z",
-      "metadata": {
-        "points": 152,
-        "comments": 350
-      }
-    },
-    {
-      "id": "https://thenewstack.io/model-context-protocol-evolution/",
+      "id": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
       "source": "tech_blogs",
-      "title": "Beyond the vibe code: The steep mountain MCP must climb to reach production",
-      "description": "<img width=\"1024\" height=\"683\" src=\"https://cdn.thenewstack.io/media/2026/02/708f059c-vackground-com-up8ooq1pm2s-unsplash-1024x683.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"Abstract geometric pattern featuring organic polygonal shapes in coral orange, teal, and dark na",
-      "url": "https://thenewstack.io/model-context-protocol-evolution/",
-      "score": 12.108145325330465,
-      "timestamp": "2026-02-21T14:00:30.000Z",
+      "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
+      "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
+      "score": 12.004477398313023,
+      "timestamp": "2026-02-16T23:12:37.000Z",
       "metadata": {
-        "author": "The New Stack",
-        "category": "ENGINEERING"
+        "author": "AWS News",
+        "category": "CLOUD"
       }
     }
   ]
