@@ -1,52 +1,13 @@
 {
-  "generated_at": "2026-02-22T18:00:39.224Z",
+  "generated_at": "2026-02-23T00:00:41.663Z",
   "trends": [
-    {
-      "id": "https://twitter.com/karpathy/status/2024987174077432126",
-      "source": "hackernews",
-      "title": "Claws are now a new layer on top of LLM agents",
-      "description": "Hacker News submission with 371 points and 834 comments.",
-      "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "score": 26.221712788051775,
-      "timestamp": "2026-02-22T18:00:37.189Z",
-      "metadata": {
-        "points": 371,
-        "comments": 834
-      }
-    },
-    {
-      "id": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "source": "hackernews",
-      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "description": "Hacker News submission with 232 points and 61 comments.",
-      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 25.98174946731205,
-      "timestamp": "2026-02-22T18:00:37.189Z",
-      "metadata": {
-        "points": 232,
-        "comments": 61
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
-      "source": "hackernews",
-      "title": "Iran students stage first large anti-government protests since deadly crackdown",
-      "description": "Hacker News submission with 211 points and 237 comments.",
-      "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
-      "score": 24.535125593115698,
-      "timestamp": "2026-02-22T18:00:37.189Z",
-      "metadata": {
-        "points": 211,
-        "comments": 237
-      }
-    },
     {
       "id": "https://thenewstack.io/kubernetes-vpa-inplace-resize/",
       "source": "tech_blogs",
       "title": "Why Kubernetes 1.35 is a game-changer for stateful workload scaling",
       "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/f4366d87-ruliff-andrean-rmxjbihxjws-unsplash-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"An isometric 3D illustration of a computer network on a solid blue background. A central platfor",
       "url": "https://thenewstack.io/kubernetes-vpa-inplace-resize/",
-      "score": 20.08193706635722,
+      "score": 20.057771487076998,
       "timestamp": "2026-02-21T16:00:20.000Z",
       "metadata": {
         "author": "The New Stack",
@@ -54,16 +15,16 @@
       }
     },
     {
-      "id": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "id": "https://planetscale.com/blog/database-transactions",
       "source": "hackernews",
-      "title": "How Taalas “prints” LLM onto a chip?",
-      "description": "Hacker News submission with 322 points and 181 comments.",
-      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 19.221712788051775,
-      "timestamp": "2026-02-22T18:00:37.189Z",
+      "title": "What is a database transaction?",
+      "description": "Hacker News submission with 194 points and 50 comments.",
+      "url": "https://planetscale.com/blog/database-transactions",
+      "score": 18.364105904876027,
+      "timestamp": "2026-02-23T00:00:39.645Z",
       "metadata": {
-        "points": 322,
-        "comments": 181
+        "points": 194,
+        "comments": 50
       }
     },
     {
@@ -72,10 +33,10 @@
       "title": "vxcontrol / pentagi",
       "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "url": "https://github.com/vxcontrol/pentagi",
-      "score": 18.35868995104144,
-      "timestamp": "2026-02-22T18:00:39.213Z",
+      "score": 18.35361914480377,
+      "timestamp": "2026-02-23T00:00:40.239Z",
       "metadata": {
-        "stars": 1599,
+        "stars": 1579,
         "language": "Go"
       }
     },
@@ -85,10 +46,10 @@
       "title": "anthropics / claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code",
-      "score": 18.35868995104144,
-      "timestamp": "2026-02-22T18:00:39.213Z",
+      "score": 18.35361914480377,
+      "timestamp": "2026-02-23T00:00:40.239Z",
       "metadata": {
-        "stars": 500,
+        "stars": 503,
         "language": "Shell"
       }
     },
@@ -98,88 +59,36 @@
       "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 18.35868995104144,
-      "timestamp": "2026-02-22T18:00:39.213Z",
+      "score": 18.35361914480377,
+      "timestamp": "2026-02-23T00:00:40.239Z",
       "metadata": {
-        "stars": 914
+        "stars": 1134
       }
     },
     {
-      "id": "https://github.com/tnm/zclaw",
+      "id": "https://hawksley.org/2026/02/17/timeframe.html",
       "source": "hackernews",
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "description": "Hacker News submission with 237 points and 128 comments.",
-      "url": "https://github.com/tnm/zclaw",
-      "score": 18.326183723073083,
-      "timestamp": "2026-02-22T18:00:37.189Z",
+      "title": "I built Timeframe, our family e-paper dashboard",
+      "description": "Hacker News submission with 462 points and 134 comments.",
+      "url": "https://hawksley.org/2026/02/17/timeframe.html",
+      "score": 17.22178595989179,
+      "timestamp": "2026-02-23T00:00:39.645Z",
       "metadata": {
-        "points": 237,
-        "comments": 128
+        "points": 462,
+        "comments": 134
       }
     },
     {
       "id": "https://susam.net/attention-media-vs-social-networks.html",
       "source": "hackernews",
       "title": "Attention Media ≠ Social Networks",
-      "description": "Hacker News submission with 305 points and 137 comments.",
+      "description": "Hacker News submission with 517 points and 220 comments.",
       "url": "https://susam.net/attention-media-vs-social-networks.html",
-      "score": 17.221712788051775,
-      "timestamp": "2026-02-22T18:00:37.189Z",
+      "score": 17.22178595989179,
+      "timestamp": "2026-02-23T00:00:39.645Z",
       "metadata": {
-        "points": 305,
-        "comments": 137
-      }
-    },
-    {
-      "id": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "source": "hackernews",
-      "title": "How far back in time can you understand English?",
-      "description": "Hacker News submission with 680 points and 350 comments.",
-      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 17.221712788051775,
-      "timestamp": "2026-02-22T18:00:37.189Z",
-      "metadata": {
-        "points": 680,
-        "comments": 350
-      }
-    },
-    {
-      "id": "https://gamedate.org/",
-      "source": "hackernews",
-      "title": "Gamedate – A site to revive dead multiplayer games",
-      "description": "Hacker News submission with 251 points and 34 comments.",
-      "url": "https://gamedate.org/",
-      "score": 17.221712788051775,
-      "timestamp": "2026-02-22T18:00:37.189Z",
-      "metadata": {
-        "points": 251,
-        "comments": 34
-      }
-    },
-    {
-      "id": "https://boristane.com/blog/how-i-use-claude-code/",
-      "source": "hackernews",
-      "title": "How I use Claude Code: Separation of planning and execution",
-      "description": "Hacker News submission with 790 points and 501 comments.",
-      "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 17.221712788051775,
-      "timestamp": "2026-02-22T18:00:37.189Z",
-      "metadata": {
-        "points": 790,
-        "comments": 501
-      }
-    },
-    {
-      "id": "https://github.com/xaskasdf/ntransformer",
-      "source": "hackernews",
-      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-      "description": "Hacker News submission with 329 points and 87 comments.",
-      "url": "https://github.com/xaskasdf/ntransformer",
-      "score": 17.221712788051775,
-      "timestamp": "2026-02-22T18:00:37.189Z",
-      "metadata": {
-        "points": 329,
-        "comments": 87
+        "points": 517,
+        "comments": 220
       }
     },
     {
@@ -188,10 +97,10 @@
       "title": "cloudflare / agents",
       "description": "Build and deploy AI Agents on Cloudflare",
       "url": "https://github.com/cloudflare/agents",
-      "score": 16.5526709142478,
-      "timestamp": "2026-02-22T18:00:39.213Z",
+      "score": 16.377760240429136,
+      "timestamp": "2026-02-23T00:00:40.239Z",
       "metadata": {
-        "stars": 263,
+        "stars": 257,
         "language": "TypeScript"
       }
     },
@@ -201,10 +110,10 @@
       "title": "abhigyanpatwari / GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "score": 16.032582178972724,
-      "timestamp": "2026-02-22T18:00:39.213Z",
+      "score": 16.171869034793595,
+      "timestamp": "2026-02-23T00:00:40.239Z",
       "metadata": {
-        "stars": 419,
+        "stars": 424,
         "language": "TypeScript"
       }
     },
@@ -214,7 +123,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.0043768882422,
+      "score": 15.004063876397726,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -222,29 +131,55 @@
       }
     },
     {
-      "id": "https://planetscale.com/blog/database-transactions",
+      "id": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
       "source": "hackernews",
-      "title": "What Is a Database Transaction?",
-      "description": "Hacker News submission with 139 points and 21 comments.",
-      "url": "https://planetscale.com/blog/database-transactions",
-      "score": 14.575272310156787,
-      "timestamp": "2026-02-22T18:00:37.189Z",
+      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+      "description": "Hacker News submission with 35 points and 12 comments.",
+      "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+      "score": 14.41105003438485,
+      "timestamp": "2026-02-23T00:00:39.645Z",
       "metadata": {
-        "points": 139,
-        "comments": 21
+        "points": 35,
+        "comments": 12
       }
     },
     {
-      "id": "https://www.science.org/doi/10.1126/science.adq7188",
+      "id": "https://hypha.pub/back-to-freebsd-part-1",
       "source": "hackernews",
-      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
-      "description": "Hacker News submission with 175 points and 55 comments.",
-      "url": "https://www.science.org/doi/10.1126/science.adq7188",
-      "score": 12.055198951636244,
-      "timestamp": "2026-02-22T18:00:37.189Z",
+      "title": "Back to FreeBSD: Part 1",
+      "description": "Hacker News submission with 197 points and 94 comments.",
+      "url": "https://hypha.pub/back-to-freebsd-part-1",
+      "score": 13.570767336394729,
+      "timestamp": "2026-02-23T00:00:39.645Z",
+      "metadata": {
+        "points": 197,
+        "comments": 94
+      }
+    },
+    {
+      "id": "https://github.com/algolia/hn-search",
+      "source": "hackernews",
+      "title": "Algolia Hacker News Search GitHub Project Archived",
+      "description": "Hacker News submission with 46 points and 12 comments.",
+      "url": "https://github.com/algolia/hn-search",
+      "score": 13.168808616620089,
+      "timestamp": "2026-02-23T00:00:39.645Z",
+      "metadata": {
+        "points": 46,
+        "comments": 12
+      }
+    },
+    {
+      "id": "https://ochagavia.nl/blog/fix-your-tools/",
+      "source": "hackernews",
+      "title": "Fix your tools",
+      "description": "Hacker News submission with 175 points and 65 comments.",
+      "url": "https://ochagavia.nl/blog/fix-your-tools/",
+      "score": 12.055250171924252,
+      "timestamp": "2026-02-23T00:00:39.645Z",
       "metadata": {
         "points": 175,
-        "comments": 55
+        "comments": 65
       }
     },
     {
@@ -253,8 +188,60 @@
       "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
       "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
       "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "score": 12.004477398313023,
+      "score": 12.004153365416089,
       "timestamp": "2026-02-16T23:12:37.000Z",
+      "metadata": {
+        "author": "AWS News",
+        "category": "CLOUD"
+      }
+    },
+    {
+      "id": "https://shuru.run",
+      "source": "hackernews",
+      "title": "Show HN: Local-First Linux MicroVMs for macOS",
+      "description": "Hacker News submission with 96 points and 32 comments.",
+      "url": "https://shuru.run",
+      "score": 11.613165808598445,
+      "timestamp": "2026-02-23T00:00:39.645Z",
+      "metadata": {
+        "points": 96,
+        "comments": 32
+      }
+    },
+    {
+      "id": "https://joinloops.org/",
+      "source": "hackernews",
+      "title": "Loops is a federated, open-source TikTok",
+      "description": "Hacker News submission with 156 points and 90 comments.",
+      "url": "https://joinloops.org/",
+      "score": 10.746394438972475,
+      "timestamp": "2026-02-23T00:00:39.645Z",
+      "metadata": {
+        "points": 156,
+        "comments": 90
+      }
+    },
+    {
+      "id": "https://github.com/huggingface/skills",
+      "source": "github_trends",
+      "title": "huggingface / skills",
+      "description": "",
+      "url": "https://github.com/huggingface/skills",
+      "score": 10.449434737417143,
+      "timestamp": "2026-02-23T00:00:40.239Z",
+      "metadata": {
+        "stars": 364,
+        "language": "Python"
+      }
+    },
+    {
+      "id": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/",
+      "source": "tech_blogs",
+      "title": "AWS Weekly Roundup: Amazon EC2 M8azn instances, new open weights models in Amazon Bedrock, and more (February 16, 2026)",
+      "description": "I joined AWS in 2021, and since then I’ve watched the Amazon Elastic Compute Cloud (Amazon EC2) instance family grow at a pace that still surprises me. From AWS Graviton-powered instances to specialized accelerated computing options, it feels like every few months there’s a new instance type landing",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/",
+      "score": 10.003876788298165,
+      "timestamp": "2026-02-16T17:28:52.000Z",
       "metadata": {
         "author": "AWS News",
         "category": "CLOUD"
