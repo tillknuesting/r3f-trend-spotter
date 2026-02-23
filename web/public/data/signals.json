@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-02-23T06:00:43.831Z",
+  "generated_at": "2026-02-23T12:00:55.154Z",
   "trends": [
     {
       "id": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
       "source": "hackernews",
       "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
-      "description": "Hacker News submission with 465 points and 378 comments.",
+      "description": "Hacker News submission with 654 points and 549 comments.",
       "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-      "score": 29.22228956743816,
-      "timestamp": "2026-02-23T06:00:41.930Z",
+      "score": 29.189413827512578,
+      "timestamp": "2026-02-23T12:00:45.604Z",
       "metadata": {
-        "points": 465,
-        "comments": 378
+        "points": 654,
+        "comments": 549
       }
     },
     {
@@ -20,7 +20,7 @@
       "title": "Why Kubernetes 1.35 is a game-changer for stateful workload scaling",
       "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/f4366d87-ruliff-andrean-rmxjbihxjws-unsplash-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"An isometric 3D illustration of a computer network on a solid blue background. A central platfor",
       "url": "https://thenewstack.io/kubernetes-vpa-inplace-resize/",
-      "score": 20.0431197858489,
+      "score": 20.03352616767787,
       "timestamp": "2026-02-21T16:00:20.000Z",
       "metadata": {
         "author": "The New Stack",
@@ -28,42 +28,29 @@
       }
     },
     {
+      "id": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+      "source": "hackernews",
+      "title": "Pope tells priests to use their brains, not AI, to write homilies",
+      "description": "Hacker News submission with 257 points and 222 comments.",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+      "score": 19.189413827512578,
+      "timestamp": "2026-02-23T12:00:45.604Z",
+      "metadata": {
+        "points": 257,
+        "comments": 222
+      }
+    },
+    {
       "id": "https://www.popsci.com/technology/robot-vacuum-army/",
       "source": "hackernews",
       "title": "Man accidentally gains control of 7k robot vacuums",
-      "description": "Hacker News submission with 246 points and 142 comments.",
+      "description": "Hacker News submission with 307 points and 171 comments.",
       "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-      "score": 18.946732934359147,
-      "timestamp": "2026-02-23T06:00:41.930Z",
+      "score": 19.189413827512578,
+      "timestamp": "2026-02-23T12:00:45.604Z",
       "metadata": {
-        "points": 246,
-        "comments": 142
-      }
-    },
-    {
-      "id": "https://github.com/vxcontrol/pentagi",
-      "source": "github_trends",
-      "title": "vxcontrol / pentagi",
-      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "score": 18.35366219724684,
-      "timestamp": "2026-02-23T06:00:42.419Z",
-      "metadata": {
-        "stars": 1579,
-        "language": "Go"
-      }
-    },
-    {
-      "id": "https://github.com/anthropics/claude-code",
-      "source": "github_trends",
-      "title": "anthropics / claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code",
-      "score": 18.35366219724684,
-      "timestamp": "2026-02-23T06:00:42.419Z",
-      "metadata": {
-        "stars": 503,
-        "language": "Shell"
+        "points": 307,
+        "comments": 171
       }
     },
     {
@@ -72,49 +59,101 @@
       "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 18.35366219724684,
-      "timestamp": "2026-02-23T06:00:42.419Z",
+      "score": 18.325037266412757,
+      "timestamp": "2026-02-23T12:00:45.751Z",
       "metadata": {
         "stars": 1134
+      }
+    },
+    {
+      "id": "https://github.com/VectifyAI/PageIndex",
+      "source": "github_trends",
+      "title": "VectifyAI / PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "score": 18.325037266412757,
+      "timestamp": "2026-02-23T12:00:45.751Z",
+      "metadata": {
+        "stars": 552,
+        "language": "Python"
       }
     },
     {
       "id": "https://hawksley.org/2026/02/17/timeframe.html",
       "source": "hackernews",
       "title": "I built Timeframe, our family e-paper dashboard",
-      "description": "Hacker News submission with 857 points and 215 comments.",
+      "description": "Hacker News submission with 1193 points and 297 comments.",
       "url": "https://hawksley.org/2026/02/17/timeframe.html",
-      "score": 17.22228956743816,
-      "timestamp": "2026-02-23T06:00:41.930Z",
+      "score": 17.189413827512578,
+      "timestamp": "2026-02-23T12:00:45.604Z",
       "metadata": {
-        "points": 857,
-        "comments": 215
+        "points": 1193,
+        "comments": 297
+      }
+    },
+    {
+      "id": "https://cia-factbook-archive.fly.dev/",
+      "source": "hackernews",
+      "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
+      "description": "Hacker News submission with 357 points and 80 comments.",
+      "url": "https://cia-factbook-archive.fly.dev/",
+      "score": 17.189413827512578,
+      "timestamp": "2026-02-23T12:00:45.604Z",
+      "metadata": {
+        "points": 357,
+        "comments": 80
       }
     },
     {
       "id": "https://joinloops.org/",
       "source": "hackernews",
       "title": "Loops is a federated, open-source TikTok",
-      "description": "Hacker News submission with 339 points and 190 comments.",
+      "description": "Hacker News submission with 452 points and 306 comments.",
       "url": "https://joinloops.org/",
-      "score": 17.22228956743816,
-      "timestamp": "2026-02-23T06:00:41.930Z",
+      "score": 17.189413827512578,
+      "timestamp": "2026-02-23T12:00:45.604Z",
       "metadata": {
-        "points": 339,
-        "comments": 190
+        "points": 452,
+        "comments": 306
       }
     },
     {
-      "id": "https://susam.net/attention-media-vs-social-networks.html",
+      "id": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
       "source": "hackernews",
-      "title": "Attention Media ≠ Social Networks",
-      "description": "Hacker News submission with 578 points and 245 comments.",
-      "url": "https://susam.net/attention-media-vs-social-networks.html",
-      "score": 17.22228956743816,
-      "timestamp": "2026-02-23T06:00:41.930Z",
+      "title": "My journey to the microwave alternate timeline",
+      "description": "Hacker News submission with 265 points and 104 comments.",
+      "url": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
+      "score": 17.189413827512578,
+      "timestamp": "2026-02-23T12:00:45.604Z",
       "metadata": {
-        "points": 578,
-        "comments": 245
+        "points": 265,
+        "comments": 104
+      }
+    },
+    {
+      "id": "https://ochagavia.nl/blog/fix-your-tools/",
+      "source": "hackernews",
+      "title": "Fix your tools",
+      "description": "Hacker News submission with 254 points and 80 comments.",
+      "url": "https://ochagavia.nl/blog/fix-your-tools/",
+      "score": 17.189413827512578,
+      "timestamp": "2026-02-23T12:00:45.604Z",
+      "metadata": {
+        "points": 254,
+        "comments": 80
+      }
+    },
+    {
+      "id": "https://ladybird.org/posts/adopting-rust/",
+      "source": "hackernews",
+      "title": "Ladybird Browser adopts Rust",
+      "description": "Hacker News submission with 96 points and 20 comments.",
+      "url": "https://ladybird.org/posts/adopting-rust/",
+      "score": 16.60073490976483,
+      "timestamp": "2026-02-23T12:00:45.604Z",
+      "metadata": {
+        "points": 96,
+        "comments": 20
       }
     },
     {
@@ -123,11 +162,37 @@
       "title": "cloudflare / agents",
       "description": "Build and deploy AI Agents on Cloudflare",
       "url": "https://github.com/cloudflare/agents",
-      "score": 16.377782369384875,
-      "timestamp": "2026-02-23T06:00:42.419Z",
+      "score": 16.363069154936156,
+      "timestamp": "2026-02-23T12:00:45.751Z",
       "metadata": {
         "stars": 257,
         "language": "TypeScript"
+      }
+    },
+    {
+      "id": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "source": "github_trends",
+      "title": "muratcankoylan / Agent-Skills-for-Context-Engineering",
+      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "score": 16.21156095632535,
+      "timestamp": "2026-02-23T12:00:45.751Z",
+      "metadata": {
+        "stars": 147,
+        "language": "Python"
+      }
+    },
+    {
+      "id": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
+      "source": "hackernews",
+      "title": "Six Math Essentials",
+      "description": "Hacker News submission with 235 points and 53 comments.",
+      "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
+      "score": 16.158048997861826,
+      "timestamp": "2026-02-23T12:00:45.604Z",
+      "metadata": {
+        "points": 235,
+        "comments": 53
       }
     },
     {
@@ -136,37 +201,11 @@
       "title": "abhigyanpatwari / GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "score": 16.17190554326532,
-      "timestamp": "2026-02-23T06:00:42.419Z",
+      "score": 16.147631601918018,
+      "timestamp": "2026-02-23T12:00:45.751Z",
       "metadata": {
         "stars": 424,
         "language": "TypeScript"
-      }
-    },
-    {
-      "id": "https://cia-factbook-archive.fly.dev/",
-      "source": "hackernews",
-      "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
-      "description": "Hacker News submission with 230 points and 57 comments.",
-      "url": "https://cia-factbook-archive.fly.dev/",
-      "score": 15.844506402043105,
-      "timestamp": "2026-02-23T06:00:41.930Z",
-      "metadata": {
-        "points": 230,
-        "comments": 57
-      }
-    },
-    {
-      "id": "https://shuru.run",
-      "source": "hackernews",
-      "title": "Show HN: Local-First Linux MicroVMs for macOS",
-      "description": "Hacker News submission with 151 points and 43 comments.",
-      "url": "https://shuru.run",
-      "score": 15.402262898732648,
-      "timestamp": "2026-02-23T06:00:41.930Z",
-      "metadata": {
-        "points": 151,
-        "comments": 43
       }
     },
     {
@@ -175,7 +214,7 @@
       "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
       "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.003784355058654,
+      "score": 15.003533536792101,
       "timestamp": "2026-02-16T21:25:23.000Z",
       "metadata": {
         "author": "AWS News",
@@ -183,16 +222,29 @@
       }
     },
     {
-      "id": "https://ochagavia.nl/blog/fix-your-tools/",
+      "id": "https://oxc.rs/",
       "source": "hackernews",
-      "title": "Fix your tools",
-      "description": "Hacker News submission with 212 points and 76 comments.",
-      "url": "https://ochagavia.nl/blog/fix-your-tools/",
-      "score": 14.604501553187557,
-      "timestamp": "2026-02-23T06:00:41.930Z",
+      "title": "The JavaScript Oxidation Compiler",
+      "description": "Hacker News submission with 195 points and 91 comments.",
+      "url": "https://oxc.rs/",
+      "score": 13.407742785459812,
+      "timestamp": "2026-02-23T12:00:45.604Z",
       "metadata": {
-        "points": 212,
-        "comments": 76
+        "points": 195,
+        "comments": 91
+      }
+    },
+    {
+      "id": "https://github.com/f/prompts.chat",
+      "source": "github_trends",
+      "title": "f / prompts.chat",
+      "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 12.892533539771483,
+      "timestamp": "2026-02-23T12:00:45.751Z",
+      "metadata": {
+        "stars": 450,
+        "language": "HTML"
       }
     },
     {
@@ -201,63 +253,11 @@
       "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
       "description": "Amazon EC2 Hpc8a instances, powered by 5th Gen AMD EPYC processors, deliver up to 40% higher performance, increased memory bandwidth, and 300 Gbps Elastic Fabric Adapter networking, helping customers accelerate compute-intensive simulations, engineering workloads, and tightly coupled HPC application",
       "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/",
-      "score": 12.003864401078395,
+      "score": 12.003605439558513,
       "timestamp": "2026-02-16T23:12:37.000Z",
       "metadata": {
         "author": "AWS News",
         "category": "CLOUD"
-      }
-    },
-    {
-      "id": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
-      "source": "hackernews",
-      "title": "Linuxulator on FreeBSD Feels Like Magic",
-      "description": "Hacker News submission with 95 points and 32 comments.",
-      "url": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
-      "score": 11.5444700356265,
-      "timestamp": "2026-02-23T06:00:41.930Z",
-      "metadata": {
-        "points": 95,
-        "comments": 32
-      }
-    },
-    {
-      "id": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-      "source": "hackernews",
-      "title": "NanoClaw moved from Apple Containers to Docker",
-      "description": "Hacker News submission with 135 points and 103 comments.",
-      "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-      "score": 11.300036366416606,
-      "timestamp": "2026-02-23T06:00:41.930Z",
-      "metadata": {
-        "points": 135,
-        "comments": 103
-      }
-    },
-    {
-      "id": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
-      "source": "hackernews",
-      "title": "Six Math Essentials",
-      "description": "Hacker News submission with 162 points and 31 comments.",
-      "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
-      "score": 11.160043639699927,
-      "timestamp": "2026-02-23T06:00:41.930Z",
-      "metadata": {
-        "points": 162,
-        "comments": 31
-      }
-    },
-    {
-      "id": "https://github.com/huggingface/skills",
-      "source": "github_trends",
-      "title": "huggingface / skills",
-      "description": "",
-      "url": "https://github.com/huggingface/skills",
-      "score": 10.4494660795957,
-      "timestamp": "2026-02-23T06:00:42.419Z",
-      "metadata": {
-        "stars": 364,
-        "language": "Python"
       }
     }
   ]
