@@ -1,6 +1,7 @@
-import { ArrowUpRight, Flame, Rocket } from "lucide-react";
+import { ArrowUpRight, Flame, Rocket, Activity, Hash, Layers } from "lucide-react";
 import type { Trend } from "../types";
 import { cn } from "../lib/utils";
+import { getMatchedTopics } from "../lib/topics";
 
 interface SignalCardProps {
     trend: Trend;
@@ -17,6 +18,8 @@ export function SignalCard({ trend }: SignalCardProps) {
         .replace("[🚀 BURST]", "")
         .replace("[COMBINED]", "")
         .trim();
+
+    const matchedTopics = getMatchedTopics(trend.title + ' ' + trend.description);
 
     return (
         <div className={cn(
@@ -72,20 +75,56 @@ export function SignalCard({ trend }: SignalCardProps) {
                 )}
             </div>
 
-            {/* Footer / Meta */}
-            <div className="flex items-center justify-between border-t border-gray-100 pt-4 mt-auto">
-                <div className="flex flex-wrap gap-2">
-                    {/* Extract tags from metadata if available, otherwise heuristics */}
-                    {Object.keys(trend.metadata).map((key) => {
-                        if (key === "stars" || key === "points" || key === "comments" || key === "raw_score") return null;
+            {/* Footer / Meta (Signal Drivers - Bloomberg Style) */}
+            <div className="flex flex-col gap-3 border-t border-gray-200 pt-4 mt-auto">
+                <div className="flex items-center justify-between text-[10px] font-mono font-bold text-gray-400 tracking-widest uppercase">
+                    <span>Signal Drivers</span>
+                    <Activity size={12} className={isBurst ? 'text-accent' : 'text-gray-400'} />
+                </div>
+
+                <div className="flex flex-wrap gap-2 text-xs font-mono">
+                    {/* Display Extracted Metadata metrics if available */}
+                    {Object.entries(trend.metadata).map(([key, value]) => {
+                        if (key === "raw_score") return null;
+
+                        // Treat known engagement metrics with special styling
+                        const isEngagement = ['stars', 'points', 'comments', 'upvotes', 'reactions'].includes(key);
+
                         return (
-                            <span key={key} className="text-xs text-gray-400 font-mono lowercase">
-                                #{key}
-                            </span>
+                            <div key={key} className={cn(
+                                "flex items-center gap-1.5 border px-2 py-1",
+                                isEngagement ? "border-accent/30 bg-accent/5 text-black" : "border-gray-200 bg-gray-50 text-gray-500"
+                            )}>
+                                <span className="opacity-70 uppercase tracking-tight">{key.substring(0, 3)}</span>
+                                <span className={cn("font-bold", isEngagement ? "text-accent" : "text-black")}>
+                                    {typeof value === 'number' && value > 999
+                                        ? (value / 1000).toFixed(1) + 'k'
+                                        : typeof value === 'string' && value.length > 15
+                                            ? value.substring(0, 15) + '...'
+                                            : String(value)}
+                                </span>
+                            </div>
                         );
                     })}
-                    {/* Heuristic Tags - Removed source indicators */}
+
+                    {/* Display Matched Topics */}
+                    {matchedTopics.map(topic => (
+                        <div key={topic} className="flex items-center gap-1 border border-black px-2 py-1 bg-black text-white">
+                            <Layers size={10} className="opacity-50" />
+                            <span className="font-bold tracking-tight">{topic}</span>
+                        </div>
+                    ))}
+
+                    {/* Source explicitly called out */}
+                    <div className="flex items-center gap-1 border border-gray-300 px-2 py-1 bg-white text-gray-600">
+                        <Hash size={10} className="opacity-50" />
+                        <span className="font-bold tracking-tight">{trend.source}</span>
+                    </div>
                 </div>
+            </div>
+
+            {/* Link out */}
+            <div className="flex justify-end pt-3 mt-3 border-t border-gray-100">
 
                 <a
                     href={trend.url}

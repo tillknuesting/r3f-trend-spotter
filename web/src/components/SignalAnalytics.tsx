@@ -12,6 +12,7 @@ import {
 } from 'recharts';
 import { motion } from 'framer-motion';
 import type { Trend } from '../types';
+import { topics } from '../lib/topics';
 
 interface SignalAnalyticsProps {
     trends: Trend[];
@@ -21,14 +22,6 @@ interface SignalAnalyticsProps {
 
 export function SignalAnalytics({ trends, onCategorySelect, selectedCategory }: SignalAnalyticsProps) {
     // 1. Calculate Topic Dominance (Radar Chart)
-    const topics = [
-        { name: 'AI/AGENTS', keywords: ['ai', 'llm', 'gpt', 'genai', 'rag', 'agent', 'model', 'inference', 'machine learning', 'copilot'] },
-        { name: 'CLOUD/INFRA', keywords: ['cloud', 'aws', 'kubernetes', 'k8s', 'terraform', 'docker', 'infrastructure', 'serverless', 'container', 'cluster', 'zvec', 'vector database'] },
-        { name: 'LANGUAGES', keywords: ['go ', 'golang', 'rust', 'python', 'typescript', 'javascript', 'wasm', 'c++', 'zig'] },
-        { name: 'DATA/VEC', keywords: ['database', 'sql', 'postgres', 'vector', 'data', 'parquet', 'etl', 'storage', 'store', 's3', 'db'] },
-        { name: 'DEVOPS', keywords: ['devops', 'ci/cd', 'observability', 'monitoring', 'platform', 'sre', 'pipeline', 'deployment'] },
-        { name: 'SECURITY', keywords: ['security', 'vulnerability', 'auth', 'iam', 'hack', 'attack', 'cve', 'privacy'] },
-    ];
 
     const radarData = topics.map(topic => {
         let score = 0;
@@ -84,7 +77,7 @@ export function SignalAnalytics({ trends, onCategorySelect, selectedCategory }: 
                                 cy="50%"
                                 outerRadius="70%"
                                 data={radarData}
-                                onClick={(data) => {
+                                onClick={(data: any) => {
                                     if (data && data.activePayload && data.activePayload[0]) {
                                         const payload = data.activePayload[0].payload;
                                         if (onCategorySelect) {
