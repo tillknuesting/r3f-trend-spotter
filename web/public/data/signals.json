@@ -1,43 +1,30 @@
 {
-  "generated_at": "2026-02-23T18:00:39.206Z",
+  "generated_at": "2026-02-24T00:00:51.891Z",
   "trends": [
+    {
+      "id": "https://ladybird.org/posts/adopting-rust/",
+      "source": "hackernews",
+      "title": "Ladybird adopts Rust",
+      "description": "Hacker News submission with 1022 points and 565 comments.",
+      "url": "https://ladybird.org/posts/adopting-rust/",
+      "score": 27.194998689442105,
+      "timestamp": "2026-02-24T00:00:43.642Z",
+      "metadata": {
+        "points": 1022,
+        "comments": 565
+      }
+    },
     {
       "id": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/",
       "source": "tech_blogs",
       "title": "AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)",
       "description": "Last week, my team met many developers at Developer Week in San Jose. My colleague, Vinicius Senger delivered a great keynote about renascent software—a new way of building and evolving applications where humans and AI collaborate as co-developers using Kiro. Other colleagues spoke about building an",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/",
-      "score": 28.379637141147867,
+      "score": 24.62293174753958,
       "timestamp": "2026-02-23T16:56:24.000Z",
       "metadata": {
         "author": "AWS News",
         "category": "CLOUD"
-      }
-    },
-    {
-      "id": "https://ladybird.org/posts/adopting-rust/",
-      "source": "hackernews",
-      "title": "Ladybird Browser adopts Rust",
-      "description": "Hacker News submission with 728 points and 370 comments.",
-      "url": "https://ladybird.org/posts/adopting-rust/",
-      "score": 27.224373110445377,
-      "timestamp": "2026-02-23T18:00:37.789Z",
-      "metadata": {
-        "points": 728,
-        "comments": 370
-      }
-    },
-    {
-      "id": "https://thenewstack.io/kubernetes-vpa-inplace-resize/",
-      "source": "tech_blogs",
-      "title": "Why Kubernetes 1.35 is a game-changer for stateful workload scaling",
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/f4366d87-ruliff-andrean-rmxjbihxjws-unsplash-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"An isometric 3D illustration of a computer network on a solid blue background. A central platfor",
-      "url": "https://thenewstack.io/kubernetes-vpa-inplace-resize/",
-      "score": 20.02689228609989,
-      "timestamp": "2026-02-21T16:00:20.000Z",
-      "metadata": {
-        "author": "The New Stack",
-        "category": "ENGINEERING"
       }
     },
     {
@@ -46,10 +33,10 @@
       "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 18.358682771710228,
-      "timestamp": "2026-02-23T18:00:39.193Z",
+      "score": 18.331269791664205,
+      "timestamp": "2026-02-24T00:00:44.230Z",
       "metadata": {
-        "stars": 2447
+        "stars": 2454
       }
     },
     {
@@ -58,10 +45,10 @@
       "title": "VectifyAI / PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "url": "https://github.com/VectifyAI/PageIndex",
-      "score": 18.358682771710228,
-      "timestamp": "2026-02-23T18:00:39.193Z",
+      "score": 18.331269791664205,
+      "timestamp": "2026-02-24T00:00:44.230Z",
       "metadata": {
-        "stars": 552,
+        "stars": 624,
         "language": "Python"
       }
     },
@@ -71,10 +58,10 @@
       "title": "cloudflare / agents",
       "description": "Build and deploy AI Agents on Cloudflare",
       "url": "https://github.com/cloudflare/agents",
-      "score": 17.988535415090602,
-      "timestamp": "2026-02-23T18:00:39.193Z",
+      "score": 18.114687587498437,
+      "timestamp": "2026-02-24T00:00:44.230Z",
       "metadata": {
-        "stars": 313,
+        "stars": 318,
         "language": "TypeScript"
       }
     },
@@ -84,10 +71,10 @@
       "title": "OpenBB-finance / OpenBB",
       "description": "Financial data platform for analysts, quants and AI agents.",
       "url": "https://github.com/OpenBB-finance/OpenBB",
-      "score": 17.525879170951036,
-      "timestamp": "2026-02-23T18:00:39.193Z",
+      "score": 17.471393604164355,
+      "timestamp": "2026-02-24T00:00:44.230Z",
       "metadata": {
-        "stars": 471,
+        "stars": 470,
         "language": "Python"
       }
     },
@@ -97,10 +84,10 @@
       "title": "abhigyanpatwari / GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "score": 17.353574977690513,
-      "timestamp": "2026-02-23T18:00:39.193Z",
+      "score": 17.385405985414373,
+      "timestamp": "2026-02-24T00:00:44.230Z",
       "metadata": {
-        "stars": 465,
+        "stars": 467,
         "language": "TypeScript"
       }
     },
@@ -108,78 +95,65 @@
       "id": "https://spectrum.ieee.org/age-verification",
       "source": "hackernews",
       "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-      "description": "Hacker News submission with 601 points and 479 comments.",
+      "description": "Hacker News submission with 1129 points and 905 comments.",
       "url": "https://spectrum.ieee.org/age-verification",
-      "score": 17.224373110445377,
-      "timestamp": "2026-02-23T18:00:37.789Z",
+      "score": 17.194998689442105,
+      "timestamp": "2026-02-24T00:00:43.642Z",
       "metadata": {
-        "points": 601,
-        "comments": 479
+        "points": 1129,
+        "comments": 905
       }
     },
     {
       "id": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
       "source": "hackernews",
       "title": "Elsevier shuts down its finance journal citation cartel",
-      "description": "Hacker News submission with 403 points and 76 comments.",
+      "description": "Hacker News submission with 513 points and 95 comments.",
       "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
-      "score": 17.224373110445377,
-      "timestamp": "2026-02-23T18:00:37.789Z",
+      "score": 17.194998689442105,
+      "timestamp": "2026-02-24T00:00:43.642Z",
       "metadata": {
-        "points": 403,
-        "comments": 76
+        "points": 513,
+        "comments": 95
       }
     },
     {
-      "id": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
+      "id": "https://magicalmushroom.com/index",
       "source": "hackernews",
-      "title": "Sub-$200 Lidar could reshuffle auto sensor economics",
-      "description": "Hacker News submission with 297 points and 401 comments.",
-      "url": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
-      "score": 17.224373110445377,
-      "timestamp": "2026-02-23T18:00:37.789Z",
+      "title": "Magical Mushroom – Europe's first industrial-scale mycelium packaging producer",
+      "description": "Hacker News submission with 342 points and 111 comments.",
+      "url": "https://magicalmushroom.com/index",
+      "score": 17.194998689442105,
+      "timestamp": "2026-02-24T00:00:43.642Z",
       "metadata": {
-        "points": 297,
-        "comments": 401
+        "points": 342,
+        "comments": 111
       }
     },
     {
-      "id": "https://play0ad.com/new-release-0-a-d-release-28-boiorix/",
+      "id": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
       "source": "hackernews",
-      "title": "0 A.D. Release 28: Boiorix",
-      "description": "Hacker News submission with 270 points and 85 comments.",
-      "url": "https://play0ad.com/new-release-0-a-d-release-28-boiorix/",
-      "score": 17.224373110445377,
-      "timestamp": "2026-02-23T18:00:37.789Z",
+      "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
+      "description": "Hacker News submission with 346 points and 151 comments.",
+      "url": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+      "score": 17.194998689442105,
+      "timestamp": "2026-02-24T00:00:43.642Z",
       "metadata": {
-        "points": 270,
-        "comments": 85
+        "points": 346,
+        "comments": 151
       }
     },
     {
-      "id": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
+      "id": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
       "source": "hackernews",
-      "title": "My journey to the microwave alternate timeline",
-      "description": "Hacker News submission with 332 points and 145 comments.",
-      "url": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
-      "score": 17.224373110445377,
-      "timestamp": "2026-02-23T18:00:37.789Z",
+      "title": "Americans are destroying Flock surveillance cameras",
+      "description": "Hacker News submission with 519 points and 336 comments.",
+      "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+      "score": 17.194998689442105,
+      "timestamp": "2026-02-24T00:00:43.642Z",
       "metadata": {
-        "points": 332,
-        "comments": 145
-      }
-    },
-    {
-      "id": "https://hawksley.org/2026/02/17/timeframe.html",
-      "source": "hackernews",
-      "title": "I built Timeframe, our family e-paper dashboard",
-      "description": "Hacker News submission with 1403 points and 328 comments.",
-      "url": "https://hawksley.org/2026/02/17/timeframe.html",
-      "score": 17.224373110445377,
-      "timestamp": "2026-02-23T18:00:37.789Z",
-      "metadata": {
-        "points": 1403,
-        "comments": 328
+        "points": 519,
+        "comments": 336
       }
     },
     {
@@ -188,37 +162,63 @@
       "title": "muratcankoylan / Agent-Skills-for-Context-Engineering",
       "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
       "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "score": 16.221452734882806,
-      "timestamp": "2026-02-23T18:00:39.193Z",
+      "score": 17.10193204583246,
+      "timestamp": "2026-02-24T00:00:44.230Z",
       "metadata": {
-        "stars": 147,
+        "stars": 178,
         "language": "Python"
       }
     },
     {
-      "id": "https://magicalmushroom.com/index",
-      "source": "hackernews",
-      "title": "Magical Mushroom – Europe's first industrial-scale mycelium packaging producer",
-      "description": "Hacker News submission with 231 points and 84 comments.",
-      "url": "https://magicalmushroom.com/index",
-      "score": 15.915320754051532,
-      "timestamp": "2026-02-23T18:00:37.789Z",
+      "id": "https://thenewstack.io/pentagon-anthropic-model-orchestration/",
+      "source": "tech_blogs",
+      "title": "The Pentagon’s Anthropic problem is every enterprise’s AI problem",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/18fd6a7f-getty-images-zqpqfatuzpa-unsplash-1-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 20px;max-width: 100%;\" link_thumbnail=\"\" d",
+      "url": "https://thenewstack.io/pentagon-anthropic-model-orchestration/",
+      "score": 16.568524492850166,
+      "timestamp": "2026-02-23T23:00:53.000Z",
       "metadata": {
-        "points": 231,
-        "comments": 84
+        "author": "The New Stack",
+        "category": "ENGINEERING"
       }
     },
     {
-      "id": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "source": "tech_blogs",
-      "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
-      "description": "AWS launches Amazon SageMaker Inference for custom Amazon Nova models. You can now configure the instance types, auto-scaling policies, and concurrency settings for custom Nova model deployments to best meet their needs.",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
-      "score": 15.003307927850464,
-      "timestamp": "2026-02-16T21:25:23.000Z",
+      "id": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/",
+      "source": "hackernews",
+      "title": "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
+      "description": "Hacker News submission with 227 points and 58 comments.",
+      "url": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/",
+      "score": 15.613058810013431,
+      "timestamp": "2026-02-24T00:00:43.642Z",
       "metadata": {
-        "author": "AWS News",
-        "category": "CLOUD"
+        "points": 227,
+        "comments": 58
+      }
+    },
+    {
+      "id": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
+      "source": "hackernews",
+      "title": "Benchmarks for concurrent hash map implementations in Go",
+      "description": "Hacker News submission with 78 points and 7 comments.",
+      "url": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
+      "score": 15.364839591105937,
+      "timestamp": "2026-02-24T00:00:43.642Z",
+      "metadata": {
+        "points": 78,
+        "comments": 7
+      }
+    },
+    {
+      "id": "https://sabrinas.space",
+      "source": "hackernews",
+      "title": "The peculiar case of Japanese web design (2022)",
+      "description": "Hacker News submission with 212 points and 97 comments.",
+      "url": "https://sabrinas.space",
+      "score": 14.581358888646903,
+      "timestamp": "2026-02-24T00:00:43.642Z",
+      "metadata": {
+        "points": 212,
+        "comments": 97
       }
     },
     {
@@ -227,37 +227,37 @@
       "title": "huggingface / skills",
       "description": "",
       "url": "https://github.com/huggingface/skills",
-      "score": 14.358682771710226,
-      "timestamp": "2026-02-23T18:00:39.193Z",
+      "score": 14.331269791664207,
+      "timestamp": "2026-02-24T00:00:44.230Z",
       "metadata": {
-        "stars": 1470,
+        "stars": 1451,
         "language": "Python"
       }
     },
     {
-      "id": "https://www.youtube.com/watch?v=bZJ7A1QoUEI",
+      "id": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
       "source": "hackernews",
-      "title": "AI is destroying open source, and it's not even good yet [video]",
-      "description": "Hacker News submission with 21 points and 7 comments.",
-      "url": "https://www.youtube.com/watch?v=bZJ7A1QoUEI",
-      "score": 13.446847341277412,
-      "timestamp": "2026-02-23T18:00:37.789Z",
+      "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
+      "description": "Hacker News submission with 32 points and 2 comments.",
+      "url": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
+      "score": 14.20095983224859,
+      "timestamp": "2026-02-24T00:00:43.642Z",
       "metadata": {
-        "points": 21,
-        "comments": 7
+        "points": 32,
+        "comments": 2
       }
     },
     {
-      "id": "https://thenewstack.io/coding-agents-feedback-signals/",
-      "source": "tech_blogs",
-      "title": "Coding agents are only as good as the signals you feed them",
-      "description": "<img width=\"1024\" height=\"819\" src=\"https://cdn.thenewstack.io/media/2026/02/3ed15862-barsrsind-f3qljhpjin8-unsplash-1024x819.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"Illustration of vehicles on an infinity-shaped road, representing the endless, manual feedback loop w",
-      "url": "https://thenewstack.io/coding-agents-feedback-signals/",
-      "score": 12.780457842625632,
-      "timestamp": "2026-02-23T12:00:17.000Z",
+      "id": "https://terezi.pyrope.net/ccgoto/",
+      "source": "hackernews",
+      "title": "Emulating Goto in Scheme with Continuations",
+      "description": "Hacker News submission with 45 points and 16 comments.",
+      "url": "https://terezi.pyrope.net/ccgoto/",
+      "score": 13.09509976409958,
+      "timestamp": "2026-02-24T00:00:43.642Z",
       "metadata": {
-        "author": "The New Stack",
-        "category": "ENGINEERING"
+        "points": 45,
+        "comments": 16
       }
     }
   ]
