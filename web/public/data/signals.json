@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-02-24T00:00:51.891Z",
+  "generated_at": "2026-02-24T06:00:27.154Z",
   "trends": [
     {
       "id": "https://ladybird.org/posts/adopting-rust/",
       "source": "hackernews",
-      "title": "Ladybird adopts Rust",
-      "description": "Hacker News submission with 1022 points and 565 comments.",
+      "title": "Ladybird adopts Rust, with help from AI",
+      "description": "Hacker News submission with 1130 points and 619 comments.",
       "url": "https://ladybird.org/posts/adopting-rust/",
-      "score": 27.194998689442105,
-      "timestamp": "2026-02-24T00:00:43.642Z",
+      "score": 29.223365728712807,
+      "timestamp": "2026-02-24T06:00:25.503Z",
       "metadata": {
-        "points": 1022,
-        "comments": 565
+        "points": 1130,
+        "comments": 619
       }
     },
     {
@@ -20,11 +20,24 @@
       "title": "AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)",
       "description": "Last week, my team met many developers at Developer Week in San Jose. My colleague, Vinicius Senger delivered a great keynote about renascent software—a new way of building and evolving applications where humans and AI collaborate as co-developers using Kiro. Other colleagues spoke about building an",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/",
-      "score": 24.62293174753958,
+      "score": 24.25005616150271,
       "timestamp": "2026-02-23T16:56:24.000Z",
       "metadata": {
         "author": "AWS News",
         "category": "CLOUD"
+      }
+    },
+    {
+      "id": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "source": "hackernews",
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
+      "description": "Hacker News submission with 321 points and 266 comments.",
+      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "score": 19.223365728712807,
+      "timestamp": "2026-02-24T06:00:25.503Z",
+      "metadata": {
+        "points": 321,
+        "comments": 266
       }
     },
     {
@@ -33,8 +46,8 @@
       "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "score": 18.331269791664205,
-      "timestamp": "2026-02-24T00:00:44.230Z",
+      "score": 18.35835611804692,
+      "timestamp": "2026-02-24T06:00:27.050Z",
       "metadata": {
         "stars": 2454
       }
@@ -45,8 +58,8 @@
       "title": "VectifyAI / PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "url": "https://github.com/VectifyAI/PageIndex",
-      "score": 18.331269791664205,
-      "timestamp": "2026-02-24T00:00:44.230Z",
+      "score": 18.35835611804692,
+      "timestamp": "2026-02-24T06:00:27.050Z",
       "metadata": {
         "stars": 624,
         "language": "Python"
@@ -58,11 +71,24 @@
       "title": "cloudflare / agents",
       "description": "Build and deploy AI Agents on Cloudflare",
       "url": "https://github.com/cloudflare/agents",
-      "score": 18.114687587498437,
-      "timestamp": "2026-02-24T00:00:44.230Z",
+      "score": 18.131914491077843,
+      "timestamp": "2026-02-24T06:00:27.050Z",
       "metadata": {
         "stars": 318,
         "language": "TypeScript"
+      }
+    },
+    {
+      "id": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
+      "source": "hackernews",
+      "title": "What it means that Ubuntu is using Rust",
+      "description": "Hacker News submission with 115 points and 134 comments.",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
+      "score": 17.92274823520789,
+      "timestamp": "2026-02-24T06:00:25.503Z",
+      "metadata": {
+        "points": 115,
+        "comments": 134
       }
     },
     {
@@ -71,8 +97,8 @@
       "title": "OpenBB-finance / OpenBB",
       "description": "Financial data platform for analysts, quants and AI agents.",
       "url": "https://github.com/OpenBB-finance/OpenBB",
-      "score": 17.471393604164355,
-      "timestamp": "2026-02-24T00:00:44.230Z",
+      "score": 17.496854750964108,
+      "timestamp": "2026-02-24T06:00:27.050Z",
       "metadata": {
         "stars": 470,
         "language": "Python"
@@ -84,8 +110,8 @@
       "title": "abhigyanpatwari / GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "score": 17.385405985414373,
-      "timestamp": "2026-02-24T00:00:44.230Z",
+      "score": 17.410704614255827,
+      "timestamp": "2026-02-24T06:00:27.050Z",
       "metadata": {
         "stars": 467,
         "language": "TypeScript"
@@ -95,65 +121,13 @@
       "id": "https://spectrum.ieee.org/age-verification",
       "source": "hackernews",
       "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-      "description": "Hacker News submission with 1129 points and 905 comments.",
+      "description": "Hacker News submission with 1329 points and 1031 comments.",
       "url": "https://spectrum.ieee.org/age-verification",
-      "score": 17.194998689442105,
-      "timestamp": "2026-02-24T00:00:43.642Z",
+      "score": 17.223365728712807,
+      "timestamp": "2026-02-24T06:00:25.503Z",
       "metadata": {
-        "points": 1129,
-        "comments": 905
-      }
-    },
-    {
-      "id": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
-      "source": "hackernews",
-      "title": "Elsevier shuts down its finance journal citation cartel",
-      "description": "Hacker News submission with 513 points and 95 comments.",
-      "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
-      "score": 17.194998689442105,
-      "timestamp": "2026-02-24T00:00:43.642Z",
-      "metadata": {
-        "points": 513,
-        "comments": 95
-      }
-    },
-    {
-      "id": "https://magicalmushroom.com/index",
-      "source": "hackernews",
-      "title": "Magical Mushroom – Europe's first industrial-scale mycelium packaging producer",
-      "description": "Hacker News submission with 342 points and 111 comments.",
-      "url": "https://magicalmushroom.com/index",
-      "score": 17.194998689442105,
-      "timestamp": "2026-02-24T00:00:43.642Z",
-      "metadata": {
-        "points": 342,
-        "comments": 111
-      }
-    },
-    {
-      "id": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
-      "source": "hackernews",
-      "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
-      "description": "Hacker News submission with 346 points and 151 comments.",
-      "url": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
-      "score": 17.194998689442105,
-      "timestamp": "2026-02-24T00:00:43.642Z",
-      "metadata": {
-        "points": 346,
-        "comments": 151
-      }
-    },
-    {
-      "id": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
-      "source": "hackernews",
-      "title": "Americans are destroying Flock surveillance cameras",
-      "description": "Hacker News submission with 519 points and 336 comments.",
-      "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
-      "score": 17.194998689442105,
-      "timestamp": "2026-02-24T00:00:43.642Z",
-      "metadata": {
-        "points": 519,
-        "comments": 336
+        "points": 1329,
+        "comments": 1031
       }
     },
     {
@@ -162,63 +136,24 @@
       "title": "muratcankoylan / Agent-Skills-for-Context-Engineering",
       "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
       "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "score": 17.10193204583246,
-      "timestamp": "2026-02-24T00:00:44.230Z",
+      "score": 17.111574778024703,
+      "timestamp": "2026-02-24T06:00:27.050Z",
       "metadata": {
         "stars": 178,
         "language": "Python"
       }
     },
     {
-      "id": "https://thenewstack.io/pentagon-anthropic-model-orchestration/",
-      "source": "tech_blogs",
-      "title": "The Pentagon’s Anthropic problem is every enterprise’s AI problem",
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/18fd6a7f-getty-images-zqpqfatuzpa-unsplash-1-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 20px;max-width: 100%;\" link_thumbnail=\"\" d",
-      "url": "https://thenewstack.io/pentagon-anthropic-model-orchestration/",
-      "score": 16.568524492850166,
-      "timestamp": "2026-02-23T23:00:53.000Z",
-      "metadata": {
-        "author": "The New Stack",
-        "category": "ENGINEERING"
-      }
-    },
-    {
-      "id": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/",
+      "id": "https://github.com/pgdogdev/pgdog",
       "source": "hackernews",
-      "title": "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
-      "description": "Hacker News submission with 227 points and 58 comments.",
-      "url": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/",
-      "score": 15.613058810013431,
-      "timestamp": "2026-02-24T00:00:43.642Z",
+      "title": "Show HN: PgDog – Scale Postgres without changing the app",
+      "description": "Hacker News submission with 220 points and 50 comments.",
+      "url": "https://github.com/pgdogdev/pgdog",
+      "score": 15.15656184126727,
+      "timestamp": "2026-02-24T06:00:25.503Z",
       "metadata": {
-        "points": 227,
-        "comments": 58
-      }
-    },
-    {
-      "id": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
-      "source": "hackernews",
-      "title": "Benchmarks for concurrent hash map implementations in Go",
-      "description": "Hacker News submission with 78 points and 7 comments.",
-      "url": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
-      "score": 15.364839591105937,
-      "timestamp": "2026-02-24T00:00:43.642Z",
-      "metadata": {
-        "points": 78,
-        "comments": 7
-      }
-    },
-    {
-      "id": "https://sabrinas.space",
-      "source": "hackernews",
-      "title": "The peculiar case of Japanese web design (2022)",
-      "description": "Hacker News submission with 212 points and 97 comments.",
-      "url": "https://sabrinas.space",
-      "score": 14.581358888646903,
-      "timestamp": "2026-02-24T00:00:43.642Z",
-      "metadata": {
-        "points": 212,
-        "comments": 97
+        "points": 220,
+        "comments": 50
       }
     },
     {
@@ -227,37 +162,102 @@
       "title": "huggingface / skills",
       "description": "",
       "url": "https://github.com/huggingface/skills",
-      "score": 14.331269791664207,
-      "timestamp": "2026-02-24T00:00:44.230Z",
+      "score": 14.358356118046922,
+      "timestamp": "2026-02-24T06:00:27.050Z",
       "metadata": {
         "stars": 1451,
         "language": "Python"
       }
     },
     {
-      "id": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
+      "id": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
       "source": "hackernews",
-      "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
-      "description": "Hacker News submission with 32 points and 2 comments.",
-      "url": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
-      "score": 14.20095983224859,
-      "timestamp": "2026-02-24T00:00:43.642Z",
+      "title": "A simple web we own",
+      "description": "Hacker News submission with 201 points and 136 comments.",
+      "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
+      "score": 13.847586045885098,
+      "timestamp": "2026-02-24T06:00:25.503Z",
       "metadata": {
-        "points": 32,
-        "comments": 2
+        "points": 201,
+        "comments": 136
       }
     },
     {
-      "id": "https://terezi.pyrope.net/ccgoto/",
-      "source": "hackernews",
-      "title": "Emulating Goto in Scheme with Continuations",
-      "description": "Hacker News submission with 45 points and 16 comments.",
-      "url": "https://terezi.pyrope.net/ccgoto/",
-      "score": 13.09509976409958,
-      "timestamp": "2026-02-24T00:00:43.642Z",
+      "id": "https://thenewstack.io/pentagon-anthropic-model-orchestration/",
+      "source": "tech_blogs",
+      "title": "The Pentagon’s Anthropic problem is every enterprise’s AI problem",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://cdn.thenewstack.io/media/2026/02/18fd6a7f-getty-images-zqpqfatuzpa-unsplash-1-1024x576.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 20px;max-width: 100%;\" link_thumbnail=\"\" d",
+      "url": "https://thenewstack.io/pentagon-anthropic-model-orchestration/",
+      "score": 12.633142213731427,
+      "timestamp": "2026-02-23T23:00:53.000Z",
       "metadata": {
-        "points": 45,
-        "comments": 16
+        "author": "The New Stack",
+        "category": "ENGINEERING"
+      }
+    },
+    {
+      "id": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "source": "hackernews",
+      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "description": "Hacker News submission with 122 points and 60 comments.",
+      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "score": 12.405002475611848,
+      "timestamp": "2026-02-24T06:00:25.503Z",
+      "metadata": {
+        "points": 122,
+        "comments": 60
+      }
+    },
+    {
+      "id": "https://github.com/stan-smith/FossFLOW",
+      "source": "github_trends",
+      "title": "stan-smith / FossFLOW",
+      "description": "Make beautiful isometric infrastructure diagrams",
+      "url": "https://github.com/stan-smith/FossFLOW",
+      "score": 12.348186261520354,
+      "timestamp": "2026-02-24T06:00:27.050Z",
+      "metadata": {
+        "stars": 430,
+        "language": "TypeScript"
+      }
+    },
+    {
+      "id": "https://thenewstack.io/coding-agents-feedback-signals/",
+      "source": "tech_blogs",
+      "title": "Coding agents are only as good as the signals you feed them",
+      "description": "<img width=\"1024\" height=\"819\" src=\"https://cdn.thenewstack.io/media/2026/02/3ed15862-barsrsind-f3qljhpjin8-unsplash-1024x819.jpg\" class=\"webfeedsFeaturedVisual wp-post-image wp-stateless-item\" alt=\"Illustration of vehicles on an infinity-shaped road, representing the endless, manual feedback loop w",
+      "url": "https://thenewstack.io/coding-agents-feedback-signals/",
+      "score": 12.150158426882745,
+      "timestamp": "2026-02-23T12:00:17.000Z",
+      "metadata": {
+        "author": "The New Stack",
+        "category": "ENGINEERING"
+      }
+    },
+    {
+      "id": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+      "source": "hackernews",
+      "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
+      "description": "Hacker News submission with 164 points and 52 comments.",
+      "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+      "score": 11.2985279180356,
+      "timestamp": "2026-02-24T06:00:25.503Z",
+      "metadata": {
+        "points": 164,
+        "comments": 52
+      }
+    },
+    {
+      "id": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "source": "github_trends",
+      "title": "clash-verge-rev / clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "score": 11.077773137525327,
+      "timestamp": "2026-02-24T06:00:27.050Z",
+      "metadata": {
+        "stars": 142,
+        "language": "TypeScript"
       }
     }
   ]
