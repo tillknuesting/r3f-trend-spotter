@@ -43,18 +43,22 @@ export class HackerNewsCollector {
                 });
             });
 
-            return trends.map(t => ({
-                source: 'hackernews',
-                title: t.title,
-                description: `Hacker News submission with ${t.points} points and ${t.comments} comments.`,
-                url: t.url.startsWith('item?id=') ? `https://news.ycombinator.com/${t.url}` : t.url,
-                score: 0,
-                timestamp: new Date().toISOString(),
-                metadata: {
-                    points: t.points,
-                    comments: t.comments
-                }
-            }));
+            return trends.map(t => {
+                const fullUrl = t.url.startsWith('item?id=') ? `https://news.ycombinator.com/${t.url}` : t.url;
+                return {
+                    id: fullUrl,
+                    source: 'hackernews',
+                    title: t.title,
+                    description: `Hacker News submission with ${t.points} points and ${t.comments} comments.`,
+                    url: fullUrl,
+                    score: 0,
+                    timestamp: new Date().toISOString(),
+                    metadata: {
+                        points: t.points,
+                        comments: t.comments
+                    }
+                };
+            });
 
         } catch (e) {
             console.error('HN collection failed:', e);

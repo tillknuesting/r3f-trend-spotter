@@ -1,6 +1,20 @@
 import { Trend } from '../types';
 import puppeteer from '@cloudflare/puppeteer';
 
+function parseTraffic(s: string): number {
+    let cleaned = s.toLowerCase().replace('+', '').replace(' searches', '').trim();
+    let multiplier = 1.0;
+    if (cleaned.includes('k')) {
+        multiplier = 1000;
+        cleaned = cleaned.replace('k', '');
+    } else if (cleaned.includes('m')) {
+        multiplier = 1000000;
+        cleaned = cleaned.replace('m', '');
+    }
+    const val = parseFloat(cleaned);
+    return isNaN(val) ? 0 : val * multiplier;
+}
+
 export class GoogleTrendsCollector {
     constructor(private browser: puppeteer.Browser) { }
 
@@ -34,6 +48,7 @@ export class GoogleTrendsCollector {
             });
 
             return trends.map(t => ({
+                id: t.url,
                 source: 'google_trends',
                 title: t.title,
                 description: t.description || `Trending on Google Search (${t.volume} searches).`,
@@ -41,7 +56,8 @@ export class GoogleTrendsCollector {
                 score: 0,
                 timestamp: new Date().toISOString(),
                 metadata: {
-                    volume: t.volume
+                    volume: t.volume,
+                    trafficScore: parseTraffic(t.volume)
                 }
             }));
 

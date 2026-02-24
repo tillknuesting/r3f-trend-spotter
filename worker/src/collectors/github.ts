@@ -44,6 +44,7 @@ export class GitHubTrendsCollector {
             });
 
             return trends.map(t => ({
+                id: t.url,
                 source: 'github_trends',
                 title: t.title,
                 description: t.description,

@@ -1,18 +1,23 @@
 name = "r3f-trend-spotter-agent"
 main = "src/index.ts"
 compatibility_date = "2024-01-17"
+compatibility_flags = ["nodejs_compat"]
 
 # Enable Browser Rendering
-# Note: You must request access to this feature in the Cloudflare dashboard if currently in beta/restricted.
-browser_rendering_services = [
-  { binding = "BROWSER" }
-]
+[browser]
+binding = "BROWSER"
 
-# Schedule: Runs every 6 hours (matches "Daily" but gives fresher data during dev)
+# Schedule: Runs every 6 hours
 [triggers]
 crons = ["0 */6 * * *"]
 
 [vars]
 # Environment variables that don't need to be secret
 # Secrets (API keys) should be set via `wrangler secret put`
+GITHUB_OWNER = "tillknuesting"
+GITHUB_REPO = "r3f-trend-spotter"
+
+[[kv_namespaces]]
+binding = "SIGNALS_KV"
+id = "2c71ec141383458fa465e57164183e8b"
 

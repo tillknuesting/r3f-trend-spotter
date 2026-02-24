@@ -30,7 +30,7 @@ export class GitHubCommitter {
                 repo,
                 path,
                 message,
-                content: btoa(unescape(encodeURIComponent(content))), // Base64 encoding
+                content: btoa(String.fromCharCode(...new TextEncoder().encode(content))),
                 sha,
             });
 

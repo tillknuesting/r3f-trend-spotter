@@ -17,8 +17,6 @@ export class Scorer {
     ];
 
     private sourceWeights: Record<string, number> = {
-        "lobsters": 1.5,
-        "cncf_blog": 1.3,
         "hackernews": 1.2,
         "tech_blogs": 1.1,
         "github_trends": 1.0,
@@ -100,11 +98,12 @@ export class Scorer {
             case "github_trends":
                 baseMetricScore = Math.min(50.0, (meta.stars || 0) / 10.0);
                 break;
-            case "google_trends":
-                baseMetricScore = 10.0;
+            case "google_trends": {
+                const raw = meta.trafficScore || 0;
+                baseMetricScore = raw > 0 ? Math.min(50.0, Math.log10(raw) * 10) : 10.0;
                 break;
+            }
             case "tech_blogs":
-            case "cncf_blog":
                 baseMetricScore = 30.0;
                 break;
             case "devto":
@@ -114,7 +113,7 @@ export class Scorer {
                 baseMetricScore = 10.0;
         }
 
-        const ageHours = (Date.now() - new Date(t.timestamp).getTime()) / (1000 * 60 * 60);
+        const ageHours = Math.max(0, (Date.now() - new Date(t.timestamp).getTime()) / (1000 * 60 * 60));
         const gravityScore = baseMetricScore / Math.pow(ageHours + 2, 1.8);
 
         const weight = this.sourceWeights[t.source] || 1.0;
