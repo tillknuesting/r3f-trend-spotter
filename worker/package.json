@@ -17,10 +17,10 @@
         "wrangler": "^4.65.0"
     },
     "dependencies": {
-        "@cloudflare/puppeteer": "^0.0.13",
+        "@cloudflare/puppeteer": "^1.0.6",
         "@octokit/rest": "^20.0.2",
         "cheerio": "^1.0.0-rc.12",
         "openai": "^4.26.0",
-        "puppeteer-core": "^21.0.0"
+        "puppeteer-core": "^24.37.5"
     }
 }
